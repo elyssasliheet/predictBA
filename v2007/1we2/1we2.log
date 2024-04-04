@@ -1,0 +1,19 @@
+2024-02-28 14:07:16,654 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:16,654 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:16,654 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:16,655 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ADP.  Parsing as new residue.
+2024-02-28 14:07:16,655 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DHK.  Parsing as new residue.
+2024-02-28 14:07:16,671 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue THR A 115
+2024-02-28 14:07:16,671 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG1 in residue THR A 115
+2024-02-28 14:07:16,671 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue THR A 115
+2024-02-28 14:07:16,671 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 166
+2024-02-28 14:07:16,671 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue THR A 115
+2024-02-28 14:07:16,671 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG1 in residue THR A 115
+2024-02-28 14:07:16,672 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue THR A 115
+2024-02-28 14:07:16,672 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 166
+2024-02-28 14:07:16,672 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue THR A 115
+2024-02-28 14:07:16,673 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG1 in residue THR A 115
+2024-02-28 14:07:16,673 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue THR A 115
+2024-02-28 14:07:16,673 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 166
+2024-02-28 14:07:17,241 WARNING:main.py:311:print_pqr:Ignoring 2155 header lines in output.
+2024-02-28 14:07:17,421 WARNING:main.py:315:print_pqr:Ignoring 42 missing lines in output.

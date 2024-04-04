@@ -1,0 +1,7 @@
+2024-02-28 14:07:17,320 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,493 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CXA.  Parsing as new residue.
+2024-02-28 14:07:17,544 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 307
+2024-02-28 14:07:17,826 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 307
+2024-02-28 14:07:17,828 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 307
+2024-02-28 14:07:19,830 WARNING:main.py:311:print_pqr:Ignoring 1328 header lines in output.
+2024-02-28 14:07:19,830 WARNING:main.py:315:print_pqr:Ignoring 17 missing lines in output.

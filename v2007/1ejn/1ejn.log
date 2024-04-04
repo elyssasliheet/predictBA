@@ -1,0 +1,7 @@
+2024-02-28 14:07:17,088 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,147 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for AGB.  Parsing as new residue.
+2024-02-28 14:07:17,171 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 244
+2024-02-28 14:07:17,172 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 244
+2024-02-28 14:07:17,173 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 244
+2024-02-28 14:07:20,846 WARNING:main.py:311:print_pqr:Ignoring 1757 header lines in output.
+2024-02-28 14:07:20,846 WARNING:main.py:315:print_pqr:Ignoring 30 missing lines in output.

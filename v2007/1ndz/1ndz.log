@@ -1,0 +1,18 @@
+2024-02-28 14:06:48,207 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:06:48,222 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FR5.  Parsing as new residue.
+2024-02-28 14:06:48,266 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ARG A 352
+2024-02-28 14:06:48,266 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 352
+2024-02-28 14:06:48,268 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ARG A 352
+2024-02-28 14:06:48,270 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 352
+2024-02-28 14:06:48,273 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ARG A 352
+2024-02-28 14:06:48,273 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 352
+2024-02-28 14:06:49,184 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL A 166
+2024-02-28 14:06:50,036 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU A 193
+2024-02-28 14:06:50,149 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL A 209
+2024-02-28 14:06:50,227 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL A 218
+2024-02-28 14:06:50,309 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL A 223
+2024-02-28 14:06:50,397 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump THR A 233
+2024-02-28 14:06:51,596 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU A 325
+2024-02-28 14:06:52,745 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU A 335
+2024-02-28 14:06:52,892 WARNING:main.py:311:print_pqr:Ignoring 2073 header lines in output.
+2024-02-28 14:06:52,892 WARNING:main.py:315:print_pqr:Ignoring 38 missing lines in output.

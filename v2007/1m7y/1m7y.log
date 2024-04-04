@@ -1,0 +1,21 @@
+2024-02-28 14:07:18,923 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PPG.  Parsing as new residue.
+2024-02-28 14:07:18,937 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MRD.  Parsing as new residue.
+2024-02-28 14:07:18,938 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 57.
+2024-02-28 14:07:18,938 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 57. At least one of the instances is being ignored.
+2024-02-28 14:07:18,938 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 208.
+2024-02-28 14:07:18,938 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 208.
+2024-02-28 14:07:18,938 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 208. At least one of the instances is being ignored.
+2024-02-28 14:07:18,939 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 316.
+2024-02-28 14:07:18,939 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 316.
+2024-02-28 14:07:18,939 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 316.
+2024-02-28 14:07:18,939 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 316. At least one of the instances is being ignored.
+2024-02-28 14:07:18,939 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASN A 325.
+2024-02-28 14:07:18,939 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASN A 325.
+2024-02-28 14:07:18,939 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND2 in ASN A 325.
+2024-02-28 14:07:18,939 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASN A 325. At least one of the instances is being ignored.
+2024-02-28 14:07:18,991 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR A 9 and SER A 17!
+2024-02-28 14:07:19,349 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR A 433
+2024-02-28 14:07:19,459 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR A 433
+2024-02-28 14:07:19,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR A 433
+2024-02-28 14:07:22,756 WARNING:main.py:311:print_pqr:Ignoring 1897 header lines in output.
+2024-02-28 14:07:22,757 WARNING:main.py:315:print_pqr:Ignoring 34 missing lines in output.

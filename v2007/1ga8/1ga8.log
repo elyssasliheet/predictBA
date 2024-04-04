@@ -1,0 +1,15 @@
+2024-02-28 14:07:10,607 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:10,613 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:10,614 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:10,615 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:10,616 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:10,616 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:10,617 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:10,618 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BGC.  Parsing as new residue.
+2024-02-28 14:07:10,618 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for Z9D.  Parsing as new residue.
+2024-02-28 14:07:10,619 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:10,633 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 282
+2024-02-28 14:07:10,634 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 282
+2024-02-28 14:07:10,635 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 282
+2024-02-28 14:07:11,279 WARNING:main.py:311:print_pqr:Ignoring 4475 header lines in output.
+2024-02-28 14:07:11,280 WARNING:main.py:315:print_pqr:Ignoring 115 missing lines in output.

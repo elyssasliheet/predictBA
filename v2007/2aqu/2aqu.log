@@ -1,0 +1,31 @@
+2024-02-28 14:07:17,716 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DR7.  Parsing as new residue.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS B 43.
+2024-02-28 14:07:17,726 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS B 43. At least one of the instances is being ignored.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ILE B 47.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ILE B 47.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ILE B 47.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ILE B 47.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ILE B 47.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in ILE B 47.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in ILE B 47.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in ILE B 47.
+2024-02-28 14:07:17,726 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ILE B 47. At least one of the instances is being ignored.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ILE B 64.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ILE B 64.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ILE B 64.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ILE B 64.
+2024-02-28 14:07:17,726 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ILE B 64.
+2024-02-28 14:07:17,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in ILE B 64.
+2024-02-28 14:07:17,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in ILE B 64.
+2024-02-28 14:07:17,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in ILE B 64.
+2024-02-28 14:07:17,727 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ILE B 64. At least one of the instances is being ignored.
+2024-02-28 14:07:20,526 WARNING:main.py:311:print_pqr:Ignoring 2484 header lines in output.
+2024-02-28 14:07:20,526 WARNING:main.py:315:print_pqr:Ignoring 51 missing lines in output.

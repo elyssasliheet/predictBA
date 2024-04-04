@@ -1,0 +1,6 @@
+2024-02-28 14:07:18,094 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 497.  Parsing as new residue.
+2024-02-28 14:07:18,219 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SG in residue CYS A 120
+2024-02-28 14:07:18,595 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SG in residue CYS A 120
+2024-02-28 14:07:18,596 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SG in residue CYS A 120
+2024-02-28 14:07:22,974 WARNING:main.py:311:print_pqr:Ignoring 1732 header lines in output.
+2024-02-28 14:07:22,974 WARNING:main.py:315:print_pqr:Ignoring 28 missing lines in output.

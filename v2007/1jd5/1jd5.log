@@ -1,0 +1,9 @@
+2024-02-28 14:07:17,480 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,538 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 318
+2024-02-28 14:07:17,773 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP B 8
+2024-02-28 14:07:18,138 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 318
+2024-02-28 14:07:18,138 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP B 8
+2024-02-28 14:07:18,138 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 318
+2024-02-28 14:07:18,138 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP B 8
+2024-02-28 14:07:19,574 WARNING:main.py:311:print_pqr:Ignoring 790 header lines in output.
+2024-02-28 14:07:19,574 WARNING:main.py:315:print_pqr:Ignoring 1 missing lines in output.

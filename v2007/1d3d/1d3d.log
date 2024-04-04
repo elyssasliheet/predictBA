@@ -1,0 +1,14 @@
+2024-02-28 14:07:17,686 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TYS.  Parsing as new residue.
+2024-02-28 14:07:17,692 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:17,692 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:17,692 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:17,692 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BZT.  Parsing as new residue.
+2024-02-28 14:07:17,711 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR B 183 and GLY B 191!
+2024-02-28 14:07:17,762 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 33
+2024-02-28 14:07:17,770 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE B 293
+2024-02-28 14:07:18,117 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 33
+2024-02-28 14:07:18,119 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE B 293
+2024-02-28 14:07:18,119 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 33
+2024-02-28 14:07:18,120 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE B 293
+2024-02-28 14:07:21,894 WARNING:main.py:311:print_pqr:Ignoring 3091 header lines in output.
+2024-02-28 14:07:21,894 WARNING:main.py:315:print_pqr:Ignoring 70 missing lines in output.

@@ -1,0 +1,16 @@
+2024-02-28 14:07:18,241 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,816 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,816 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:18,816 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:18,816 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMA.  Parsing as new residue.
+2024-02-28 14:07:18,816 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,817 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 0GM.  Parsing as new residue.
+2024-02-28 14:07:20,234 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump THR A 16
+2024-02-28 14:07:22,791 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU A 48
+2024-02-28 14:07:22,957 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LYS A 55
+2024-02-28 14:07:22,962 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump SER A 63
+2024-02-28 14:07:22,995 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump PHE A 112
+2024-02-28 14:07:23,034 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump GLU A 160
+2024-02-28 14:07:24,139 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU A 182
+2024-02-28 14:07:24,359 WARNING:main.py:311:print_pqr:Ignoring 5197 header lines in output.
+2024-02-28 14:07:24,359 WARNING:main.py:315:print_pqr:Ignoring 137 missing lines in output.

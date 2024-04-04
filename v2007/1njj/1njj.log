@@ -1,0 +1,100 @@
+2024-02-28 14:07:13,969 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GET.  Parsing as new residue.
+2024-02-28 14:07:13,969 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ORX.  Parsing as new residue.
+2024-02-28 14:07:13,970 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GET.  Parsing as new residue.
+2024-02-28 14:07:13,970 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ORX.  Parsing as new residue.
+2024-02-28 14:07:13,971 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GET.  Parsing as new residue.
+2024-02-28 14:07:13,971 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ORX.  Parsing as new residue.
+2024-02-28 14:07:13,971 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ORX.  Parsing as new residue.
+2024-02-28 14:07:13,992 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS A 28 and GLY A 37!
+2024-02-28 14:07:13,993 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR A 157 and VAL A 168!
+2024-02-28 14:07:13,994 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR A 296 and GLN A 312!
+2024-02-28 14:07:13,994 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO A 344 and GLU A 348!
+2024-02-28 14:07:13,995 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL A 391 and SER A 402!
+2024-02-28 14:07:13,995 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER B 30 and GLY B 37!
+2024-02-28 14:07:13,995 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR B 157 and VAL B 168!
+2024-02-28 14:07:13,996 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR B 296 and GLN B 312!
+2024-02-28 14:07:13,997 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL B 391 and SER B 402!
+2024-02-28 14:07:13,997 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS C 28 and GLY C 37!
+2024-02-28 14:07:13,998 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR C 157 and VAL C 168!
+2024-02-28 14:07:13,998 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR C 296 and GLN C 312!
+2024-02-28 14:07:13,999 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ILE C 345 and GLU C 348!
+2024-02-28 14:07:13,999 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL C 392 and SER C 402!
+2024-02-28 14:07:13,999 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER D 30 and GLY D 37!
+2024-02-28 14:07:14,000 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR D 157 and VAL D 168!
+2024-02-28 14:07:14,001 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR D 296 and SER D 309!
+2024-02-28 14:07:14,001 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL D 391 and PHE D 400!
+2024-02-28 14:07:14,013 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 414
+2024-02-28 14:07:14,014 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 409
+2024-02-28 14:07:14,015 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL C 409
+2024-02-28 14:07:14,016 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 409
+2024-02-28 14:07:14,017 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 414
+2024-02-28 14:07:14,018 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 409
+2024-02-28 14:07:14,019 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL C 409
+2024-02-28 14:07:14,020 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 409
+2024-02-28 14:07:14,021 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 414
+2024-02-28 14:07:14,022 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 409
+2024-02-28 14:07:14,023 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL C 409
+2024-02-28 14:07:14,024 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 409
+2024-02-28 14:07:16,940 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump HIS D 146
+2024-02-28 14:07:17,611 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH C 628 skipped when optimizing O in HOH C 632
+2024-02-28 14:07:17,612 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:07:17,618 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:07:17,618 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:07:17,619 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:07:17,639 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:07:17,640 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:07:17,641 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:07:17,641 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:07:17,642 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:07:22,859 WARNING:main.py:311:print_pqr:Ignoring 7638 header lines in output.
+2024-02-28 14:07:22,860 WARNING:main.py:315:print_pqr:Ignoring 198 missing lines in output.
+2024-02-28 14:58:32,138 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GET.  Parsing as new residue.
+2024-02-28 14:58:32,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ORX.  Parsing as new residue.
+2024-02-28 14:58:32,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GET.  Parsing as new residue.
+2024-02-28 14:58:32,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ORX.  Parsing as new residue.
+2024-02-28 14:58:32,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GET.  Parsing as new residue.
+2024-02-28 14:58:32,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ORX.  Parsing as new residue.
+2024-02-28 14:58:32,140 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ORX.  Parsing as new residue.
+2024-02-28 14:58:32,168 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS A 28 and GLY A 37!
+2024-02-28 14:58:32,176 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR A 157 and VAL A 168!
+2024-02-28 14:58:32,177 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR A 296 and GLN A 312!
+2024-02-28 14:58:32,177 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO A 344 and GLU A 348!
+2024-02-28 14:58:32,177 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL A 391 and SER A 402!
+2024-02-28 14:58:32,177 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER B 30 and GLY B 37!
+2024-02-28 14:58:32,179 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR B 157 and VAL B 168!
+2024-02-28 14:58:32,180 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR B 296 and GLN B 312!
+2024-02-28 14:58:32,180 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL B 391 and SER B 402!
+2024-02-28 14:58:32,180 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS C 28 and GLY C 37!
+2024-02-28 14:58:32,181 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR C 157 and VAL C 168!
+2024-02-28 14:58:32,185 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR C 296 and GLN C 312!
+2024-02-28 14:58:32,186 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ILE C 345 and GLU C 348!
+2024-02-28 14:58:32,190 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL C 392 and SER C 402!
+2024-02-28 14:58:32,190 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER D 30 and GLY D 37!
+2024-02-28 14:58:32,191 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR D 157 and VAL D 168!
+2024-02-28 14:58:32,192 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR D 296 and SER D 309!
+2024-02-28 14:58:32,193 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL D 391 and PHE D 400!
+2024-02-28 14:58:32,235 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 414
+2024-02-28 14:58:32,237 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 409
+2024-02-28 14:58:32,238 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL C 409
+2024-02-28 14:58:32,240 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 409
+2024-02-28 14:58:32,243 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 414
+2024-02-28 14:58:32,244 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 409
+2024-02-28 14:58:32,258 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL C 409
+2024-02-28 14:58:32,260 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 409
+2024-02-28 14:58:32,262 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 414
+2024-02-28 14:58:32,266 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 409
+2024-02-28 14:58:32,268 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL C 409
+2024-02-28 14:58:32,269 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 409
+2024-02-28 14:58:36,249 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump HIS D 146
+2024-02-28 14:58:36,886 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH C 628 skipped when optimizing O in HOH C 632
+2024-02-28 14:58:36,887 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:58:36,891 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:58:36,892 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:58:36,893 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:58:36,893 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:58:36,894 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:58:36,894 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:58:36,895 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH C 631 skipped when optimizing H2 in HOH C 632
+2024-02-28 14:58:36,896 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:58:39,812 WARNING:main.py:311:print_pqr:Ignoring 7638 header lines in output.
+2024-02-28 14:58:39,812 WARNING:main.py:315:print_pqr:Ignoring 198 missing lines in output.

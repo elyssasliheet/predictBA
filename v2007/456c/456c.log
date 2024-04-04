@@ -1,0 +1,16 @@
+2024-02-28 14:07:17,967 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:18,377 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:18,377 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:18,377 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CBP.  Parsing as new residue.
+2024-02-28 14:07:18,378 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:18,378 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:18,378 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:18,378 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CBP.  Parsing as new residue.
+2024-02-28 14:07:18,487 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 269
+2024-02-28 14:07:18,488 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 269
+2024-02-28 14:07:18,489 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 269
+2024-02-28 14:07:18,494 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 269
+2024-02-28 14:07:18,494 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 269
+2024-02-28 14:07:18,495 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 269
+2024-02-28 14:07:22,254 WARNING:main.py:311:print_pqr:Ignoring 4048 header lines in output.
+2024-02-28 14:07:22,254 WARNING:main.py:315:print_pqr:Ignoring 102 missing lines in output.

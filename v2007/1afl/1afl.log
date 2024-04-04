@@ -1,0 +1,9 @@
+2024-02-28 14:07:17,274 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ATR.  Parsing as new residue.
+2024-02-28 14:07:17,289 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CIT.  Parsing as new residue.
+2024-02-28 14:07:17,289 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ATR.  Parsing as new residue.
+2024-02-28 14:07:17,290 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CIT.  Parsing as new residue.
+2024-02-28 14:07:17,316 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG in residue SER A 18
+2024-02-28 14:07:17,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG in residue SER A 18
+2024-02-28 14:07:17,474 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG in residue SER A 18
+2024-02-28 14:07:19,817 WARNING:main.py:311:print_pqr:Ignoring 3700 header lines in output.
+2024-02-28 14:07:19,817 WARNING:main.py:315:print_pqr:Ignoring 88 missing lines in output.

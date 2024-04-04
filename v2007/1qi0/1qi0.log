@@ -1,0 +1,46 @@
+2024-02-28 14:07:11,612 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BGC.  Parsing as new residue.
+2024-02-28 14:07:11,613 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BGC.  Parsing as new residue.
+2024-02-28 14:07:11,613 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:11,614 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:11,614 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:11,614 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:11,614 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:11,615 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU A 113.
+2024-02-28 14:07:11,615 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU A 113.
+2024-02-28 14:07:11,615 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU A 113.
+2024-02-28 14:07:11,615 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU A 113.
+2024-02-28 14:07:11,616 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU A 113. At least one of the instances is being ignored.
+2024-02-28 14:07:11,616 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 275.
+2024-02-28 14:07:11,616 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 275.
+2024-02-28 14:07:11,617 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 275.
+2024-02-28 14:07:11,617 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 275. At least one of the instances is being ignored.
+2024-02-28 14:07:11,617 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU A 286.
+2024-02-28 14:07:11,617 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU A 286.
+2024-02-28 14:07:11,617 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU A 286.
+2024-02-28 14:07:11,618 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU A 286.
+2024-02-28 14:07:11,618 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU A 286. At least one of the instances is being ignored.
+2024-02-28 14:07:12,455 WARNING:main.py:311:print_pqr:Ignoring 1633 header lines in output.
+2024-02-28 14:07:12,456 WARNING:main.py:315:print_pqr:Ignoring 28 missing lines in output.
+2024-02-28 14:58:40,252 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BGC.  Parsing as new residue.
+2024-02-28 14:58:40,263 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BGC.  Parsing as new residue.
+2024-02-28 14:58:40,263 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:40,263 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:40,263 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:40,263 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:40,263 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU A 113.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU A 113.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU A 113.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU A 113.
+2024-02-28 14:58:40,264 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU A 113. At least one of the instances is being ignored.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 275.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 275.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 275.
+2024-02-28 14:58:40,264 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 275. At least one of the instances is being ignored.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU A 286.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU A 286.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU A 286.
+2024-02-28 14:58:40,264 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU A 286.
+2024-02-28 14:58:40,264 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU A 286. At least one of the instances is being ignored.
+2024-02-28 14:58:41,775 WARNING:main.py:311:print_pqr:Ignoring 1633 header lines in output.
+2024-02-28 14:58:41,776 WARNING:main.py:315:print_pqr:Ignoring 28 missing lines in output.

@@ -1,0 +1,10 @@
+2024-02-28 14:07:01,004 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 0ZN.  Parsing as new residue.
+2024-02-28 14:07:01,005 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:01,005 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:01,005 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:01,006 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:01,006 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:01,624 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump ILE E 197
+2024-02-28 14:07:01,733 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump THR E 278
+2024-02-28 14:07:01,862 WARNING:main.py:311:print_pqr:Ignoring 2100 header lines in output.
+2024-02-28 14:07:01,862 WARNING:main.py:315:print_pqr:Ignoring 40 missing lines in output.

@@ -1,0 +1,7 @@
+2024-02-28 14:07:17,554 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GOL.  Parsing as new residue.
+2024-02-28 14:07:17,616 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY C 257 and CYS C 401!
+2024-02-28 14:07:17,689 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 257
+2024-02-28 14:07:17,691 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 257
+2024-02-28 14:07:17,692 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 257
+2024-02-28 14:07:22,286 WARNING:main.py:311:print_pqr:Ignoring 991 header lines in output.
+2024-02-28 14:07:22,286 WARNING:main.py:315:print_pqr:Ignoring 7 missing lines in output.

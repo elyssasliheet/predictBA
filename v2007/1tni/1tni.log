@@ -1,0 +1,4 @@
+2024-02-28 14:07:15,903 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:15,903 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PBN.  Parsing as new residue.
+2024-02-28 14:07:16,363 WARNING:main.py:311:print_pqr:Ignoring 1260 header lines in output.
+2024-02-28 14:07:16,363 WARNING:main.py:315:print_pqr:Ignoring 15 missing lines in output.

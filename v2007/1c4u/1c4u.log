@@ -1,0 +1,15 @@
+2024-02-28 14:07:18,041 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TYS.  Parsing as new residue.
+2024-02-28 14:07:18,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:18,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IH1.  Parsing as new residue.
+2024-02-28 14:07:18,138 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR 2 147 and GLY 2 150!
+2024-02-28 14:07:18,211 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ILE 1 14K
+2024-02-28 14:07:18,594 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE 1 14K
+2024-02-28 14:07:18,982 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU 3 566
+2024-02-28 14:07:18,982 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ILE 1 14K
+2024-02-28 14:07:18,982 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE 1 14K
+2024-02-28 14:07:18,983 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU 3 566
+2024-02-28 14:07:18,983 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ILE 1 14K
+2024-02-28 14:07:18,983 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE 1 14K
+2024-02-28 14:07:18,984 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU 3 566
+2024-02-28 14:07:22,814 WARNING:main.py:311:print_pqr:Ignoring 2528 header lines in output.
+2024-02-28 14:07:22,814 WARNING:main.py:315:print_pqr:Ignoring 53 missing lines in output.

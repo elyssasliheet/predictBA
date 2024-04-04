@@ -1,0 +1,70 @@
+2024-02-28 14:07:17,269 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SC1.  Parsing as new residue.
+2024-02-28 14:07:17,285 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FMT.  Parsing as new residue.
+2024-02-28 14:07:17,285 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FMT.  Parsing as new residue.
+2024-02-28 14:07:17,285 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FMT.  Parsing as new residue.
+2024-02-28 14:07:17,286 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FMT.  Parsing as new residue.
+2024-02-28 14:07:17,286 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FMT.  Parsing as new residue.
+2024-02-28 14:07:17,286 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FMT.  Parsing as new residue.
+2024-02-28 14:07:17,286 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FMT.  Parsing as new residue.
+2024-02-28 14:07:17,286 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FMT.  Parsing as new residue.
+2024-02-28 14:07:17,286 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ARG A 11.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG A 11.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG A 11.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG A 11.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG A 11.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG A 11.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG A 11.
+2024-02-28 14:07:17,287 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG A 11. At least one of the instances is being ignored.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 63.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 63.
+2024-02-28 14:07:17,287 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 63. At least one of the instances is being ignored.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in GLU A 74.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU A 74.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU A 74.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU A 74.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU A 74.
+2024-02-28 14:07:17,287 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU A 74. At least one of the instances is being ignored.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in THR A 141.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR A 141.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR A 141.
+2024-02-28 14:07:17,287 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR A 141. At least one of the instances is being ignored.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in MET A 178.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 178.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 178.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 178.
+2024-02-28 14:07:17,287 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 178. At least one of the instances is being ignored.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in GLU A 185.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU A 185.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU A 185.
+2024-02-28 14:07:17,287 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU A 185.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU A 185.
+2024-02-28 14:07:17,288 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU A 185. At least one of the instances is being ignored.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LYS A 198.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LYS A 198.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in LYS A 198.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS A 198.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS A 198.
+2024-02-28 14:07:17,288 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS A 198. At least one of the instances is being ignored.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LYS A 354.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LYS A 354.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in LYS A 354.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS A 354.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS A 354.
+2024-02-28 14:07:17,288 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS A 354. At least one of the instances is being ignored.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ARG A 367.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG A 367.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG A 367.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG A 367.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG A 367.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG A 367.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG A 367.
+2024-02-28 14:07:17,288 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG A 367. At least one of the instances is being ignored.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LYS A 411.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LYS A 411.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in LYS A 411.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS A 411.
+2024-02-28 14:07:17,288 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS A 411.
+2024-02-28 14:07:17,288 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS A 411. At least one of the instances is being ignored.
+2024-02-28 14:07:22,210 WARNING:main.py:311:print_pqr:Ignoring 2766 header lines in output.
+2024-02-28 14:07:22,210 WARNING:main.py:315:print_pqr:Ignoring 61 missing lines in output.

@@ -1,0 +1,58 @@
+2024-02-28 14:06:46,841 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMU.  Parsing as new residue.
+2024-02-28 14:06:46,848 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL A 117 and LEU A 122!
+2024-02-28 14:06:46,848 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 170 and ALA A 184!
+2024-02-28 14:06:46,900 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 14
+2024-02-28 14:06:46,900 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 14
+2024-02-28 14:06:46,900 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 14
+2024-02-28 14:06:46,900 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 15
+2024-02-28 14:06:46,900 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 15
+2024-02-28 14:06:46,900 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 15
+2024-02-28 14:06:46,900 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 15
+2024-02-28 14:06:46,902 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 352
+2024-02-28 14:06:46,902 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 14
+2024-02-28 14:06:46,902 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 14
+2024-02-28 14:06:46,902 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 14
+2024-02-28 14:06:46,902 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 15
+2024-02-28 14:06:46,902 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 15
+2024-02-28 14:06:46,902 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 15
+2024-02-28 14:06:46,902 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 15
+2024-02-28 14:06:46,908 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 352
+2024-02-28 14:06:46,908 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 14
+2024-02-28 14:06:46,908 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 14
+2024-02-28 14:06:46,908 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 14
+2024-02-28 14:06:46,908 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 15
+2024-02-28 14:06:46,908 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 15
+2024-02-28 14:06:46,908 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 15
+2024-02-28 14:06:46,908 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 15
+2024-02-28 14:06:46,909 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 352
+2024-02-28 14:06:49,257 WARNING:main.py:311:print_pqr:Ignoring 1463 header lines in output.
+2024-02-28 14:06:49,258 WARNING:main.py:315:print_pqr:Ignoring 21 missing lines in output.
+2024-02-28 14:58:30,463 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMU.  Parsing as new residue.
+2024-02-28 14:58:30,470 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL A 117 and LEU A 122!
+2024-02-28 14:58:30,471 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 170 and ALA A 184!
+2024-02-28 14:58:30,497 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 14
+2024-02-28 14:58:30,497 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 14
+2024-02-28 14:58:30,497 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 14
+2024-02-28 14:58:30,497 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 15
+2024-02-28 14:58:30,497 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 15
+2024-02-28 14:58:30,497 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 15
+2024-02-28 14:58:30,497 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 15
+2024-02-28 14:58:30,499 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 352
+2024-02-28 14:58:30,499 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 14
+2024-02-28 14:58:30,499 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 14
+2024-02-28 14:58:30,499 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 14
+2024-02-28 14:58:30,499 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 15
+2024-02-28 14:58:30,499 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 15
+2024-02-28 14:58:30,499 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 15
+2024-02-28 14:58:30,499 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 15
+2024-02-28 14:58:30,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 352
+2024-02-28 14:58:30,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 14
+2024-02-28 14:58:30,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 14
+2024-02-28 14:58:30,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 14
+2024-02-28 14:58:30,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 15
+2024-02-28 14:58:30,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 15
+2024-02-28 14:58:30,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 15
+2024-02-28 14:58:30,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 15
+2024-02-28 14:58:30,502 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 352
+2024-02-28 14:58:31,598 WARNING:main.py:311:print_pqr:Ignoring 1463 header lines in output.
+2024-02-28 14:58:31,598 WARNING:main.py:315:print_pqr:Ignoring 21 missing lines in output.

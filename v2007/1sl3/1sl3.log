@@ -1,0 +1,30 @@
+2024-02-28 14:07:02,486 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TYS.  Parsing as new residue.
+2024-02-28 14:07:02,486 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 170.  Parsing as new residue.
+2024-02-28 14:07:02,491 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ILE A 14L and ILE A 16!
+2024-02-28 14:07:02,492 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU A 146 and GLY A 150!
+2024-02-28 14:07:02,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14L
+2024-02-28 14:07:02,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14L
+2024-02-28 14:07:02,501 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14L
+2024-02-28 14:07:02,502 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14L
+2024-02-28 14:07:02,502 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14L
+2024-02-28 14:07:02,502 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14L
+2024-02-28 14:07:02,503 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14L
+2024-02-28 14:07:02,503 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14L
+2024-02-28 14:07:02,503 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14L
+2024-02-28 14:07:03,242 WARNING:main.py:311:print_pqr:Ignoring 2571 header lines in output.
+2024-02-28 14:07:03,243 WARNING:main.py:315:print_pqr:Ignoring 53 missing lines in output.
+2024-02-28 14:58:39,716 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TYS.  Parsing as new residue.
+2024-02-28 14:58:39,720 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 170.  Parsing as new residue.
+2024-02-28 14:58:39,728 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ILE A 14L and ILE A 16!
+2024-02-28 14:58:39,730 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU A 146 and GLY A 150!
+2024-02-28 14:58:39,749 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14L
+2024-02-28 14:58:39,749 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14L
+2024-02-28 14:58:39,749 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14L
+2024-02-28 14:58:39,751 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14L
+2024-02-28 14:58:39,751 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14L
+2024-02-28 14:58:39,751 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14L
+2024-02-28 14:58:39,752 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14L
+2024-02-28 14:58:39,752 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14L
+2024-02-28 14:58:39,752 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14L
+2024-02-28 14:58:40,995 WARNING:main.py:311:print_pqr:Ignoring 2571 header lines in output.
+2024-02-28 14:58:40,996 WARNING:main.py:315:print_pqr:Ignoring 53 missing lines in output.

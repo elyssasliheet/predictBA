@@ -1,0 +1,24 @@
+2024-02-28 14:07:11,772 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RAP.  Parsing as new residue.
+2024-02-28 14:07:11,773 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ILE A 90.
+2024-02-28 14:07:11,773 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in ILE A 90.
+2024-02-28 14:07:11,773 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in ILE A 90.
+2024-02-28 14:07:11,774 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in ILE A 90.
+2024-02-28 14:07:11,774 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ILE A 90. At least one of the instances is being ignored.
+2024-02-28 14:07:11,774 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in VAL A 98.
+2024-02-28 14:07:11,774 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in VAL A 98.
+2024-02-28 14:07:11,774 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in VAL A 98.
+2024-02-28 14:07:11,775 WARNING:main.py:424:setup_molecule:Multiple occupancies found in VAL A 98. At least one of the instances is being ignored.
+2024-02-28 14:07:12,025 WARNING:main.py:311:print_pqr:Ignoring 3052 header lines in output.
+2024-02-28 14:07:12,025 WARNING:main.py:315:print_pqr:Ignoring 68 missing lines in output.
+2024-02-28 14:58:30,662 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RAP.  Parsing as new residue.
+2024-02-28 14:58:30,663 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ILE A 90.
+2024-02-28 14:58:30,666 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in ILE A 90.
+2024-02-28 14:58:30,666 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in ILE A 90.
+2024-02-28 14:58:30,666 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in ILE A 90.
+2024-02-28 14:58:30,666 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ILE A 90. At least one of the instances is being ignored.
+2024-02-28 14:58:30,666 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in VAL A 98.
+2024-02-28 14:58:30,666 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in VAL A 98.
+2024-02-28 14:58:30,666 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in VAL A 98.
+2024-02-28 14:58:30,666 WARNING:main.py:424:setup_molecule:Multiple occupancies found in VAL A 98. At least one of the instances is being ignored.
+2024-02-28 14:58:30,999 WARNING:main.py:311:print_pqr:Ignoring 3052 header lines in output.
+2024-02-28 14:58:30,999 WARNING:main.py:315:print_pqr:Ignoring 68 missing lines in output.

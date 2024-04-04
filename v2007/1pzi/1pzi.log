@@ -1,0 +1,8 @@
+2024-02-28 14:07:16,349 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1DM.  Parsing as new residue.
+2024-02-28 14:07:16,350 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1DM.  Parsing as new residue.
+2024-02-28 14:07:16,350 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1DM.  Parsing as new residue.
+2024-02-28 14:07:16,350 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1DM.  Parsing as new residue.
+2024-02-28 14:07:16,351 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1DM.  Parsing as new residue.
+2024-02-28 14:07:17,161 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump PRO D 2
+2024-02-28 14:07:19,861 WARNING:main.py:311:print_pqr:Ignoring 6396 header lines in output.
+2024-02-28 14:07:19,861 WARNING:main.py:315:print_pqr:Ignoring 168 missing lines in output.

@@ -1,0 +1,11 @@
+2024-02-28 14:07:17,135 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,136 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,136 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,269 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,269 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,269 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TIO.  Parsing as new residue.
+2024-02-28 14:07:19,347 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump THR E 224
+2024-02-28 14:07:19,552 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump ARG E 260
+2024-02-28 14:07:19,804 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LYS E 316
+2024-02-28 14:07:20,546 WARNING:main.py:311:print_pqr:Ignoring 1510 header lines in output.
+2024-02-28 14:07:20,546 WARNING:main.py:315:print_pqr:Ignoring 22 missing lines in output.

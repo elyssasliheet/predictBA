@@ -1,0 +1,10 @@
+2024-02-28 14:07:11,395 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:07:11,396 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:07:11,396 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:07:11,396 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:07:12,869 WARNING:main.py:311:print_pqr:Ignoring 887 header lines in output.
+2024-02-28 14:07:12,870 WARNING:main.py:315:print_pqr:Ignoring 4 missing lines in output.
+2024-02-28 14:58:40,036 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:58:40,038 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:58:40,038 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:58:40,038 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.

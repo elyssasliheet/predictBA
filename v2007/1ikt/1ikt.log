@@ -1,0 +1,10 @@
+2024-02-28 14:07:13,952 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:13,953 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:13,953 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for OXN.  Parsing as new residue.
+2024-02-28 14:07:14,260 WARNING:main.py:311:print_pqr:Ignoring 1892 header lines in output.
+2024-02-28 14:07:14,260 WARNING:main.py:315:print_pqr:Ignoring 35 missing lines in output.
+2024-02-28 14:58:31,057 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:31,058 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:31,058 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for OXN.  Parsing as new residue.
+2024-02-28 14:58:31,928 WARNING:main.py:311:print_pqr:Ignoring 1892 header lines in output.
+2024-02-28 14:58:31,929 WARNING:main.py:315:print_pqr:Ignoring 35 missing lines in output.

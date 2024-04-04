@@ -1,0 +1,5 @@
+2024-02-28 14:07:17,152 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:17,277 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 2AN.  Parsing as new residue.
+2024-02-28 14:07:17,277 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 2AN.  Parsing as new residue.
+2024-02-28 14:07:20,521 WARNING:main.py:311:print_pqr:Ignoring 2186 header lines in output.
+2024-02-28 14:07:20,522 WARNING:main.py:315:print_pqr:Ignoring 43 missing lines in output.

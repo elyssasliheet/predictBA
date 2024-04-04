@@ -1,0 +1,14 @@
+2024-02-28 14:07:24,436 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:24,437 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:24,437 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FRA.  Parsing as new residue.
+2024-02-28 14:07:24,438 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:24,438 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:24,438 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FRA.  Parsing as new residue.
+2024-02-28 14:07:24,467 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 211
+2024-02-28 14:07:24,469 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL H 211
+2024-02-28 14:07:24,470 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 211
+2024-02-28 14:07:24,471 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL H 211
+2024-02-28 14:07:24,473 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 211
+2024-02-28 14:07:24,474 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL H 211
+2024-02-28 14:07:26,601 WARNING:main.py:311:print_pqr:Ignoring 3035 header lines in output.
+2024-02-28 14:07:26,602 WARNING:main.py:315:print_pqr:Ignoring 66 missing lines in output.

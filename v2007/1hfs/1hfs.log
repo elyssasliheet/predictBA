@@ -1,0 +1,8 @@
+2024-02-28 14:06:49,080 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:06:49,087 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:06:49,087 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:06:49,087 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:06:49,088 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:06:49,088 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for L04.  Parsing as new residue.
+2024-02-28 14:06:50,089 WARNING:main.py:311:print_pqr:Ignoring 2674 header lines in output.
+2024-02-28 14:06:50,089 WARNING:main.py:315:print_pqr:Ignoring 57 missing lines in output.

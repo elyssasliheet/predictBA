@@ -1,0 +1,10 @@
+2024-02-28 14:07:09,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 0P1.  Parsing as new residue.
+2024-02-28 14:07:09,427 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:09,427 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ARA.  Parsing as new residue.
+2024-02-28 14:07:09,427 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:10,114 WARNING:main.py:311:print_pqr:Ignoring 2983 header lines in output.
+2024-02-28 14:07:10,115 WARNING:main.py:315:print_pqr:Ignoring 67 missing lines in output.
+2024-02-28 14:58:41,634 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 0P1.  Parsing as new residue.
+2024-02-28 14:58:41,636 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:58:41,636 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ARA.  Parsing as new residue.
+2024-02-28 14:58:41,636 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.

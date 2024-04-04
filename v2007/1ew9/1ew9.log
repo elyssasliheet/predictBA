@@ -1,0 +1,50 @@
+2024-02-28 14:07:13,375 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:13,375 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:13,375 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:13,375 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:13,375 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:13,376 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MMQ.  Parsing as new residue.
+2024-02-28 14:07:13,376 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:13,376 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:13,376 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:13,376 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:13,378 WARNING:main.py:418:setup_molecule:Multiple occupancies found: MG in MG A 452.
+2024-02-28 14:07:13,378 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MG A 452. At least one of the instances is being ignored.
+2024-02-28 14:07:13,378 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ZN in ZN A 453.
+2024-02-28 14:07:13,378 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ZN A 453. At least one of the instances is being ignored.
+2024-02-28 14:07:13,378 WARNING:main.py:418:setup_molecule:Multiple occupancies found: MG in MG B 452.
+2024-02-28 14:07:13,378 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MG B 452. At least one of the instances is being ignored.
+2024-02-28 14:07:13,378 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ZN in ZN B 453.
+2024-02-28 14:07:13,378 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ZN B 453. At least one of the instances is being ignored.
+2024-02-28 14:07:13,404 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 449
+2024-02-28 14:07:13,405 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 449
+2024-02-28 14:07:13,407 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 449
+2024-02-28 14:07:13,408 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 449
+2024-02-28 14:07:13,409 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 449
+2024-02-28 14:07:13,410 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 449
+2024-02-28 14:07:15,453 WARNING:main.py:311:print_pqr:Ignoring 1746 header lines in output.
+2024-02-28 14:07:15,454 WARNING:main.py:315:print_pqr:Ignoring 30 missing lines in output.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MMQ.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:40,105 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:58:40,107 WARNING:main.py:418:setup_molecule:Multiple occupancies found: MG in MG A 452.
+2024-02-28 14:58:40,107 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MG A 452. At least one of the instances is being ignored.
+2024-02-28 14:58:40,107 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ZN in ZN A 453.
+2024-02-28 14:58:40,107 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ZN A 453. At least one of the instances is being ignored.
+2024-02-28 14:58:40,107 WARNING:main.py:418:setup_molecule:Multiple occupancies found: MG in MG B 452.
+2024-02-28 14:58:40,110 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MG B 452. At least one of the instances is being ignored.
+2024-02-28 14:58:40,110 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ZN in ZN B 453.
+2024-02-28 14:58:40,110 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ZN B 453. At least one of the instances is being ignored.
+2024-02-28 14:58:40,144 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 449
+2024-02-28 14:58:40,146 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 449
+2024-02-28 14:58:40,147 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 449
+2024-02-28 14:58:40,149 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 449
+2024-02-28 14:58:40,155 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 449
+2024-02-28 14:58:40,156 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 449

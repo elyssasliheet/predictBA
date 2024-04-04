@@ -1,0 +1,7 @@
+2024-02-28 14:07:17,452 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:17,693 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:17,693 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:17,693 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:17,693 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HOP.  Parsing as new residue.
+2024-02-28 14:07:22,402 WARNING:main.py:311:print_pqr:Ignoring 1829 header lines in output.
+2024-02-28 14:07:22,402 WARNING:main.py:315:print_pqr:Ignoring 32 missing lines in output.

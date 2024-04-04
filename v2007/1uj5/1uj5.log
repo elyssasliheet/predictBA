@@ -1,0 +1,23 @@
+2024-02-28 14:07:12,801 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 5RP.  Parsing as new residue.
+2024-02-28 14:07:12,802 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:12,802 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:12,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 3
+2024-02-28 14:07:12,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 3
+2024-02-28 14:07:12,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 3
+2024-02-28 14:07:12,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 3
+2024-02-28 14:07:12,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 3
+2024-02-28 14:07:12,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 3
+2024-02-28 14:07:12,816 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 3
+2024-02-28 14:07:12,816 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 3
+2024-02-28 14:07:12,816 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 3
+2024-02-28 14:07:12,816 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 3
+2024-02-28 14:07:12,817 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 3
+2024-02-28 14:07:12,817 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 3
+2024-02-28 14:07:12,818 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 3
+2024-02-28 14:07:12,818 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 3
+2024-02-28 14:07:12,818 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 3
+2024-02-28 14:07:12,818 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 3
+2024-02-28 14:07:12,818 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 3
+2024-02-28 14:07:12,819 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 3
+2024-02-28 14:07:13,343 WARNING:main.py:311:print_pqr:Ignoring 1290 header lines in output.
+2024-02-28 14:07:13,343 WARNING:main.py:315:print_pqr:Ignoring 16 missing lines in output.

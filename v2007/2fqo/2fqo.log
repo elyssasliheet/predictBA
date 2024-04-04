@@ -1,0 +1,8 @@
+2024-02-28 14:07:17,510 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CO.  Parsing as new residue.
+2024-02-28 14:07:17,745 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,745 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HYI.  Parsing as new residue.
+2024-02-28 14:07:17,779 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 157
+2024-02-28 14:07:17,780 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 157
+2024-02-28 14:07:17,780 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 157
+2024-02-28 14:07:19,617 WARNING:main.py:311:print_pqr:Ignoring 1514 header lines in output.
+2024-02-28 14:07:19,637 WARNING:main.py:315:print_pqr:Ignoring 23 missing lines in output.

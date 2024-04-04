@@ -1,0 +1,22 @@
+2024-02-28 14:07:17,133 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,142 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for KMB.  Parsing as new residue.
+2024-02-28 14:07:17,149 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU A 111 and THR A 115!
+2024-02-28 14:07:17,149 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU A 128 and SER A 131!
+2024-02-28 14:07:17,150 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR A 285 and ARG A 289!
+2024-02-28 14:07:17,169 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLN A 107
+2024-02-28 14:07:17,169 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLN A 107
+2024-02-28 14:07:17,169 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLN A 107
+2024-02-28 14:07:17,169 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE2 in residue GLN A 107
+2024-02-28 14:07:17,170 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:17,171 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLN A 107
+2024-02-28 14:07:17,171 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLN A 107
+2024-02-28 14:07:17,171 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLN A 107
+2024-02-28 14:07:17,171 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE2 in residue GLN A 107
+2024-02-28 14:07:17,172 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:17,172 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLN A 107
+2024-02-28 14:07:17,172 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLN A 107
+2024-02-28 14:07:17,172 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLN A 107
+2024-02-28 14:07:17,172 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE2 in residue GLN A 107
+2024-02-28 14:07:17,173 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:23,086 WARNING:main.py:311:print_pqr:Ignoring 1523 header lines in output.
+2024-02-28 14:07:23,086 WARNING:main.py:315:print_pqr:Ignoring 23 missing lines in output.

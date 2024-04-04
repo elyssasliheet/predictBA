@@ -1,0 +1,8 @@
+2024-02-28 14:07:15,303 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EOZ.  Parsing as new residue.
+2024-02-28 14:07:15,303 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:15,303 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CTP.  Parsing as new residue.
+2024-02-28 14:07:15,304 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EOZ.  Parsing as new residue.
+2024-02-28 14:07:15,304 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:15,304 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CTP.  Parsing as new residue.
+2024-02-28 14:07:18,005 WARNING:main.py:311:print_pqr:Ignoring 4474 header lines in output.
+2024-02-28 14:07:18,405 WARNING:main.py:315:print_pqr:Ignoring 110 missing lines in output.

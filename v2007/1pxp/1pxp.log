@@ -1,0 +1,38 @@
+2024-02-28 14:07:18,013 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CK8.  Parsing as new residue.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS A 33.
+2024-02-28 14:07:18,486 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS A 33. At least one of the instances is being ignored.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in CK8 A 500.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N1 in CK8 A 500.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in CK8 A 500.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N3 in CK8 A 500.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in CK8 A 500.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in CK8 A 500.
+2024-02-28 14:07:18,486 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5A in CK8 A 500.
+2024-02-28 14:07:18,875 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1A in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N2A in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3A in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: S4A in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6A in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C7A in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N7 in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N7B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C8B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C9B in CK8 A 500.
+2024-02-28 14:07:18,876 WARNING:main.py:424:setup_molecule:Multiple occupancies found in CK8 A 500. At least one of the instances is being ignored.
+2024-02-28 14:07:18,883 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ARG A 36 and THR A 41!
+2024-02-28 14:07:21,194 WARNING:main.py:311:print_pqr:Ignoring 1533 header lines in output.
+2024-02-28 14:07:21,201 WARNING:main.py:315:print_pqr:Ignoring 23 missing lines in output.

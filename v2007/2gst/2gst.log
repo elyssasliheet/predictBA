@@ -1,0 +1,8 @@
+2024-02-28 14:07:17,435 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,449 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,449 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GPS.  Parsing as new residue.
+2024-02-28 14:07:17,450 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GPS.  Parsing as new residue.
+2024-02-28 14:07:22,848 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU B 19
+2024-02-28 14:07:24,302 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LYS B 172
+2024-02-28 14:07:24,518 WARNING:main.py:311:print_pqr:Ignoring 3450 header lines in output.
+2024-02-28 14:07:24,518 WARNING:main.py:315:print_pqr:Ignoring 80 missing lines in output.

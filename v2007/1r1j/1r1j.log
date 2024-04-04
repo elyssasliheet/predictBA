@@ -1,0 +1,8 @@
+2024-02-28 14:07:18,153 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,553 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,554 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,554 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:18,554 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for OIR.  Parsing as new residue.
+2024-02-28 14:07:23,920 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LYS A 318
+2024-02-28 14:07:24,515 WARNING:main.py:311:print_pqr:Ignoring 3150 header lines in output.
+2024-02-28 14:07:24,515 WARNING:main.py:315:print_pqr:Ignoring 71 missing lines in output.

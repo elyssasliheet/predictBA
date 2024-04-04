@@ -1,0 +1,28 @@
+2024-02-28 14:07:12,826 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CIT.  Parsing as new residue.
+2024-02-28 14:07:12,826 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 24.
+2024-02-28 14:07:12,827 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 24.
+2024-02-28 14:07:12,827 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 24.
+2024-02-28 14:07:12,827 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 24. At least one of the instances is being ignored.
+2024-02-28 14:07:12,827 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 44.
+2024-02-28 14:07:12,827 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 44.
+2024-02-28 14:07:12,828 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 44.
+2024-02-28 14:07:12,828 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 44. At least one of the instances is being ignored.
+2024-02-28 14:07:12,839 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 158
+2024-02-28 14:07:12,840 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 158
+2024-02-28 14:07:12,840 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 158
+2024-02-28 14:07:13,219 WARNING:main.py:311:print_pqr:Ignoring 1201 header lines in output.
+2024-02-28 14:07:13,219 WARNING:main.py:315:print_pqr:Ignoring 13 missing lines in output.
+2024-02-28 14:58:37,724 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CIT.  Parsing as new residue.
+2024-02-28 14:58:37,725 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 24.
+2024-02-28 14:58:37,725 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 24.
+2024-02-28 14:58:37,725 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 24.
+2024-02-28 14:58:37,725 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 24. At least one of the instances is being ignored.
+2024-02-28 14:58:37,725 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 44.
+2024-02-28 14:58:37,725 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 44.
+2024-02-28 14:58:37,725 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 44.
+2024-02-28 14:58:37,726 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 44. At least one of the instances is being ignored.
+2024-02-28 14:58:37,747 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 158
+2024-02-28 14:58:37,747 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 158
+2024-02-28 14:58:37,748 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 158
+2024-02-28 14:58:38,274 WARNING:main.py:311:print_pqr:Ignoring 1201 header lines in output.
+2024-02-28 14:58:38,274 WARNING:main.py:315:print_pqr:Ignoring 13 missing lines in output.

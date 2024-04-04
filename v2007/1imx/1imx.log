@@ -1,0 +1,8 @@
+2024-02-28 14:07:13,808 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BR.  Parsing as new residue.
+2024-02-28 14:07:13,808 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CPQ.  Parsing as new residue.
+2024-02-28 14:07:13,810 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER A 34 and THR A 41!
+2024-02-28 14:07:13,817 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 64
+2024-02-28 14:07:13,817 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 64
+2024-02-28 14:07:13,818 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 64
+2024-02-28 14:07:13,944 WARNING:main.py:311:print_pqr:Ignoring 2759 header lines in output.
+2024-02-28 14:07:13,944 WARNING:main.py:315:print_pqr:Ignoring 61 missing lines in output.

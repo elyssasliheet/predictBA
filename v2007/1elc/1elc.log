@@ -1,0 +1,4 @@
+2024-02-28 14:07:17,261 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 0Z3.  Parsing as new residue.
+2024-02-28 14:07:17,273 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,946 WARNING:main.py:311:print_pqr:Ignoring 1989 header lines in output.
+2024-02-28 14:07:17,946 WARNING:main.py:315:print_pqr:Ignoring 37 missing lines in output.

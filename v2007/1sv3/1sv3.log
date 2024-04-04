@@ -1,0 +1,16 @@
+2024-02-28 14:07:10,712 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:10,712 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:10,713 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:10,713 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:10,713 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:10,713 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ANN.  Parsing as new residue.
+2024-02-28 14:07:11,016 WARNING:main.py:311:print_pqr:Ignoring 1905 header lines in output.
+2024-02-28 14:07:11,016 WARNING:main.py:315:print_pqr:Ignoring 36 missing lines in output.
+2024-02-28 14:58:30,968 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:30,969 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:30,969 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:30,969 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:30,969 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:30,969 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ANN.  Parsing as new residue.
+2024-02-28 14:58:31,344 WARNING:main.py:311:print_pqr:Ignoring 1905 header lines in output.
+2024-02-28 14:58:31,344 WARNING:main.py:315:print_pqr:Ignoring 36 missing lines in output.

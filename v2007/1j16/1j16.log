@@ -1,0 +1,22 @@
+2024-02-28 14:07:03,125 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:03,126 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:03,126 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:03,126 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:03,126 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:03,126 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:07:03,126 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:07:03,126 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:07:03,126 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:07:03,627 WARNING:main.py:311:print_pqr:Ignoring 2560 header lines in output.
+2024-02-28 14:07:03,627 WARNING:main.py:315:print_pqr:Ignoring 57 missing lines in output.
+2024-02-28 14:58:32,702 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:32,703 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:32,703 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:32,703 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:32,703 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:32,703 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:58:32,703 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:58:32,703 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:58:32,703 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:58:33,276 WARNING:main.py:311:print_pqr:Ignoring 2560 header lines in output.
+2024-02-28 14:58:33,280 WARNING:main.py:315:print_pqr:Ignoring 57 missing lines in output.

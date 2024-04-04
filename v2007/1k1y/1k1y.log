@@ -1,0 +1,44 @@
+2024-02-28 14:07:12,720 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:07:12,720 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:07:12,721 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for AC1.  Parsing as new residue.
+2024-02-28 14:07:12,721 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:07:12,721 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:07:12,722 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:12,722 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:12,722 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:12,723 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TRS.  Parsing as new residue.
+2024-02-28 14:07:12,751 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU A 445 and GLN A 469!
+2024-02-28 14:07:12,755 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL B 446 and GLN B 469!
+2024-02-28 14:07:16,667 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH B 1809 skipped when optimizing H1 in HOH A 1602
+2024-02-28 14:07:16,677 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1602 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:07:16,678 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1602 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:07:16,680 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:07:16,681 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:07:16,683 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:07:16,684 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:07:16,686 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:07:16,687 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:07:16,689 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:07:26,800 WARNING:main.py:311:print_pqr:Ignoring 3295 header lines in output.
+2024-02-28 14:07:26,801 WARNING:main.py:315:print_pqr:Ignoring 78 missing lines in output.
+2024-02-28 14:58:35,347 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:58:35,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:58:35,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for AC1.  Parsing as new residue.
+2024-02-28 14:58:35,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:58:35,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:58:35,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:35,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:35,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:35,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TRS.  Parsing as new residue.
+2024-02-28 14:58:35,387 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU A 445 and GLN A 469!
+2024-02-28 14:58:35,406 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL B 446 and GLN B 469!
+2024-02-28 14:58:40,937 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH B 1809 skipped when optimizing H1 in HOH A 1602
+2024-02-28 14:58:41,034 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1602 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:58:41,035 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1602 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:58:41,037 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:58:41,074 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:58:41,081 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:58:41,083 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:58:41,084 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:58:41,087 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH B 1720 skipped when optimizing H2 in HOH B 1809
+2024-02-28 14:58:41,091 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages

@@ -1,0 +1,83 @@
+2024-02-28 14:07:17,288 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BDD.  Parsing as new residue.
+2024-02-28 14:07:17,290 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BDD.  Parsing as new residue.
+2024-02-28 14:07:17,290 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BDD.  Parsing as new residue.
+2024-02-28 14:07:17,290 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BDD.  Parsing as new residue.
+2024-02-28 14:07:17,291 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BDD.  Parsing as new residue.
+2024-02-28 14:07:17,291 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BDD.  Parsing as new residue.
+2024-02-28 14:07:17,362 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 3
+2024-02-28 14:07:17,362 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 3
+2024-02-28 14:07:17,362 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 3
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 3
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 103
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 103
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 103
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 103
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 103
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU B 1
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU B 1
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU B 1
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU B 1
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP B 2
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP B 2
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP B 2
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 3
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 3
+2024-02-28 14:07:17,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 3
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 3
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 103
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 103
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 103
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 103
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 103
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 3
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 3
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 3
+2024-02-28 14:07:17,364 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 3
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 103
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 103
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 103
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 103
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 103
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU B 1
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU B 1
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU B 1
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU B 1
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP B 2
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP B 2
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP B 2
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 3
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 3
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 3
+2024-02-28 14:07:17,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 3
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 3
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 3
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 3
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 3
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 103
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU B 1
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU B 1
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU B 1
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU B 1
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP B 2
+2024-02-28 14:07:17,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP B 2
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP B 2
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 3
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 3
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 3
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 3
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 103
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 103
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 103
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 103
+2024-02-28 14:07:17,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 103
+2024-02-28 14:07:21,058 WARNING:main.py:311:print_pqr:Ignoring 3548 header lines in output.
+2024-02-28 14:07:21,059 WARNING:main.py:315:print_pqr:Ignoring 84 missing lines in output.

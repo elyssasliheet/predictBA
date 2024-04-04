@@ -1,0 +1,37 @@
+2024-02-28 14:07:17,741 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HIC.  Parsing as new residue.
+2024-02-28 14:07:17,859 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,859 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,859 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,859 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,859 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ATP.  Parsing as new residue.
+2024-02-28 14:07:17,860 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BID.  Parsing as new residue.
+2024-02-28 14:07:17,860 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 33.
+2024-02-28 14:07:17,860 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 33. At least one of the instances is being ignored.
+2024-02-28 14:07:17,860 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 132.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 132.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 132.
+2024-02-28 14:07:17,861 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 132. At least one of the instances is being ignored.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 269.
+2024-02-28 14:07:17,861 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 269. At least one of the instances is being ignored.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASN A 297.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASN A 297.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASN A 297.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND2 in ASN A 297.
+2024-02-28 14:07:17,861 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASN A 297. At least one of the instances is being ignored.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in MET A 299.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 299.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 299.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 299.
+2024-02-28 14:07:17,861 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 299. At least one of the instances is being ignored.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLN A 314.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLN A 314.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in GLN A 314.
+2024-02-28 14:07:17,861 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLN A 314. At least one of the instances is being ignored.
+2024-02-28 14:07:17,861 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 338.
+2024-02-28 14:07:17,861 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 338. At least one of the instances is being ignored.
+2024-02-28 14:07:17,908 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL A 43 and ASP A 51!
+2024-02-28 14:07:17,976 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS A 371
+2024-02-28 14:07:17,978 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS A 371
+2024-02-28 14:07:17,979 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS A 371
+2024-02-28 14:07:22,470 WARNING:main.py:311:print_pqr:Ignoring 3952 header lines in output.
+2024-02-28 14:07:22,471 WARNING:main.py:315:print_pqr:Ignoring 96 missing lines in output.

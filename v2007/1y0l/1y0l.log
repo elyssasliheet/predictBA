@@ -1,0 +1,17 @@
+2024-02-28 14:07:20,702 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HAN.  Parsing as new residue.
+2024-02-28 14:07:20,710 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HAN.  Parsing as new residue.
+2024-02-28 14:07:20,710 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HAN.  Parsing as new residue.
+2024-02-28 14:07:20,715 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:20,715 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HAN.  Parsing as new residue.
+2024-02-28 14:07:26,304 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 632 skipped when optimizing H1 in HOH A 608
+2024-02-28 14:07:26,305 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 632 skipped when optimizing H1 in HOH A 608
+2024-02-28 14:07:26,311 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 632 skipped when optimizing H2 in HOH A 608
+2024-02-28 14:07:26,405 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH H 552 skipped when optimizing H2 in HOH A 611
+2024-02-28 14:07:26,469 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 615 skipped when optimizing H2 in HOH A 622
+2024-02-28 14:07:26,469 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 615 skipped when optimizing H2 in HOH A 622
+2024-02-28 14:07:26,477 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH A 656 skipped when optimizing H2 in HOH A 616
+2024-02-28 14:07:26,478 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 616 skipped when optimizing H2 in HOH A 656
+2024-02-28 14:07:26,479 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 616 skipped when optimizing H2 in HOH A 656
+2024-02-28 14:07:26,487 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:07:30,819 WARNING:main.py:311:print_pqr:Ignoring 3415 header lines in output.
+2024-02-28 14:07:30,820 WARNING:main.py:315:print_pqr:Ignoring 77 missing lines in output.

@@ -1,0 +1,5 @@
+2024-02-28 14:07:17,850 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,865 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,865 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MRC.  Parsing as new residue.
+2024-02-28 14:07:23,657 WARNING:main.py:311:print_pqr:Ignoring 2038 header lines in output.
+2024-02-28 14:07:23,657 WARNING:main.py:315:print_pqr:Ignoring 37 missing lines in output.

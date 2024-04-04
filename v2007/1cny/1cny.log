@@ -1,0 +1,8 @@
+2024-02-28 14:07:18,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:18,097 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HG.  Parsing as new residue.
+2024-02-28 14:07:18,097 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EG3.  Parsing as new residue.
+2024-02-28 14:07:18,199 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 260
+2024-02-28 14:07:18,585 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 260
+2024-02-28 14:07:18,587 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 260
+2024-02-28 14:07:19,901 WARNING:main.py:311:print_pqr:Ignoring 1924 header lines in output.
+2024-02-28 14:07:19,901 WARNING:main.py:315:print_pqr:Ignoring 35 missing lines in output.

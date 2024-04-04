@@ -1,0 +1,36 @@
+2024-02-28 14:07:09,808 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for N3E.  Parsing as new residue.
+2024-02-28 14:07:09,809 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for N3E.  Parsing as new residue.
+2024-02-28 14:07:09,809 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER B 59.
+2024-02-28 14:07:09,810 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER B 59.
+2024-02-28 14:07:09,810 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER B 59. At least one of the instances is being ignored.
+2024-02-28 14:07:09,810 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP B 83.
+2024-02-28 14:07:09,810 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP B 83.
+2024-02-28 14:07:09,810 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP B 83.
+2024-02-28 14:07:09,810 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP B 83.
+2024-02-28 14:07:09,810 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP B 83. At least one of the instances is being ignored.
+2024-02-28 14:07:09,811 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS B 119.
+2024-02-28 14:07:09,811 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS B 119.
+2024-02-28 14:07:09,811 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS B 119.
+2024-02-28 14:07:09,811 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS B 119.
+2024-02-28 14:07:09,812 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS B 119.
+2024-02-28 14:07:09,812 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS B 119. At least one of the instances is being ignored.
+2024-02-28 14:07:10,386 WARNING:main.py:311:print_pqr:Ignoring 2436 header lines in output.
+2024-02-28 14:07:10,386 WARNING:main.py:315:print_pqr:Ignoring 50 missing lines in output.
+2024-02-28 14:58:36,891 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for N3E.  Parsing as new residue.
+2024-02-28 14:58:36,893 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for N3E.  Parsing as new residue.
+2024-02-28 14:58:36,894 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER B 59.
+2024-02-28 14:58:36,894 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER B 59.
+2024-02-28 14:58:36,894 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER B 59. At least one of the instances is being ignored.
+2024-02-28 14:58:36,894 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP B 83.
+2024-02-28 14:58:36,894 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP B 83.
+2024-02-28 14:58:36,894 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP B 83.
+2024-02-28 14:58:36,894 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP B 83.
+2024-02-28 14:58:36,894 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP B 83. At least one of the instances is being ignored.
+2024-02-28 14:58:36,895 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS B 119.
+2024-02-28 14:58:36,895 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS B 119.
+2024-02-28 14:58:36,895 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS B 119.
+2024-02-28 14:58:36,895 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS B 119.
+2024-02-28 14:58:36,895 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS B 119.
+2024-02-28 14:58:36,895 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS B 119. At least one of the instances is being ignored.
+2024-02-28 14:58:37,739 WARNING:main.py:311:print_pqr:Ignoring 2436 header lines in output.
+2024-02-28 14:58:37,740 WARNING:main.py:315:print_pqr:Ignoring 50 missing lines in output.

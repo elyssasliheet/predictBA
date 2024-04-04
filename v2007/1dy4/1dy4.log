@@ -1,0 +1,8 @@
+2024-02-28 14:07:16,641 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PCA.  Parsing as new residue.
+2024-02-28 14:07:16,657 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:16,657 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:16,657 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SNP.  Parsing as new residue.
+2024-02-28 14:07:16,658 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CO.  Parsing as new residue.
+2024-02-28 14:07:16,658 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CO.  Parsing as new residue.
+2024-02-28 14:07:20,830 WARNING:main.py:311:print_pqr:Ignoring 2603 header lines in output.
+2024-02-28 14:07:20,830 WARNING:main.py:315:print_pqr:Ignoring 57 missing lines in output.

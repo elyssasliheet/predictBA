@@ -1,0 +1,5 @@
+2024-02-28 14:07:20,298 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HXA.  Parsing as new residue.
+2024-02-28 14:07:20,329 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HXA.  Parsing as new residue.
+2024-02-28 14:07:20,338 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU A 61 and ILE A 62!
+2024-02-28 14:07:23,082 WARNING:main.py:311:print_pqr:Ignoring 2369 header lines in output.
+2024-02-28 14:07:23,082 WARNING:main.py:315:print_pqr:Ignoring 48 missing lines in output.

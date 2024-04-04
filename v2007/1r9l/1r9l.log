@@ -1,0 +1,17 @@
+2024-02-28 14:07:17,090 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for UNX.  Parsing as new residue.
+2024-02-28 14:07:17,141 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BET.  Parsing as new residue.
+2024-02-28 14:07:17,141 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASN A 90.
+2024-02-28 14:07:17,141 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASN A 90.
+2024-02-28 14:07:17,141 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASN A 90.
+2024-02-28 14:07:17,142 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND2 in ASN A 90.
+2024-02-28 14:07:17,142 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASN A 90. At least one of the instances is being ignored.
+2024-02-28 14:07:17,142 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in MET A 169.
+2024-02-28 14:07:17,142 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 169.
+2024-02-28 14:07:17,142 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 169.
+2024-02-28 14:07:17,142 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 169.
+2024-02-28 14:07:17,142 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 169. At least one of the instances is being ignored.
+2024-02-28 14:07:17,171 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 309
+2024-02-28 14:07:17,172 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 309
+2024-02-28 14:07:17,173 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 309
+2024-02-28 14:07:19,474 WARNING:main.py:311:print_pqr:Ignoring 1064 header lines in output.
+2024-02-28 14:07:19,502 WARNING:main.py:315:print_pqr:Ignoring 9 missing lines in output.

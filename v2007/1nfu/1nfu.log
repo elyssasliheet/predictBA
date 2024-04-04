@@ -1,0 +1,10 @@
+2024-02-28 14:07:17,604 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,637 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RRP.  Parsing as new residue.
+2024-02-28 14:07:17,691 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 244
+2024-02-28 14:07:17,692 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 49
+2024-02-28 14:07:17,692 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 244
+2024-02-28 14:07:17,693 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 49
+2024-02-28 14:07:17,706 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 244
+2024-02-28 14:07:17,706 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 49
+2024-02-28 14:07:22,470 WARNING:main.py:311:print_pqr:Ignoring 1794 header lines in output.
+2024-02-28 14:07:22,470 WARNING:main.py:315:print_pqr:Ignoring 31 missing lines in output.

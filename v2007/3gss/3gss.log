@@ -1,0 +1,18 @@
+2024-02-28 14:07:03,996 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:03,997 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GSH.  Parsing as new residue.
+2024-02-28 14:07:03,997 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EAA.  Parsing as new residue.
+2024-02-28 14:07:03,997 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MES.  Parsing as new residue.
+2024-02-28 14:07:03,997 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GSH.  Parsing as new residue.
+2024-02-28 14:07:03,997 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EAA.  Parsing as new residue.
+2024-02-28 14:07:03,998 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MES.  Parsing as new residue.
+2024-02-28 14:07:05,029 WARNING:main.py:311:print_pqr:Ignoring 4331 header lines in output.
+2024-02-28 14:07:05,029 WARNING:main.py:315:print_pqr:Ignoring 107 missing lines in output.
+2024-02-28 14:58:40,165 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:40,171 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GSH.  Parsing as new residue.
+2024-02-28 14:58:40,171 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EAA.  Parsing as new residue.
+2024-02-28 14:58:40,171 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MES.  Parsing as new residue.
+2024-02-28 14:58:40,171 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GSH.  Parsing as new residue.
+2024-02-28 14:58:40,171 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EAA.  Parsing as new residue.
+2024-02-28 14:58:40,171 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MES.  Parsing as new residue.
+2024-02-28 14:58:41,795 WARNING:main.py:311:print_pqr:Ignoring 4331 header lines in output.
+2024-02-28 14:58:41,812 WARNING:main.py:315:print_pqr:Ignoring 107 missing lines in output.

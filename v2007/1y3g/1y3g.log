@@ -1,0 +1,12 @@
+2024-02-28 14:07:23,002 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:23,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:23,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:23,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:23,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:23,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:23,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:23,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 3PL.  Parsing as new residue.
+2024-02-28 14:07:23,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for AMM.  Parsing as new residue.
+2024-02-28 14:07:24,667 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU E 805
+2024-02-28 14:07:24,776 WARNING:main.py:311:print_pqr:Ignoring 1941 header lines in output.
+2024-02-28 14:07:24,776 WARNING:main.py:315:print_pqr:Ignoring 36 missing lines in output.

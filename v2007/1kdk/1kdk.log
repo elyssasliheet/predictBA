@@ -1,0 +1,28 @@
+2024-02-28 14:07:17,684 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DHT.  Parsing as new residue.
+2024-02-28 14:07:17,698 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ARG A 125.
+2024-02-28 14:07:17,698 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG A 125.
+2024-02-28 14:07:17,698 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG A 125.
+2024-02-28 14:07:17,698 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG A 125.
+2024-02-28 14:07:17,698 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG A 125.
+2024-02-28 14:07:17,699 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG A 125.
+2024-02-28 14:07:17,699 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG A 125.
+2024-02-28 14:07:17,699 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG A 125. At least one of the instances is being ignored.
+2024-02-28 14:07:17,699 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP A 162.
+2024-02-28 14:07:17,705 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 162.
+2024-02-28 14:07:17,705 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 162.
+2024-02-28 14:07:17,705 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 162.
+2024-02-28 14:07:17,705 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 162. At least one of the instances is being ignored.
+2024-02-28 14:07:17,746 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP A 12
+2024-02-28 14:07:17,746 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP A 12
+2024-02-28 14:07:17,746 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP A 12
+2024-02-28 14:07:17,747 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue CYS A 188
+2024-02-28 14:07:17,747 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP A 12
+2024-02-28 14:07:17,747 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP A 12
+2024-02-28 14:07:17,747 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP A 12
+2024-02-28 14:07:17,748 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue CYS A 188
+2024-02-28 14:07:17,748 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP A 12
+2024-02-28 14:07:17,748 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP A 12
+2024-02-28 14:07:17,748 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP A 12
+2024-02-28 14:07:17,748 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue CYS A 188
+2024-02-28 14:07:20,157 WARNING:main.py:311:print_pqr:Ignoring 1463 header lines in output.
+2024-02-28 14:07:20,157 WARNING:main.py:315:print_pqr:Ignoring 21 missing lines in output.

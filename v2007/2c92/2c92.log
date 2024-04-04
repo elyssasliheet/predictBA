@@ -1,0 +1,27 @@
+2024-02-28 14:07:17,616 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TP6.  Parsing as new residue.
+2024-02-28 14:07:17,645 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:17,645 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:17,645 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:17,646 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TP6.  Parsing as new residue.
+2024-02-28 14:07:17,646 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:17,646 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:17,646 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:17,646 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TP6.  Parsing as new residue.
+2024-02-28 14:07:17,646 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:17,876 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 160
+2024-02-28 14:07:17,877 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER B 160
+2024-02-28 14:07:17,909 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER C 160
+2024-02-28 14:07:17,910 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER D 160
+2024-02-28 14:07:17,911 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER E 160
+2024-02-28 14:07:17,911 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 160
+2024-02-28 14:07:17,912 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER B 160
+2024-02-28 14:07:17,912 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER C 160
+2024-02-28 14:07:17,949 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER D 160
+2024-02-28 14:07:17,950 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER E 160
+2024-02-28 14:07:17,950 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 160
+2024-02-28 14:07:17,951 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER B 160
+2024-02-28 14:07:17,952 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER C 160
+2024-02-28 14:07:17,952 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER D 160
+2024-02-28 14:07:17,953 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER E 160
+2024-02-28 14:07:23,709 WARNING:main.py:311:print_pqr:Ignoring 7179 header lines in output.
+2024-02-28 14:07:23,709 WARNING:main.py:315:print_pqr:Ignoring 192 missing lines in output.

@@ -1,0 +1,60 @@
+2024-02-28 14:07:05,519 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLA.  Parsing as new residue.
+2024-02-28 14:07:05,520 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GAL.  Parsing as new residue.
+2024-02-28 14:07:05,520 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GLA A 307.
+2024-02-28 14:07:05,520 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GLA A 307.
+2024-02-28 14:07:05,520 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GLA A 307.
+2024-02-28 14:07:05,521 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GLA A 307.
+2024-02-28 14:07:05,521 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GLA A 307.
+2024-02-28 14:07:05,521 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GLA A 307.
+2024-02-28 14:07:05,521 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in GLA A 307.
+2024-02-28 14:07:05,521 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GLA A 307.
+2024-02-28 14:07:05,522 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GLA A 307.
+2024-02-28 14:07:05,522 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GLA A 307.
+2024-02-28 14:07:05,522 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GLA A 307.
+2024-02-28 14:07:05,522 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GLA A 307.
+2024-02-28 14:07:05,522 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLA A 307. At least one of the instances is being ignored.
+2024-02-28 14:07:05,522 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GAL A 308.
+2024-02-28 14:07:05,522 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GAL A 308.
+2024-02-28 14:07:05,522 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GAL A 308.
+2024-02-28 14:07:05,522 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GAL A 308.
+2024-02-28 14:07:05,523 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GAL A 308.
+2024-02-28 14:07:05,523 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GAL A 308.
+2024-02-28 14:07:05,523 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in GAL A 308.
+2024-02-28 14:07:05,523 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GAL A 308.
+2024-02-28 14:07:05,523 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GAL A 308.
+2024-02-28 14:07:05,524 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GAL A 308.
+2024-02-28 14:07:05,524 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GAL A 308.
+2024-02-28 14:07:05,524 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GAL A 308.
+2024-02-28 14:07:05,524 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GAL A 308. At least one of the instances is being ignored.
+2024-02-28 14:07:05,538 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue ASN A 2
+2024-02-28 14:07:05,538 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 2
+2024-02-28 14:07:05,539 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 2
+2024-02-28 14:07:05,539 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 2
+2024-02-28 14:07:05,540 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LYS A 306
+2024-02-28 14:07:05,540 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 306
+2024-02-28 14:07:05,540 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 306
+2024-02-28 14:07:05,541 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 306
+2024-02-28 14:07:05,541 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 306
+2024-02-28 14:07:05,541 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 306
+2024-02-28 14:07:05,541 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue ASN A 2
+2024-02-28 14:07:05,542 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 2
+2024-02-28 14:07:05,542 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 2
+2024-02-28 14:07:05,542 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 2
+2024-02-28 14:07:05,543 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LYS A 306
+2024-02-28 14:07:05,543 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 306
+2024-02-28 14:07:05,543 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 306
+2024-02-28 14:07:05,544 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 306
+2024-02-28 14:07:05,544 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 306
+2024-02-28 14:07:05,544 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 306
+2024-02-28 14:07:05,544 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue ASN A 2
+2024-02-28 14:07:05,544 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASN A 2
+2024-02-28 14:07:05,544 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASN A 2
+2024-02-28 14:07:05,544 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 2
+2024-02-28 14:07:05,545 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LYS A 306
+2024-02-28 14:07:05,545 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 306
+2024-02-28 14:07:05,545 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 306
+2024-02-28 14:07:05,545 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 306
+2024-02-28 14:07:05,546 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 306
+2024-02-28 14:07:05,546 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 306
+2024-02-28 14:07:06,512 WARNING:main.py:311:print_pqr:Ignoring 1551 header lines in output.
+2024-02-28 14:07:06,513 WARNING:main.py:315:print_pqr:Ignoring 24 missing lines in output.

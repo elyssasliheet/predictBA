@@ -1,0 +1,7 @@
+2024-02-28 14:07:17,132 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FE.  Parsing as new residue.
+2024-02-28 14:07:17,142 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,142 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,142 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 109.  Parsing as new residue.
+2024-02-28 14:07:17,142 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 109.  Parsing as new residue.
+2024-02-28 14:07:20,378 WARNING:main.py:311:print_pqr:Ignoring 2104 header lines in output.
+2024-02-28 14:07:20,379 WARNING:main.py:315:print_pqr:Ignoring 41 missing lines in output.

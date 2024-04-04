@@ -1,0 +1,26 @@
+2024-02-28 14:07:16,332 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:16,332 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:16,332 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ACT.  Parsing as new residue.
+2024-02-28 14:07:16,333 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HBU.  Parsing as new residue.
+2024-02-28 14:07:16,333 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:16,333 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:16,333 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NI.  Parsing as new residue.
+2024-02-28 14:07:16,334 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ACT.  Parsing as new residue.
+2024-02-28 14:07:16,334 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HBU.  Parsing as new residue.
+2024-02-28 14:07:16,359 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue MET A 1
+2024-02-28 14:07:16,359 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SD in residue MET A 1
+2024-02-28 14:07:16,359 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue MET A 1
+2024-02-28 14:07:16,361 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 416
+2024-02-28 14:07:16,362 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER B 917
+2024-02-28 14:07:16,362 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue MET A 1
+2024-02-28 14:07:16,362 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SD in residue MET A 1
+2024-02-28 14:07:16,362 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue MET A 1
+2024-02-28 14:07:16,363 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 416
+2024-02-28 14:07:16,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER B 917
+2024-02-28 14:07:16,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue MET A 1
+2024-02-28 14:07:16,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SD in residue MET A 1
+2024-02-28 14:07:16,365 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue MET A 1
+2024-02-28 14:07:16,366 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 416
+2024-02-28 14:07:16,367 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER B 917
+2024-02-28 14:07:20,798 WARNING:main.py:311:print_pqr:Ignoring 1952 header lines in output.
+2024-02-28 14:07:20,798 WARNING:main.py:315:print_pqr:Ignoring 35 missing lines in output.

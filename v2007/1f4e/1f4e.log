@@ -1,0 +1,30 @@
+2024-02-28 14:06:48,881 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CXM.  Parsing as new residue.
+2024-02-28 14:06:48,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:06:48,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:06:48,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:06:48,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:06:48,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPR.  Parsing as new residue.
+2024-02-28 14:06:48,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPR.  Parsing as new residue.
+2024-02-28 14:06:48,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GOL.  Parsing as new residue.
+2024-02-28 14:06:48,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GOL.  Parsing as new residue.
+2024-02-28 14:06:48,899 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLN A 3.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLN A 3.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLN A 3.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in GLN A 3.
+2024-02-28 14:06:48,899 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLN A 3. At least one of the instances is being ignored.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 73.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 73.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 73.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 73.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 73.
+2024-02-28 14:06:48,899 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 73. At least one of the instances is being ignored.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in PHE A 149.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in PHE A 149.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in PHE A 149.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in PHE A 149.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE2 in PHE A 149.
+2024-02-28 14:06:48,899 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in PHE A 149.
+2024-02-28 14:06:48,900 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PHE A 149. At least one of the instances is being ignored.
+2024-02-28 14:06:51,526 WARNING:main.py:311:print_pqr:Ignoring 3505 header lines in output.
+2024-02-28 14:06:51,530 WARNING:main.py:315:print_pqr:Ignoring 85 missing lines in output.

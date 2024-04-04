@@ -1,0 +1,5 @@
+2024-02-28 14:07:17,102 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPO.  Parsing as new residue.
+2024-02-28 14:07:17,172 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SEP.  Parsing as new residue.
+2024-02-28 14:07:17,175 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IQP.  Parsing as new residue.
+2024-02-28 14:07:19,826 WARNING:main.py:311:print_pqr:Ignoring 2118 header lines in output.
+2024-02-28 14:07:19,826 WARNING:main.py:315:print_pqr:Ignoring 41 missing lines in output.

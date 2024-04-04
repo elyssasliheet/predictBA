@@ -1,0 +1,10 @@
+2024-02-28 14:07:16,751 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BGC.  Parsing as new residue.
+2024-02-28 14:07:16,751 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GAL.  Parsing as new residue.
+2024-02-28 14:07:16,752 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BGC.  Parsing as new residue.
+2024-02-28 14:07:16,752 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GAL.  Parsing as new residue.
+2024-02-28 14:07:16,753 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:07:16,753 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for UDP.  Parsing as new residue.
+2024-02-28 14:07:16,753 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:07:16,753 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for UDP.  Parsing as new residue.
+2024-02-28 14:07:18,445 WARNING:main.py:311:print_pqr:Ignoring 3980 header lines in output.
+2024-02-28 14:07:18,870 WARNING:main.py:315:print_pqr:Ignoring 98 missing lines in output.

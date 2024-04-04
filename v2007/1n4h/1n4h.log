@@ -1,0 +1,9 @@
+2024-02-28 14:07:24,295 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for REA.  Parsing as new residue.
+2024-02-28 14:07:24,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 244
+2024-02-28 14:07:24,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 700
+2024-02-28 14:07:24,318 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 244
+2024-02-28 14:07:24,318 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 700
+2024-02-28 14:07:24,319 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 244
+2024-02-28 14:07:24,319 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 700
+2024-02-28 14:07:25,005 WARNING:main.py:311:print_pqr:Ignoring 1496 header lines in output.
+2024-02-28 14:07:25,005 WARNING:main.py:315:print_pqr:Ignoring 22 missing lines in output.

@@ -1,0 +1,10 @@
+2024-02-28 14:07:16,715 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ACA.  Parsing as new residue.
+2024-02-28 14:07:16,716 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG A 32.
+2024-02-28 14:07:16,716 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG A 32.
+2024-02-28 14:07:16,716 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG A 32.
+2024-02-28 14:07:16,716 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG A 32.
+2024-02-28 14:07:16,716 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG A 32.
+2024-02-28 14:07:16,716 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG A 32.
+2024-02-28 14:07:16,717 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG A 32. At least one of the instances is being ignored.
+2024-02-28 14:07:16,981 WARNING:main.py:311:print_pqr:Ignoring 1044 header lines in output.
+2024-02-28 14:07:16,981 WARNING:main.py:315:print_pqr:Ignoring 9 missing lines in output.

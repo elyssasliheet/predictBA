@@ -1,0 +1,41 @@
+2024-02-28 14:07:04,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:04,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CRP.  Parsing as new residue.
+2024-02-28 14:07:04,089 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 114
+2024-02-28 14:07:04,090 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 114
+2024-02-28 14:07:04,090 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 114
+2024-02-28 14:07:04,090 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 114
+2024-02-28 14:07:04,090 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue MET A 118
+2024-02-28 14:07:04,090 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SD in residue MET A 118
+2024-02-28 14:07:04,091 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue MET A 118
+2024-02-28 14:07:04,091 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 119
+2024-02-28 14:07:04,091 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 119
+2024-02-28 14:07:04,092 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 119
+2024-02-28 14:07:04,092 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 119
+2024-02-28 14:07:04,092 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:07:04,093 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 114
+2024-02-28 14:07:04,093 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 114
+2024-02-28 14:07:04,093 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 114
+2024-02-28 14:07:04,093 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 114
+2024-02-28 14:07:04,094 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue MET A 118
+2024-02-28 14:07:04,094 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SD in residue MET A 118
+2024-02-28 14:07:04,094 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue MET A 118
+2024-02-28 14:07:04,094 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 119
+2024-02-28 14:07:04,095 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 119
+2024-02-28 14:07:04,095 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 119
+2024-02-28 14:07:04,095 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 119
+2024-02-28 14:07:04,096 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:07:04,096 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 114
+2024-02-28 14:07:04,096 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 114
+2024-02-28 14:07:04,096 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 114
+2024-02-28 14:07:04,096 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 114
+2024-02-28 14:07:04,097 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue MET A 118
+2024-02-28 14:07:04,097 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SD in residue MET A 118
+2024-02-28 14:07:04,097 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue MET A 118
+2024-02-28 14:07:04,098 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 119
+2024-02-28 14:07:04,098 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 119
+2024-02-28 14:07:04,098 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 119
+2024-02-28 14:07:04,098 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 119
+2024-02-28 14:07:04,099 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:07:04,814 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump TYR A 113
+2024-02-28 14:07:04,998 WARNING:main.py:311:print_pqr:Ignoring 1591 header lines in output.
+2024-02-28 14:07:04,998 WARNING:main.py:315:print_pqr:Ignoring 25 missing lines in output.

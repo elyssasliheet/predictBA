@@ -1,0 +1,4 @@
+2024-02-28 14:07:18,671 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:19,041 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZAF.  Parsing as new residue.
+2024-02-28 14:07:23,239 WARNING:main.py:311:print_pqr:Ignoring 1900 header lines in output.
+2024-02-28 14:07:23,240 WARNING:main.py:315:print_pqr:Ignoring 34 missing lines in output.

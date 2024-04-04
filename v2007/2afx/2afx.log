@@ -1,0 +1,10 @@
+2024-02-28 14:07:17,318 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,325 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,325 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1BN.  Parsing as new residue.
+2024-02-28 14:07:17,325 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,325 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,326 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1BN.  Parsing as new residue.
+2024-02-28 14:07:17,383 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS A 182 and PRO A 189!
+2024-02-28 14:07:17,429 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS B 182 and PRO B 189!
+2024-02-28 14:07:23,426 WARNING:main.py:311:print_pqr:Ignoring 1970 header lines in output.
+2024-02-28 14:07:23,426 WARNING:main.py:315:print_pqr:Ignoring 36 missing lines in output.

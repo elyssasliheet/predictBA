@@ -1,0 +1,19 @@
+2024-02-28 14:07:09,999 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:10,000 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:10,000 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MS2.  Parsing as new residue.
+2024-02-28 14:07:10,000 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:10,001 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MS2.  Parsing as new residue.
+2024-02-28 14:07:10,001 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:10,002 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:10,002 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MS2.  Parsing as new residue.
+2024-02-28 14:07:10,021 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 172
+2024-02-28 14:07:10,022 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 172
+2024-02-28 14:07:10,022 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS C 172
+2024-02-28 14:07:10,023 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 172
+2024-02-28 14:07:10,024 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 172
+2024-02-28 14:07:10,024 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS C 172
+2024-02-28 14:07:10,025 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 172
+2024-02-28 14:07:10,025 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 172
+2024-02-28 14:07:10,026 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS C 172
+2024-02-28 14:07:11,293 WARNING:main.py:311:print_pqr:Ignoring 3140 header lines in output.
+2024-02-28 14:07:11,293 WARNING:main.py:315:print_pqr:Ignoring 71 missing lines in output.

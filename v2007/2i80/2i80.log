@@ -1,0 +1,12 @@
+2024-02-28 14:07:17,059 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for G1L.  Parsing as new residue.
+2024-02-28 14:07:17,068 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for G1L.  Parsing as new residue.
+2024-02-28 14:07:17,081 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PHE A 245 and VAL A 257!
+2024-02-28 14:07:17,083 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PHE B 245 and VAL B 257!
+2024-02-28 14:07:17,123 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 358
+2024-02-28 14:07:17,194 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS B 360
+2024-02-28 14:07:17,195 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 358
+2024-02-28 14:07:17,197 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS B 360
+2024-02-28 14:07:17,198 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 358
+2024-02-28 14:07:17,199 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS B 360
+2024-02-28 14:07:22,164 WARNING:main.py:311:print_pqr:Ignoring 1974 header lines in output.
+2024-02-28 14:07:22,164 WARNING:main.py:315:print_pqr:Ignoring 36 missing lines in output.

@@ -1,0 +1,6 @@
+2024-02-28 14:07:10,858 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DGN.  Parsing as new residue.
+2024-02-28 14:07:10,872 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 252
+2024-02-28 14:07:10,873 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 252
+2024-02-28 14:07:10,874 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 252
+2024-02-28 14:07:11,520 WARNING:main.py:311:print_pqr:Ignoring 1088 header lines in output.
+2024-02-28 14:07:11,521 WARNING:main.py:315:print_pqr:Ignoring 10 missing lines in output.

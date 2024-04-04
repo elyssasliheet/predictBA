@@ -1,0 +1,4 @@
+2024-02-28 14:07:16,904 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for U2P.  Parsing as new residue.
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for U2P.  Parsing as new residue.
+2024-02-28 14:07:19,869 WARNING:main.py:311:print_pqr:Ignoring 2208 header lines in output.
+2024-02-28 14:07:19,869 WARNING:main.py:315:print_pqr:Ignoring 42 missing lines in output.

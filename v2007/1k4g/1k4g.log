@@ -1,0 +1,14 @@
+2024-02-28 14:07:02,638 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:02,639 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for AIQ.  Parsing as new residue.
+2024-02-28 14:07:02,656 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:02,657 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:02,658 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:03,561 WARNING:main.py:311:print_pqr:Ignoring 1453 header lines in output.
+2024-02-28 14:07:03,561 WARNING:main.py:315:print_pqr:Ignoring 21 missing lines in output.
+2024-02-28 14:58:40,149 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:40,158 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for AIQ.  Parsing as new residue.
+2024-02-28 14:58:40,185 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:58:40,200 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:58:40,215 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:58:41,296 WARNING:main.py:311:print_pqr:Ignoring 1453 header lines in output.
+2024-02-28 14:58:41,297 WARNING:main.py:315:print_pqr:Ignoring 21 missing lines in output.

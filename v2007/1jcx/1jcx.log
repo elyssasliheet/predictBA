@@ -1,0 +1,14 @@
+2024-02-28 14:07:17,318 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:17,325 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PAI.  Parsing as new residue.
+2024-02-28 14:07:17,325 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:17,325 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PAI.  Parsing as new residue.
+2024-02-28 14:07:17,361 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO A 1190 and GLY A 1199!
+2024-02-28 14:07:17,387 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO B 2190 and GLY B 2199!
+2024-02-28 14:07:17,429 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 1264
+2024-02-28 14:07:17,574 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE B 2264
+2024-02-28 14:07:17,575 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 1264
+2024-02-28 14:07:17,577 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE B 2264
+2024-02-28 14:07:17,578 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 1264
+2024-02-28 14:07:17,579 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE B 2264
+2024-02-28 14:07:23,471 WARNING:main.py:311:print_pqr:Ignoring 2539 header lines in output.
+2024-02-28 14:07:23,472 WARNING:main.py:315:print_pqr:Ignoring 52 missing lines in output.

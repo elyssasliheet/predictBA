@@ -1,0 +1,54 @@
+2024-02-28 14:07:17,253 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 7IG.  Parsing as new residue.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in MET A 11.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in MET A 11.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 11.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 11.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 11.
+2024-02-28 14:07:17,439 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 11. At least one of the instances is being ignored.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ASP A 151.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP A 151.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 151.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 151.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 151.
+2024-02-28 14:07:17,439 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 151. At least one of the instances is being ignored.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in GLU B 18.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in GLU B 18.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU B 18.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU B 18.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU B 18.
+2024-02-28 14:07:17,439 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU B 18.
+2024-02-28 14:07:17,440 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU B 18. At least one of the instances is being ignored.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER B 62.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER B 62.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER B 62.
+2024-02-28 14:07:17,440 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER B 62. At least one of the instances is being ignored.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in LEU B 87.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LEU B 87.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LEU B 87.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU B 87.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU B 87.
+2024-02-28 14:07:17,440 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU B 87. At least one of the instances is being ignored.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ASP B 151.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP B 151.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP B 151.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP B 151.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP B 151.
+2024-02-28 14:07:17,440 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP B 151. At least one of the instances is being ignored.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in HIS B 186.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS B 186.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS B 186.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS B 186.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS B 186.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS B 186.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS B 186.
+2024-02-28 14:07:17,440 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS B 186. At least one of the instances is being ignored.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in MET B 298.
+2024-02-28 14:07:17,440 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in MET B 298.
+2024-02-28 14:07:17,441 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET B 298.
+2024-02-28 14:07:17,441 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET B 298.
+2024-02-28 14:07:17,441 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET B 298.
+2024-02-28 14:07:17,441 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET B 298. At least one of the instances is being ignored.
+2024-02-28 14:07:17,471 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU B 76 and VAL B 83!
+2024-02-28 14:07:22,967 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump ALA B 334
+2024-02-28 14:07:23,232 WARNING:main.py:311:print_pqr:Ignoring 1628 header lines in output.
+2024-02-28 14:07:23,232 WARNING:main.py:315:print_pqr:Ignoring 26 missing lines in output.

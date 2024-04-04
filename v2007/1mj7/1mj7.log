@@ -1,0 +1,31 @@
+2024-02-28 14:07:17,835 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HAL.  Parsing as new residue.
+2024-02-28 14:07:17,865 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between CYS H 22 and SER H 31!
+2024-02-28 14:07:17,889 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO H 52A and SER H 56!
+2024-02-28 14:07:17,890 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP H 96 and PHE H 100!
+2024-02-28 14:07:17,890 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO H 126 and SER H 136!
+2024-02-28 14:07:17,927 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue PHE H 100
+2024-02-28 14:07:18,313 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue PHE H 100
+2024-02-28 14:07:18,313 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue PHE H 100
+2024-02-28 14:07:18,313 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE1 in residue PHE H 100
+2024-02-28 14:07:18,313 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE2 in residue PHE H 100
+2024-02-28 14:07:18,313 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue PHE H 100
+2024-02-28 14:07:18,314 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG H 228
+2024-02-28 14:07:18,315 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU L 213
+2024-02-28 14:07:18,315 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue PHE H 100
+2024-02-28 14:07:18,315 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue PHE H 100
+2024-02-28 14:07:18,315 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue PHE H 100
+2024-02-28 14:07:18,315 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE1 in residue PHE H 100
+2024-02-28 14:07:18,315 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE2 in residue PHE H 100
+2024-02-28 14:07:18,315 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue PHE H 100
+2024-02-28 14:07:18,316 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG H 228
+2024-02-28 14:07:18,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU L 213
+2024-02-28 14:07:18,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue PHE H 100
+2024-02-28 14:07:18,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue PHE H 100
+2024-02-28 14:07:18,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue PHE H 100
+2024-02-28 14:07:18,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE1 in residue PHE H 100
+2024-02-28 14:07:18,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE2 in residue PHE H 100
+2024-02-28 14:07:18,317 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue PHE H 100
+2024-02-28 14:07:18,318 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG H 228
+2024-02-28 14:07:18,318 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU L 213
+2024-02-28 14:07:23,221 WARNING:main.py:311:print_pqr:Ignoring 1860 header lines in output.
+2024-02-28 14:07:23,221 WARNING:main.py:315:print_pqr:Ignoring 33 missing lines in output.

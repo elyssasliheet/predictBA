@@ -1,0 +1,15 @@
+2024-02-28 14:07:17,721 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 3TL.  Parsing as new residue.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ILE A 37.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ILE A 37.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in ILE A 37.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in ILE A 37.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in ILE A 37.
+2024-02-28 14:07:17,730 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ILE A 37. At least one of the instances is being ignored.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ILE A 108.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ILE A 108.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in ILE A 108.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in ILE A 108.
+2024-02-28 14:07:17,730 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in ILE A 108.
+2024-02-28 14:07:17,730 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ILE A 108. At least one of the instances is being ignored.
+2024-02-28 14:07:19,318 WARNING:main.py:311:print_pqr:Ignoring 1827 header lines in output.
+2024-02-28 14:07:19,318 WARNING:main.py:315:print_pqr:Ignoring 33 missing lines in output.

@@ -1,0 +1,10 @@
+2024-02-28 14:07:10,236 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TBP.  Parsing as new residue.
+2024-02-28 14:07:10,236 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TBP.  Parsing as new residue.
+2024-02-28 14:07:10,249 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 125
+2024-02-28 14:07:10,250 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO B 125
+2024-02-28 14:07:10,250 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 125
+2024-02-28 14:07:10,251 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO B 125
+2024-02-28 14:07:10,251 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 125
+2024-02-28 14:07:10,251 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO B 125
+2024-02-28 14:07:10,790 WARNING:main.py:311:print_pqr:Ignoring 1426 header lines in output.
+2024-02-28 14:07:10,790 WARNING:main.py:315:print_pqr:Ignoring 20 missing lines in output.

@@ -1,0 +1,61 @@
+2024-02-28 14:07:15,424 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,424 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,425 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GTP.  Parsing as new residue.
+2024-02-28 14:07:15,425 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,425 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GTP.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GTP.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:15,455 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU A 10
+2024-02-28 14:07:15,455 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU A 10
+2024-02-28 14:07:15,455 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU A 10
+2024-02-28 14:07:15,456 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET A 244
+2024-02-28 14:07:15,456 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU B 10
+2024-02-28 14:07:15,456 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU B 10
+2024-02-28 14:07:15,456 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU B 10
+2024-02-28 14:07:15,457 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET B 244
+2024-02-28 14:07:15,457 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU C 10
+2024-02-28 14:07:15,457 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU C 10
+2024-02-28 14:07:15,457 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU C 10
+2024-02-28 14:07:15,457 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET C 244
+2024-02-28 14:07:15,457 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU D 10
+2024-02-28 14:07:15,457 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU D 10
+2024-02-28 14:07:15,457 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU D 10
+2024-02-28 14:07:15,458 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET D 244
+2024-02-28 14:07:15,458 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU A 10
+2024-02-28 14:07:15,459 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU A 10
+2024-02-28 14:07:15,459 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU A 10
+2024-02-28 14:07:15,459 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET A 244
+2024-02-28 14:07:15,459 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU B 10
+2024-02-28 14:07:15,459 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU B 10
+2024-02-28 14:07:15,460 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU B 10
+2024-02-28 14:07:15,460 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET B 244
+2024-02-28 14:07:15,460 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU C 10
+2024-02-28 14:07:15,460 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU C 10
+2024-02-28 14:07:15,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU C 10
+2024-02-28 14:07:15,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET C 244
+2024-02-28 14:07:15,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU D 10
+2024-02-28 14:07:15,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU D 10
+2024-02-28 14:07:15,462 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU D 10
+2024-02-28 14:07:15,462 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET D 244
+2024-02-28 14:07:15,463 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU A 10
+2024-02-28 14:07:15,463 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU A 10
+2024-02-28 14:07:15,463 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU A 10
+2024-02-28 14:07:15,464 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET A 244
+2024-02-28 14:07:15,464 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU B 10
+2024-02-28 14:07:15,464 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU B 10
+2024-02-28 14:07:15,464 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU B 10
+2024-02-28 14:07:15,465 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET B 244
+2024-02-28 14:07:15,465 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU C 10
+2024-02-28 14:07:15,465 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU C 10
+2024-02-28 14:07:15,465 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU C 10
+2024-02-28 14:07:15,466 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET C 244
+2024-02-28 14:07:15,466 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU D 10
+2024-02-28 14:07:15,466 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU D 10
+2024-02-28 14:07:15,466 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU D 10
+2024-02-28 14:07:15,467 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue MET D 244
+2024-02-28 14:07:22,844 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU D 10
+2024-02-28 14:07:23,442 WARNING:main.py:311:print_pqr:Ignoring 6366 header lines in output.
+2024-02-28 14:07:23,442 WARNING:main.py:315:print_pqr:Ignoring 168 missing lines in output.

@@ -1,0 +1,36 @@
+2024-02-28 14:07:15,394 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLP.  Parsing as new residue.
+2024-02-28 14:07:15,394 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:15,394 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:15,395 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:15,395 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:15,395 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:15,396 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:15,396 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MES.  Parsing as new residue.
+2024-02-28 14:07:15,396 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MRD.  Parsing as new residue.
+2024-02-28 14:07:15,397 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 401.
+2024-02-28 14:07:15,397 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 401. At least one of the instances is being ignored.
+2024-02-28 14:07:15,397 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LEU A 589.
+2024-02-28 14:07:15,397 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LEU A 589.
+2024-02-28 14:07:15,397 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 589.
+2024-02-28 14:07:15,397 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 589.
+2024-02-28 14:07:15,397 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 589. At least one of the instances is being ignored.
+2024-02-28 14:07:16,301 WARNING:main.py:311:print_pqr:Ignoring 2804 header lines in output.
+2024-02-28 14:07:16,301 WARNING:main.py:315:print_pqr:Ignoring 62 missing lines in output.
+2024-02-28 14:58:39,154 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLP.  Parsing as new residue.
+2024-02-28 14:58:39,159 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:39,159 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:39,159 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:39,160 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:39,160 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:39,160 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:58:39,160 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MES.  Parsing as new residue.
+2024-02-28 14:58:39,160 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MRD.  Parsing as new residue.
+2024-02-28 14:58:39,160 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 401.
+2024-02-28 14:58:39,160 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 401. At least one of the instances is being ignored.
+2024-02-28 14:58:39,160 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LEU A 589.
+2024-02-28 14:58:39,160 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LEU A 589.
+2024-02-28 14:58:39,160 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 589.
+2024-02-28 14:58:39,160 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 589.
+2024-02-28 14:58:39,160 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 589. At least one of the instances is being ignored.
+2024-02-28 14:58:41,181 WARNING:main.py:311:print_pqr:Ignoring 2804 header lines in output.
+2024-02-28 14:58:41,181 WARNING:main.py:315:print_pqr:Ignoring 62 missing lines in output.

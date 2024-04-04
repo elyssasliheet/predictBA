@@ -1,0 +1,10 @@
+2024-02-28 14:07:16,851 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:16,852 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PUR.  Parsing as new residue.
+2024-02-28 14:07:16,870 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue GLN A 352
+2024-02-28 14:07:16,871 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 352
+2024-02-28 14:07:16,872 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue GLN A 352
+2024-02-28 14:07:16,872 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 352
+2024-02-28 14:07:16,873 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue GLN A 352
+2024-02-28 14:07:16,873 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 352
+2024-02-28 14:07:18,193 WARNING:main.py:311:print_pqr:Ignoring 1395 header lines in output.
+2024-02-28 14:07:18,572 WARNING:main.py:315:print_pqr:Ignoring 19 missing lines in output.

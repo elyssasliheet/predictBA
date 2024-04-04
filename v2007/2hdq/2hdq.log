@@ -1,0 +1,22 @@
+2024-02-28 14:07:09,956 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,957 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,957 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,958 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,958 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,958 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,959 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,959 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,960 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:07:09,960 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:11,726 WARNING:main.py:311:print_pqr:Ignoring 3926 header lines in output.
+2024-02-28 14:07:11,726 WARNING:main.py:315:print_pqr:Ignoring 96 missing lines in output.
+2024-02-28 14:58:40,847 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C21.  Parsing as new residue.
+2024-02-28 14:58:40,863 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages

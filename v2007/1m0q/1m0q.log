@@ -1,0 +1,10 @@
+2024-02-28 14:07:05,352 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:05,352 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:05,353 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EPC.  Parsing as new residue.
+2024-02-28 14:07:06,372 WARNING:main.py:311:print_pqr:Ignoring 1549 header lines in output.
+2024-02-28 14:07:06,372 WARNING:main.py:315:print_pqr:Ignoring 24 missing lines in output.
+2024-02-28 14:58:37,563 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:58:37,564 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:58:37,564 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EPC.  Parsing as new residue.
+2024-02-28 14:58:39,564 WARNING:main.py:311:print_pqr:Ignoring 1549 header lines in output.
+2024-02-28 14:58:39,564 WARNING:main.py:315:print_pqr:Ignoring 24 missing lines in output.

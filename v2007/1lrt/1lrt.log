@@ -1,0 +1,45 @@
+2024-02-28 14:07:18,080 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BOG.  Parsing as new residue.
+2024-02-28 14:07:18,101 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BOG.  Parsing as new residue.
+2024-02-28 14:07:18,101 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:18,101 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IMP.  Parsing as new residue.
+2024-02-28 14:07:18,102 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TAD.  Parsing as new residue.
+2024-02-28 14:07:18,102 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TRS.  Parsing as new residue.
+2024-02-28 14:07:18,102 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TRS.  Parsing as new residue.
+2024-02-28 14:07:18,102 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TRS.  Parsing as new residue.
+2024-02-28 14:07:18,102 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TRS.  Parsing as new residue.
+2024-02-28 14:07:18,102 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:18,246 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS A 100 and ARG A 231!
+2024-02-28 14:07:18,246 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between CYS A 319 and GLU A 323!
+2024-02-28 14:07:18,247 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between TRP A 416 and GLU A 430!
+2024-02-28 14:07:18,248 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS B 100 and ARG B 231!
+2024-02-28 14:07:18,249 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between CYS B 319 and GLU B 323!
+2024-02-28 14:07:18,642 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between TRP B 416 and ASP B 434!
+2024-02-28 14:07:18,643 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS C 100 and ARG C 231!
+2024-02-28 14:07:18,644 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between CYS C 319 and GLU C 323!
+2024-02-28 14:07:18,644 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between TRP C 416 and ASP C 434!
+2024-02-28 14:07:18,649 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS D 100 and ARG D 231!
+2024-02-28 14:07:18,651 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between TRP D 416 and GLU D 431!
+2024-02-28 14:07:19,029 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 485
+2024-02-28 14:07:19,042 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 485
+2024-02-28 14:07:19,051 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU C 485
+2024-02-28 14:07:19,062 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU D 485
+2024-02-28 14:07:19,063 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 485
+2024-02-28 14:07:19,071 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 485
+2024-02-28 14:07:19,086 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU C 485
+2024-02-28 14:07:19,088 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU D 485
+2024-02-28 14:07:19,090 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 485
+2024-02-28 14:07:19,091 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 485
+2024-02-28 14:07:19,092 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU C 485
+2024-02-28 14:07:19,118 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU D 485
+2024-02-28 14:07:25,514 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH B 1014 skipped when optimizing O in HOH B 981
+2024-02-28 14:07:25,559 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH B 1024 skipped when optimizing O in HOH B 1026
+2024-02-28 14:07:25,608 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH C 922 skipped when optimizing O in HOH C 996
+2024-02-28 14:07:25,687 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH D 1009 skipped when optimizing O in HOH D 998
+2024-02-28 14:07:25,711 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH D 998 skipped when optimizing O in HOH D 1009
+2024-02-28 14:07:25,711 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH D 998 skipped when optimizing H2 in HOH D 1009
+2024-02-28 14:07:25,711 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH D 998 skipped when optimizing H2 in HOH D 1009
+2024-02-28 14:07:25,712 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH D 998 skipped when optimizing H2 in HOH D 1009
+2024-02-28 14:07:25,712 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH D 998 skipped when optimizing H2 in HOH D 1009
+2024-02-28 14:07:25,712 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:07:32,034 WARNING:main.py:311:print_pqr:Ignoring 14671 header lines in output.
+2024-02-28 14:07:32,035 WARNING:main.py:315:print_pqr:Ignoring 404 missing lines in output.

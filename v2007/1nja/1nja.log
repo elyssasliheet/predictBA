@@ -1,0 +1,12 @@
+2024-02-28 14:07:01,827 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DCM.  Parsing as new residue.
+2024-02-28 14:07:01,842 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP A 111
+2024-02-28 14:07:01,842 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP A 111
+2024-02-28 14:07:01,843 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP A 111
+2024-02-28 14:07:01,844 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP A 111
+2024-02-28 14:07:01,844 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP A 111
+2024-02-28 14:07:01,844 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP A 111
+2024-02-28 14:07:01,845 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ASP A 111
+2024-02-28 14:07:01,845 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD1 in residue ASP A 111
+2024-02-28 14:07:01,845 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OD2 in residue ASP A 111
+2024-02-28 14:07:02,652 WARNING:main.py:311:print_pqr:Ignoring 1430 header lines in output.
+2024-02-28 14:07:02,653 WARNING:main.py:315:print_pqr:Ignoring 20 missing lines in output.

@@ -1,0 +1,6 @@
+2024-02-28 14:07:24,303 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:24,303 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GIP.  Parsing as new residue.
+2024-02-28 14:07:24,303 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:24,303 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GIP.  Parsing as new residue.
+2024-02-28 14:07:25,214 WARNING:main.py:311:print_pqr:Ignoring 2898 header lines in output.
+2024-02-28 14:07:25,215 WARNING:main.py:315:print_pqr:Ignoring 64 missing lines in output.

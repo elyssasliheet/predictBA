@@ -1,0 +1,9 @@
+2024-02-28 14:07:17,415 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,569 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,569 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,569 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 239.  Parsing as new residue.
+2024-02-28 14:07:17,661 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SG in residue CYS A 133
+2024-02-28 14:07:17,954 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SG in residue CYS A 133
+2024-02-28 14:07:17,955 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom SG in residue CYS A 133
+2024-02-28 14:07:21,674 WARNING:main.py:311:print_pqr:Ignoring 2084 header lines in output.
+2024-02-28 14:07:21,679 WARNING:main.py:315:print_pqr:Ignoring 39 missing lines in output.

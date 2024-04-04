@@ -1,0 +1,23 @@
+2024-02-28 14:07:16,725 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TYS.  Parsing as new residue.
+2024-02-28 14:07:16,726 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:16,726 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 120.  Parsing as new residue.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS H 60F.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS H 60F.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE2 in LYS H 60F.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE3 in LYS H 60F.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HZ1 in LYS H 60F.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HZ2 in LYS H 60F.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HZ3 in LYS H 60F.
+2024-02-28 14:07:16,728 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS H 60F. At least one of the instances is being ignored.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET H 84.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET H 84.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET H 84.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG2 in MET H 84.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG3 in MET H 84.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE1 in MET H 84.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE2 in MET H 84.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE3 in MET H 84.
+2024-02-28 14:07:16,728 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET H 84. At least one of the instances is being ignored.
+2024-02-28 14:07:16,737 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR H 147 and GLY H 150!
+2024-02-28 14:07:17,058 WARNING:main.py:311:print_pqr:Ignoring 2614 header lines in output.
+2024-02-28 14:07:17,058 WARNING:main.py:315:print_pqr:Ignoring 56 missing lines in output.

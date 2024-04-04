@@ -1,0 +1,22 @@
+2024-02-28 14:07:08,760 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BU2.  Parsing as new residue.
+2024-02-28 14:07:08,761 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XMP.  Parsing as new residue.
+2024-02-28 14:07:08,761 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BU2.  Parsing as new residue.
+2024-02-28 14:07:08,761 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XMP.  Parsing as new residue.
+2024-02-28 14:07:08,769 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 181 and GLY A 190!
+2024-02-28 14:07:08,770 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY B 1181 and GLY B 1187!
+2024-02-28 14:07:08,779 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 222
+2024-02-28 14:07:08,781 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 222
+2024-02-28 14:07:08,782 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 222
+2024-02-28 14:07:09,764 WARNING:main.py:311:print_pqr:Ignoring 2822 header lines in output.
+2024-02-28 14:07:09,765 WARNING:main.py:315:print_pqr:Ignoring 60 missing lines in output.
+2024-02-28 14:58:30,400 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BU2.  Parsing as new residue.
+2024-02-28 14:58:30,400 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XMP.  Parsing as new residue.
+2024-02-28 14:58:30,401 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BU2.  Parsing as new residue.
+2024-02-28 14:58:30,401 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XMP.  Parsing as new residue.
+2024-02-28 14:58:30,409 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 181 and GLY A 190!
+2024-02-28 14:58:30,410 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY B 1181 and GLY B 1187!
+2024-02-28 14:58:30,433 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 222
+2024-02-28 14:58:30,435 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 222
+2024-02-28 14:58:30,436 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ILE A 222
+2024-02-28 14:58:31,548 WARNING:main.py:311:print_pqr:Ignoring 2822 header lines in output.
+2024-02-28 14:58:31,549 WARNING:main.py:315:print_pqr:Ignoring 60 missing lines in output.

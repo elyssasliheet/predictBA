@@ -1,0 +1,7 @@
+2024-02-28 14:07:16,941 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for OTA.  Parsing as new residue.
+2024-02-28 14:07:16,968 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ILE A 149 and LYS A 150!
+2024-02-28 14:07:17,000 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 298
+2024-02-28 14:07:17,001 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 298
+2024-02-28 14:07:17,002 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 298
+2024-02-28 14:07:20,846 WARNING:main.py:311:print_pqr:Ignoring 1365 header lines in output.
+2024-02-28 14:07:20,846 WARNING:main.py:315:print_pqr:Ignoring 18 missing lines in output.

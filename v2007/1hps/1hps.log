@@ -1,0 +1,8 @@
+2024-02-28 14:07:19,996 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RUN.  Parsing as new residue.
+2024-02-28 14:07:20,026 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RUN.  Parsing as new residue.
+2024-02-28 14:07:22,421 WARNING:biomolecule.py:741:apply_force_field:Residue RUN B 400 has non-integer charge: 1.4502 deviates by 0.45019999999999993 from integral, exceeding error tolerance 0.001. 
+2024-02-28 14:07:22,421 WARNING:biomolecule.py:741:apply_force_field:Residue RUN B 600 has non-integer charge: 1.4502 deviates by 0.45019999999999993 from integral, exceeding error tolerance 0.001. 
+2024-02-28 14:07:22,422 WARNING:main.py:699:non_trivial:Residue RUN B 400 has non-integer charge:  1.4502 deviates by 0.45019999999999993 from integral, exceeding error tolerance 0.001
+2024-02-28 14:07:22,422 WARNING:main.py:699:non_trivial:Residue RUN B 600 has non-integer charge:  1.4502 deviates by 0.45019999999999993 from integral, exceeding error tolerance 0.001
+2024-02-28 14:07:22,422 CRITICAL:main.py:800:main_driver:6.900399999999999 deviates by 0.09960000000000058 from integral, exceeding error tolerance 0.001
+2024-02-28 14:07:22,422 CRITICAL:main.py:801:main_driver:Giving up.

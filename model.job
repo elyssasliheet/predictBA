@@ -1,0 +1,26 @@
+#!/bin/bash
+#SBATCH -J model_everything   # job name to display in squeue
+#SBATCH -o model_outputs/model_everything.txt       # standard output file
+#SBATCH -p standard-s    # requested partition
+#SBATCH --exclusive      # do not share nodes
+#SBATCH --mem 256GB
+#SBATCH --mail-user esliheet@smu.edu
+#SBATCH --mail-type=all
+
+# load any modules you need and/or activate conda environments
+
+# run python scripts
+
+python model.py 1 1
+python model.py 1 2
+python model.py 2 0
+python model.py 2 1
+python model.py 3 0
+python model.py 3 1
+python model.py 4 0
+
+
+
+
+
+

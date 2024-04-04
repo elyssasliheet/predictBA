@@ -1,0 +1,5 @@
+2024-02-28 14:07:17,610 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,641 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,641 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for R11.  Parsing as new residue.
+2024-02-28 14:07:18,875 WARNING:main.py:311:print_pqr:Ignoring 2024 header lines in output.
+2024-02-28 14:07:18,875 WARNING:main.py:315:print_pqr:Ignoring 38 missing lines in output.

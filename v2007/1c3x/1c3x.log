@@ -1,0 +1,12 @@
+2024-02-28 14:07:15,632 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,633 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 8IG.  Parsing as new residue.
+2024-02-28 14:07:15,633 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,633 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:15,634 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 8IG.  Parsing as new residue.
+2024-02-28 14:07:15,634 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:15,634 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 8IG.  Parsing as new residue.
+2024-02-28 14:07:15,645 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER A 71 and SER A 80!
+2024-02-28 14:07:15,647 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER B 71 and SER B 80!
+2024-02-28 14:07:15,648 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER C 71 and SER C 80!
+2024-02-28 14:07:19,385 WARNING:main.py:311:print_pqr:Ignoring 2469 header lines in output.
+2024-02-28 14:07:19,386 WARNING:main.py:315:print_pqr:Ignoring 52 missing lines in output.

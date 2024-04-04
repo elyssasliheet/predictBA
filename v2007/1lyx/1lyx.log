@@ -1,0 +1,33 @@
+2024-02-28 14:07:16,726 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PGA.  Parsing as new residue.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ASP A 49.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ASP A 49.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ASP A 49.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ASP A 49.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP A 49.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 49.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 49.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 49.
+2024-02-28 14:07:16,727 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 49. At least one of the instances is being ignored.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in PHE A 96.
+2024-02-28 14:07:16,727 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE2 in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in PHE A 96.
+2024-02-28 14:07:16,728 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PHE A 96. At least one of the instances is being ignored.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in LEU A 167.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in LEU A 167.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in LEU A 167.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in LEU A 167.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LEU A 167.
+2024-02-28 14:07:16,728 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LEU A 167.
+2024-02-28 14:07:16,729 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 167.
+2024-02-28 14:07:16,729 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 167.
+2024-02-28 14:07:16,729 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 167. At least one of the instances is being ignored.
+2024-02-28 14:07:17,666 WARNING:main.py:311:print_pqr:Ignoring 1059 header lines in output.
+2024-02-28 14:07:17,977 WARNING:main.py:315:print_pqr:Ignoring 9 missing lines in output.

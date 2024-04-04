@@ -1,0 +1,30 @@
+2024-02-28 14:07:17,124 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,185 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,185 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 688.  Parsing as new residue.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 50.
+2024-02-28 14:07:17,186 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 50. At least one of the instances is being ignored.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LEU A 141.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 141.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 141.
+2024-02-28 14:07:17,186 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 141. At least one of the instances is being ignored.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLN A 205.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLN A 205.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in GLN A 205.
+2024-02-28 14:07:17,186 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLN A 205. At least one of the instances is being ignored.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in LYS A 208.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS A 208.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS A 208.
+2024-02-28 14:07:17,187 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS A 208. At least one of the instances is being ignored.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS A 223.
+2024-02-28 14:07:17,187 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS A 223. At least one of the instances is being ignored.
+2024-02-28 14:07:17,231 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 97
+2024-02-28 14:07:17,385 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 97
+2024-02-28 14:07:17,386 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 97
+2024-02-28 14:07:17,387 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 97
+2024-02-28 14:07:17,387 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 97
+2024-02-28 14:07:17,387 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 97
+2024-02-28 14:07:17,388 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 97
+2024-02-28 14:07:17,388 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 97
+2024-02-28 14:07:17,388 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 97
+2024-02-28 14:07:20,241 WARNING:main.py:311:print_pqr:Ignoring 1899 header lines in output.
+2024-02-28 14:07:20,241 WARNING:main.py:315:print_pqr:Ignoring 34 missing lines in output.

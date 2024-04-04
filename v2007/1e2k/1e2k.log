@@ -1,0 +1,27 @@
+2024-02-28 14:07:16,908 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,908 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TMC.  Parsing as new residue.
+2024-02-28 14:07:16,908 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,908 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TMC.  Parsing as new residue.
+2024-02-28 14:07:16,918 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ALA A 71 and ASP A 76!
+2024-02-28 14:07:16,919 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 148 and PRO A 153!
+2024-02-28 14:07:16,920 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR A 265 and GLY A 279!
+2024-02-28 14:07:16,921 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ALA B 147 and HIS B 151!
+2024-02-28 14:07:16,921 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ARG B 220 and GLU B 225!
+2024-02-28 14:07:16,922 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL B 267 and PRO B 274!
+2024-02-28 14:07:16,933 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue THR A 265
+2024-02-28 14:07:16,933 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG1 in residue THR A 265
+2024-02-28 14:07:16,933 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue THR A 265
+2024-02-28 14:07:16,933 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 374
+2024-02-28 14:07:16,934 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 374
+2024-02-28 14:07:16,935 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue THR A 265
+2024-02-28 14:07:16,935 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG1 in residue THR A 265
+2024-02-28 14:07:16,935 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue THR A 265
+2024-02-28 14:07:16,935 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 374
+2024-02-28 14:07:16,936 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 374
+2024-02-28 14:07:16,937 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue THR A 265
+2024-02-28 14:07:16,937 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG1 in residue THR A 265
+2024-02-28 14:07:16,937 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue THR A 265
+2024-02-28 14:07:16,938 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 374
+2024-02-28 14:07:16,939 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 374
+2024-02-28 14:07:19,566 WARNING:main.py:311:print_pqr:Ignoring 2293 header lines in output.
+2024-02-28 14:07:19,566 WARNING:main.py:315:print_pqr:Ignoring 46 missing lines in output.

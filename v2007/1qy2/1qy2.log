@@ -1,0 +1,11 @@
+2024-02-28 14:07:17,084 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:17,130 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CD.  Parsing as new residue.
+2024-02-28 14:07:17,130 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:17,130 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:17,130 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:17,131 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IPZ.  Parsing as new residue.
+2024-02-28 14:07:17,147 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue CYS A 157
+2024-02-28 14:07:17,167 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue CYS A 157
+2024-02-28 14:07:17,168 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue CYS A 157
+2024-02-28 14:07:19,826 WARNING:main.py:311:print_pqr:Ignoring 1285 header lines in output.
+2024-02-28 14:07:19,826 WARNING:main.py:315:print_pqr:Ignoring 16 missing lines in output.

@@ -1,0 +1,32 @@
+2024-02-28 14:07:17,122 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for STE.  Parsing as new residue.
+2024-02-28 14:07:17,133 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in VAL A 32.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in VAL A 32.
+2024-02-28 14:07:17,134 WARNING:main.py:424:setup_molecule:Multiple occupancies found in VAL A 32. At least one of the instances is being ignored.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in THR A 36.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR A 36.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR A 36.
+2024-02-28 14:07:17,134 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR A 36. At least one of the instances is being ignored.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in THR A 39.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR A 39.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR A 39.
+2024-02-28 14:07:17,134 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR A 39. At least one of the instances is being ignored.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in VAL A 80.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in VAL A 80.
+2024-02-28 14:07:17,134 WARNING:main.py:424:setup_molecule:Multiple occupancies found in VAL A 80. At least one of the instances is being ignored.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR A 85.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR A 85.
+2024-02-28 14:07:17,134 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR A 85. At least one of the instances is being ignored.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR A 102.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR A 102.
+2024-02-28 14:07:17,134 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR A 102. At least one of the instances is being ignored.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 113.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 113.
+2024-02-28 14:07:17,134 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 113. At least one of the instances is being ignored.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR A 125.
+2024-02-28 14:07:17,134 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR A 125.
+2024-02-28 14:07:17,134 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR A 125. At least one of the instances is being ignored.
+2024-02-28 14:07:17,213 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 131
+2024-02-28 14:07:17,354 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 131
+2024-02-28 14:07:17,354 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 131
+2024-02-28 14:07:18,829 WARNING:main.py:311:print_pqr:Ignoring 1428 header lines in output.
+2024-02-28 14:07:18,829 WARNING:main.py:315:print_pqr:Ignoring 20 missing lines in output.

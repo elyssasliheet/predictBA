@@ -1,0 +1,5 @@
+2024-02-28 14:07:24,323 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 227
+2024-02-28 14:07:24,324 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 227
+2024-02-28 14:07:24,325 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 227
+2024-02-28 14:07:24,885 WARNING:main.py:311:print_pqr:Ignoring 792 header lines in output.
+2024-02-28 14:07:24,885 WARNING:main.py:315:print_pqr:Ignoring 1 missing lines in output.

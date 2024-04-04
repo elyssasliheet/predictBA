@@ -1,0 +1,121 @@
+2024-02-28 14:07:18,013 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,441 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,442 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMA.  Parsing as new residue.
+2024-02-28 14:07:18,442 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:18,442 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:18,442 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,442 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:18,442 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMA.  Parsing as new residue.
+2024-02-28 14:07:18,442 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:18,442 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:18,445 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 25.
+2024-02-28 14:07:18,869 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 25.
+2024-02-28 14:07:18,869 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 25.
+2024-02-28 14:07:18,869 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 25. At least one of the instances is being ignored.
+2024-02-28 14:07:18,869 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 44.
+2024-02-28 14:07:18,869 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 44.
+2024-02-28 14:07:18,869 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 44.
+2024-02-28 14:07:18,869 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 44. At least one of the instances is being ignored.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR A 246.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR A 246.
+2024-02-28 14:07:18,870 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR A 246. At least one of the instances is being ignored.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in LYS A 378.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS A 378.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS A 378.
+2024-02-28 14:07:18,870 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS A 378. At least one of the instances is being ignored.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GLC D 1.
+2024-02-28 14:07:18,870 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLC D 1. At least one of the instances is being ignored.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GLC D 2.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GLC D 2.
+2024-02-28 14:07:18,870 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GLC D 2.
+2024-02-28 14:07:18,871 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLC D 2. At least one of the instances is being ignored.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4A in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N4A in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C7B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6B in AC1 D 3.
+2024-02-28 14:07:18,871 WARNING:main.py:424:setup_molecule:Multiple occupancies found in AC1 D 3. At least one of the instances is being ignored.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GLC E 1.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GLC E 1.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GLC E 1.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GLC E 1.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GLC E 1.
+2024-02-28 14:07:18,871 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GLC E 1.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in GLC E 1.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GLC E 1.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GLC E 1.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GLC E 1.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GLC E 1.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GLC E 1.
+2024-02-28 14:07:18,872 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLC E 1. At least one of the instances is being ignored.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GLC E 2.
+2024-02-28 14:07:18,872 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLC E 2. At least one of the instances is being ignored.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4A in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N4A in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1B in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2B in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2B in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3B in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3B in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in AC1 E 3.
+2024-02-28 14:07:18,872 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5B in AC1 E 3.
+2024-02-28 14:07:18,873 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C7B in AC1 E 3.
+2024-02-28 14:07:18,873 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6B in AC1 E 3.
+2024-02-28 14:07:18,873 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6B in AC1 E 3.
+2024-02-28 14:07:18,873 WARNING:main.py:424:setup_molecule:Multiple occupancies found in AC1 E 3. At least one of the instances is being ignored.
+2024-02-28 14:07:23,132 WARNING:main.py:311:print_pqr:Ignoring 11945 header lines in output.
+2024-02-28 14:07:23,133 WARNING:main.py:315:print_pqr:Ignoring 353 missing lines in output.

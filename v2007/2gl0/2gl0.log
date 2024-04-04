@@ -1,0 +1,11 @@
+2024-02-28 14:07:17,071 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ADN.  Parsing as new residue.
+2024-02-28 14:07:17,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ADN.  Parsing as new residue.
+2024-02-28 14:07:17,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:17,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ADN.  Parsing as new residue.
+2024-02-28 14:07:17,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:17,077 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ADN.  Parsing as new residue.
+2024-02-28 14:07:17,078 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ADN.  Parsing as new residue.
+2024-02-28 14:07:17,078 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ADN.  Parsing as new residue.
+2024-02-28 14:07:24,745 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LYS E 157
+2024-02-28 14:07:25,242 WARNING:main.py:311:print_pqr:Ignoring 4902 header lines in output.
+2024-02-28 14:07:25,243 WARNING:main.py:315:print_pqr:Ignoring 124 missing lines in output.

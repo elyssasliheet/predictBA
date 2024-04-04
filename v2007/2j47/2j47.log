@@ -1,0 +1,40 @@
+2024-02-28 14:07:17,300 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GDV.  Parsing as new residue.
+2024-02-28 14:07:17,301 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GOL.  Parsing as new residue.
+2024-02-28 14:07:17,302 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ARG A 68.
+2024-02-28 14:07:17,307 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ARG A 68.
+2024-02-28 14:07:17,307 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG A 68.
+2024-02-28 14:07:17,307 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG A 68.
+2024-02-28 14:07:17,307 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG A 68.
+2024-02-28 14:07:17,308 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG A 68.
+2024-02-28 14:07:17,308 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG A 68.
+2024-02-28 14:07:17,308 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG A 68.
+2024-02-28 14:07:17,308 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG A 68. At least one of the instances is being ignored.
+2024-02-28 14:07:17,309 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ARG A 72.
+2024-02-28 14:07:17,309 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ARG A 72.
+2024-02-28 14:07:17,309 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG A 72.
+2024-02-28 14:07:17,310 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG A 72.
+2024-02-28 14:07:17,310 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG A 72.
+2024-02-28 14:07:17,310 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG A 72.
+2024-02-28 14:07:17,310 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG A 72.
+2024-02-28 14:07:17,310 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG A 72.
+2024-02-28 14:07:17,310 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG A 72. At least one of the instances is being ignored.
+2024-02-28 14:07:17,356 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP A 20 and TYR A 25!
+2024-02-28 14:07:17,357 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 47 and GLY A 54!
+2024-02-28 14:07:17,369 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS A 455 and TYR A 460!
+2024-02-28 14:07:17,405 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 112
+2024-02-28 14:07:17,405 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 112
+2024-02-28 14:07:17,406 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 112
+2024-02-28 14:07:17,406 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 112
+2024-02-28 14:07:17,409 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 589
+2024-02-28 14:07:17,432 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 112
+2024-02-28 14:07:17,434 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 112
+2024-02-28 14:07:17,437 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 112
+2024-02-28 14:07:17,437 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 112
+2024-02-28 14:07:17,455 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 589
+2024-02-28 14:07:17,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 112
+2024-02-28 14:07:17,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 112
+2024-02-28 14:07:17,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 112
+2024-02-28 14:07:17,461 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 112
+2024-02-28 14:07:17,485 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 589
+2024-02-28 14:07:23,402 WARNING:main.py:311:print_pqr:Ignoring 1856 header lines in output.
+2024-02-28 14:07:23,403 WARNING:main.py:315:print_pqr:Ignoring 32 missing lines in output.

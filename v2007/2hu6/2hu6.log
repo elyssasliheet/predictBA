@@ -1,0 +1,16 @@
+2024-02-28 14:07:15,425 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 37A.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HAE.  Parsing as new residue.
+2024-02-28 14:07:15,426 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in PRO A 146.
+2024-02-28 14:07:15,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in PRO A 146.
+2024-02-28 14:07:15,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in PRO A 146.
+2024-02-28 14:07:15,427 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PRO A 146. At least one of the instances is being ignored.
+2024-02-28 14:07:15,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 229.
+2024-02-28 14:07:15,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 229.
+2024-02-28 14:07:15,427 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 229. At least one of the instances is being ignored.
+2024-02-28 14:07:15,810 WARNING:main.py:311:print_pqr:Ignoring 2018 header lines in output.
+2024-02-28 14:07:15,810 WARNING:main.py:315:print_pqr:Ignoring 38 missing lines in output.

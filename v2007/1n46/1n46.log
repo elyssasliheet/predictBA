@@ -1,0 +1,28 @@
+2024-02-28 14:07:17,824 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PFA.  Parsing as new residue.
+2024-02-28 14:07:17,862 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PFA.  Parsing as new residue.
+2024-02-28 14:07:17,945 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLN A 235 and TRP A 239!
+2024-02-28 14:07:17,947 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLN B 235 and TRP B 239!
+2024-02-28 14:07:17,947 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ALA B 253 and LYS B 263!
+2024-02-28 14:07:18,013 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ASP A 461
+2024-02-28 14:07:18,421 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LYS B 240
+2024-02-28 14:07:18,421 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 240
+2024-02-28 14:07:18,421 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 240
+2024-02-28 14:07:18,421 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 240
+2024-02-28 14:07:18,422 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 240
+2024-02-28 14:07:18,423 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ASP B 461
+2024-02-28 14:07:18,424 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ASP A 461
+2024-02-28 14:07:18,424 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LYS B 240
+2024-02-28 14:07:18,424 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 240
+2024-02-28 14:07:18,424 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 240
+2024-02-28 14:07:18,424 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 240
+2024-02-28 14:07:18,424 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 240
+2024-02-28 14:07:18,425 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ASP B 461
+2024-02-28 14:07:18,426 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ASP A 461
+2024-02-28 14:07:18,426 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LYS B 240
+2024-02-28 14:07:18,426 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS B 240
+2024-02-28 14:07:18,426 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS B 240
+2024-02-28 14:07:18,426 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS B 240
+2024-02-28 14:07:18,426 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS B 240
+2024-02-28 14:07:18,427 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ASP B 461
+2024-02-28 14:07:22,571 WARNING:main.py:311:print_pqr:Ignoring 2568 header lines in output.
+2024-02-28 14:07:22,571 WARNING:main.py:315:print_pqr:Ignoring 54 missing lines in output.

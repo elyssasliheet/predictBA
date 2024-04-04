@@ -1,0 +1,18 @@
+2024-02-28 14:07:16,400 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,400 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TMC.  Parsing as new residue.
+2024-02-28 14:07:16,401 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,401 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TMC.  Parsing as new residue.
+2024-02-28 14:07:16,410 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU A 69 and ASP A 77!
+2024-02-28 14:07:16,410 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER A 149 and PRO A 153!
+2024-02-28 14:07:16,411 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 264 and PRO A 280!
+2024-02-28 14:07:16,412 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER B 149 and PRO B 154!
+2024-02-28 14:07:16,413 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS B 219 and ARG B 226!
+2024-02-28 14:07:16,413 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY B 264 and PRO B 274!
+2024-02-28 14:07:16,423 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 374
+2024-02-28 14:07:16,424 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 374
+2024-02-28 14:07:16,425 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 374
+2024-02-28 14:07:16,426 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 374
+2024-02-28 14:07:16,427 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 374
+2024-02-28 14:07:16,428 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU B 374
+2024-02-28 14:07:21,782 WARNING:main.py:311:print_pqr:Ignoring 2293 header lines in output.
+2024-02-28 14:07:21,782 WARNING:main.py:315:print_pqr:Ignoring 46 missing lines in output.

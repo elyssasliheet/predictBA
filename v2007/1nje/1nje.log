@@ -1,0 +1,4 @@
+2024-02-28 14:07:02,819 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DCM.  Parsing as new residue.
+2024-02-28 14:07:03,626 WARNING:main.py:311:print_pqr:Ignoring 1430 header lines in output.
+2024-02-28 14:07:03,626 WARNING:main.py:315:print_pqr:Ignoring 20 missing lines in output.
+2024-02-28 14:58:41,916 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DCM.  Parsing as new residue.

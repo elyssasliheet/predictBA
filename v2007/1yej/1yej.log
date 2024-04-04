@@ -1,0 +1,13 @@
+2024-02-28 14:07:20,741 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:20,753 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:20,753 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:20,754 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:20,754 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:20,754 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:20,754 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:20,754 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PNF.  Parsing as new residue.
+2024-02-28 14:07:20,803 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO H 223
+2024-02-28 14:07:20,811 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO H 223
+2024-02-28 14:07:20,812 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO H 223
+2024-02-28 14:07:23,710 WARNING:main.py:311:print_pqr:Ignoring 1881 header lines in output.
+2024-02-28 14:07:23,710 WARNING:main.py:315:print_pqr:Ignoring 34 missing lines in output.

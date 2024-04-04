@@ -1,0 +1,7 @@
+Evaluation Metrics for p = 3, L = 1 : 
+Mean Squared Error (MSE): 5.129246065433854
+Root Mean Squared Error (MSE): 2.2647838893443795
+Mean Absolute Error (MAE): 1.8155705692801059
+Mean Absolute Percentage Error (MAE): 0.3634682025605058
+R^2: -0.1547535618451812
+Pearson Correlation Coefficient: 0.19344655404712927

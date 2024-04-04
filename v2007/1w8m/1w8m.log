@@ -1,0 +1,4 @@
+2024-02-28 14:07:09,336 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for E1P.  Parsing as new residue.
+2024-02-28 14:07:09,737 WARNING:main.py:311:print_pqr:Ignoring 1200 header lines in output.
+2024-02-28 14:07:09,738 WARNING:main.py:315:print_pqr:Ignoring 13 missing lines in output.
+2024-02-28 14:58:42,039 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for E1P.  Parsing as new residue.

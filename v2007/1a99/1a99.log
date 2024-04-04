@@ -1,0 +1,28 @@
+2024-02-28 14:07:17,548 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PUT.  Parsing as new residue.
+2024-02-28 14:07:17,562 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PUT.  Parsing as new residue.
+2024-02-28 14:07:17,562 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PUT.  Parsing as new residue.
+2024-02-28 14:07:17,562 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PUT.  Parsing as new residue.
+2024-02-28 14:07:17,851 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 369
+2024-02-28 14:07:17,853 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 369
+2024-02-28 14:07:17,877 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 369
+2024-02-28 14:07:17,878 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY D 369
+2024-02-28 14:07:17,880 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 369
+2024-02-28 14:07:17,918 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 369
+2024-02-28 14:07:18,293 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 369
+2024-02-28 14:07:18,837 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY D 369
+2024-02-28 14:07:19,119 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 369
+2024-02-28 14:07:19,121 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 369
+2024-02-28 14:07:19,122 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 369
+2024-02-28 14:07:19,124 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY D 369
+2024-02-28 14:07:24,885 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH B 822 skipped when optimizing O in HOH B 729
+2024-02-28 14:07:25,027 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 805 skipped when optimizing H2 in HOH A 431
+2024-02-28 14:07:25,029 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 805 skipped when optimizing H2 in HOH A 431
+2024-02-28 14:07:25,030 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 805 skipped when optimizing H2 in HOH A 431
+2024-02-28 14:07:25,032 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 805 skipped when optimizing H2 in HOH A 431
+2024-02-28 14:07:25,042 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH A 866 skipped when optimizing H2 in HOH A 431
+2024-02-28 14:07:25,044 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH A 866 skipped when optimizing H2 in HOH A 431
+2024-02-28 14:07:25,045 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 866 skipped when optimizing H2 in HOH A 431
+2024-02-28 14:07:25,047 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 866 skipped when optimizing H2 in HOH A 431
+2024-02-28 14:07:25,048 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:07:31,686 WARNING:main.py:311:print_pqr:Ignoring 1576 header lines in output.
+2024-02-28 14:07:31,687 WARNING:main.py:315:print_pqr:Ignoring 24 missing lines in output.

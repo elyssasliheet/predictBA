@@ -1,0 +1,9 @@
+2024-02-28 14:07:17,379 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,379 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SF4.  Parsing as new residue.
+2024-02-28 14:07:17,379 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for URA.  Parsing as new residue.
+2024-02-28 14:07:17,380 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for URA.  Parsing as new residue.
+2024-02-28 14:07:17,396 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 193
+2024-02-28 14:07:17,397 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 193
+2024-02-28 14:07:17,398 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 193
+2024-02-28 14:07:19,251 WARNING:main.py:311:print_pqr:Ignoring 1718 header lines in output.
+2024-02-28 14:07:19,251 WARNING:main.py:315:print_pqr:Ignoring 29 missing lines in output.

@@ -1,0 +1,3 @@
+2024-02-28 14:07:18,645 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for JE2.  Parsing as new residue.
+2024-02-28 14:07:21,549 WARNING:main.py:311:print_pqr:Ignoring 2184 header lines in output.
+2024-02-28 14:07:21,554 WARNING:main.py:315:print_pqr:Ignoring 41 missing lines in output.

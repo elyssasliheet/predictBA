@@ -1,0 +1,10 @@
+2024-02-28 14:07:15,650 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:15,651 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:15,651 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BME.  Parsing as new residue.
+2024-02-28 14:07:15,651 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BME.  Parsing as new residue.
+2024-02-28 14:07:15,651 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1AN.  Parsing as new residue.
+2024-02-28 14:07:15,665 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 162
+2024-02-28 14:07:15,665 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 162
+2024-02-28 14:07:15,666 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 162
+2024-02-28 14:07:16,084 WARNING:main.py:311:print_pqr:Ignoring 1349 header lines in output.
+2024-02-28 14:07:16,084 WARNING:main.py:315:print_pqr:Ignoring 18 missing lines in output.

@@ -1,0 +1,36 @@
+2024-02-28 14:07:17,136 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU A 50.
+2024-02-28 14:07:17,270 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU A 50.
+2024-02-28 14:07:17,270 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU A 50.
+2024-02-28 14:07:17,270 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU A 50.
+2024-02-28 14:07:17,270 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU A 50. At least one of the instances is being ignored.
+2024-02-28 14:07:17,460 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU B 50.
+2024-02-28 14:07:17,460 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU B 50.
+2024-02-28 14:07:17,625 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU B 50.
+2024-02-28 14:07:17,625 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU B 50.
+2024-02-28 14:07:17,625 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU B 50. At least one of the instances is being ignored.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG G 58.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG G 58.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG G 58.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG G 58.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG G 58.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG G 58.
+2024-02-28 14:07:17,626 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG G 58. At least one of the instances is being ignored.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU K 50.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU K 50.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU K 50.
+2024-02-28 14:07:17,626 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU K 50.
+2024-02-28 14:07:17,626 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU K 50. At least one of the instances is being ignored.
+2024-02-28 14:07:17,728 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU A 73 and TRP A 81!
+2024-02-28 14:07:17,729 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS C 75 and TRP C 81!
+2024-02-28 14:07:17,730 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS D 75 and TRP D 81!
+2024-02-28 14:07:17,731 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS E 75 and TRP E 81!
+2024-02-28 14:07:17,732 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU M 73 and TRP M 81!
+2024-02-28 14:07:17,732 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY H 74 and TRP H 81!
+2024-02-28 14:07:17,733 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU I 73 and TRP I 81!
+2024-02-28 14:07:17,757 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU J 73 and TRP J 81!
+2024-02-28 14:07:17,758 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY K 74 and TRP K 81!
+2024-02-28 14:07:17,798 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY F 74
+2024-02-28 14:07:18,165 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY F 74
+2024-02-28 14:07:18,168 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY F 74
+2024-02-28 14:07:23,917 WARNING:main.py:311:print_pqr:Ignoring 825 header lines in output.
+2024-02-28 14:07:23,918 WARNING:main.py:315:print_pqr:Ignoring 2 missing lines in output.

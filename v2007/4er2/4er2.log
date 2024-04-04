@@ -1,0 +1,24 @@
+2024-02-28 14:07:02,358 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IVA.  Parsing as new residue.
+2024-02-28 14:07:02,358 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for STA.  Parsing as new residue.
+2024-02-28 14:07:02,359 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for STA.  Parsing as new residue.
+2024-02-28 14:07:02,359 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:02,359 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:02,359 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:02,375 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA I 5
+2024-02-28 14:07:02,376 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA I 5
+2024-02-28 14:07:02,377 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA I 5
+2024-02-28 14:07:02,924 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL E 107
+2024-02-28 14:07:04,065 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU E 146
+2024-02-28 14:07:04,280 WARNING:main.py:311:print_pqr:Ignoring 2150 header lines in output.
+2024-02-28 14:07:04,280 WARNING:main.py:315:print_pqr:Ignoring 44 missing lines in output.
+2024-02-28 14:58:38,204 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IVA.  Parsing as new residue.
+2024-02-28 14:58:38,224 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for STA.  Parsing as new residue.
+2024-02-28 14:58:38,224 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for STA.  Parsing as new residue.
+2024-02-28 14:58:38,224 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:38,224 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:38,224 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:38,248 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA I 5
+2024-02-28 14:58:38,249 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA I 5
+2024-02-28 14:58:38,251 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA I 5
+2024-02-28 14:58:39,807 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL E 107
+2024-02-28 14:58:41,711 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump LEU E 146

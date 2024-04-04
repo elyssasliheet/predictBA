@@ -1,0 +1,6 @@
+2024-02-28 14:07:17,189 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:17,310 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 326.  Parsing as new residue.
+2024-02-28 14:07:17,310 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:17,310 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 326.  Parsing as new residue.
+2024-02-28 14:07:24,912 WARNING:main.py:311:print_pqr:Ignoring 3112 header lines in output.
+2024-02-28 14:07:24,913 WARNING:main.py:315:print_pqr:Ignoring 68 missing lines in output.

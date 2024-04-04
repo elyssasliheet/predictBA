@@ -1,0 +1,31 @@
+2024-02-28 14:07:17,022 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,037 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAQ.  Parsing as new residue.
+2024-02-28 14:07:17,038 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in GLY A 263.
+2024-02-28 14:07:17,038 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in GLY A 263.
+2024-02-28 14:07:17,038 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in GLY A 263.
+2024-02-28 14:07:17,038 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in GLY A 263.
+2024-02-28 14:07:17,038 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLY A 263. At least one of the instances is being ignored.
+2024-02-28 14:07:17,038 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in LYS A 264.
+2024-02-28 14:07:17,038 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in LYS A 264.
+2024-02-28 14:07:17,038 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in LYS A 264.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in LYS A 264.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LYS A 264.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LYS A 264.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in LYS A 264.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in LYS A 264.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NZ in LYS A 264.
+2024-02-28 14:07:17,039 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LYS A 264. At least one of the instances is being ignored.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in CYS A 281.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in CYS A 281.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in CYS A 281.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in CYS A 281.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in CYS A 281.
+2024-02-28 14:07:17,039 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SG in CYS A 281.
+2024-02-28 14:07:17,039 WARNING:main.py:424:setup_molecule:Multiple occupancies found in CYS A 281. At least one of the instances is being ignored.
+2024-02-28 14:07:17,046 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU A 111 and THR A 115!
+2024-02-28 14:07:17,046 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS A 125 and SER A 131!
+2024-02-28 14:07:17,106 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:17,152 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:17,153 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:07:22,126 WARNING:main.py:311:print_pqr:Ignoring 1219 header lines in output.
+2024-02-28 14:07:22,126 WARNING:main.py:315:print_pqr:Ignoring 14 missing lines in output.

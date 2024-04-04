@@ -1,0 +1,14 @@
+2024-02-28 14:07:05,450 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:05,451 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 01S.  Parsing as new residue.
+2024-02-28 14:07:05,451 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:05,451 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:05,451 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:05,788 WARNING:main.py:311:print_pqr:Ignoring 1729 header lines in output.
+2024-02-28 14:07:05,788 WARNING:main.py:315:print_pqr:Ignoring 31 missing lines in output.
+2024-02-28 14:58:33,314 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:33,314 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 01S.  Parsing as new residue.
+2024-02-28 14:58:33,314 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:33,314 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:33,315 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:33,711 WARNING:main.py:311:print_pqr:Ignoring 1729 header lines in output.
+2024-02-28 14:58:33,711 WARNING:main.py:315:print_pqr:Ignoring 31 missing lines in output.

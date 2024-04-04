@@ -1,0 +1,6 @@
+2024-02-28 14:06:45,222 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IQA.  Parsing as new residue.
+2024-02-28 14:06:45,374 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 331
+2024-02-28 14:06:45,376 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 331
+2024-02-28 14:06:45,377 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 331
+2024-02-28 14:06:47,690 WARNING:main.py:311:print_pqr:Ignoring 1497 header lines in output.
+2024-02-28 14:06:47,690 WARNING:main.py:315:print_pqr:Ignoring 22 missing lines in output.

@@ -1,0 +1,5 @@
+2024-02-28 14:07:07,755 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:07,755 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:07,755 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HCP.  Parsing as new residue.
+2024-02-28 14:07:08,819 WARNING:main.py:311:print_pqr:Ignoring 1652 header lines in output.
+2024-02-28 14:07:08,820 WARNING:main.py:315:print_pqr:Ignoring 27 missing lines in output.

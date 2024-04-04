@@ -1,0 +1,6 @@
+2024-02-28 14:07:16,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MTY.  Parsing as new residue.
+2024-02-28 14:07:16,010 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FE.  Parsing as new residue.
+2024-02-28 14:07:16,010 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:16,010 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HBI.  Parsing as new residue.
+2024-02-28 14:07:16,853 WARNING:main.py:311:print_pqr:Ignoring 1787 header lines in output.
+2024-02-28 14:07:16,853 WARNING:main.py:315:print_pqr:Ignoring 31 missing lines in output.

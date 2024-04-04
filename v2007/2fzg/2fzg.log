@@ -1,0 +1,16 @@
+2024-02-28 14:07:15,571 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EOB.  Parsing as new residue.
+2024-02-28 14:07:15,572 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:15,572 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CTP.  Parsing as new residue.
+2024-02-28 14:07:15,572 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EOB.  Parsing as new residue.
+2024-02-28 14:07:15,572 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:15,573 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CTP.  Parsing as new residue.
+2024-02-28 14:07:15,604 WARNING:biomolecule.py:710:update_ss_bridges:WARNING: CYS B 141 has multiple potential SS-bridge partners
+2024-02-28 14:07:18,210 WARNING:main.py:311:print_pqr:Ignoring 4270 header lines in output.
+2024-02-28 14:07:18,589 WARNING:main.py:315:print_pqr:Ignoring 104 missing lines in output.
+2024-02-28 14:58:38,326 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EOB.  Parsing as new residue.
+2024-02-28 14:58:38,332 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:38,332 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CTP.  Parsing as new residue.
+2024-02-28 14:58:38,333 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EOB.  Parsing as new residue.
+2024-02-28 14:58:38,333 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:38,333 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CTP.  Parsing as new residue.
+2024-02-28 14:58:38,398 WARNING:biomolecule.py:710:update_ss_bridges:WARNING: CYS B 141 has multiple potential SS-bridge partners

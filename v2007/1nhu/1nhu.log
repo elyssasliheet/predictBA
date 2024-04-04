@@ -1,0 +1,12 @@
+2024-02-28 14:07:01,307 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 153.  Parsing as new residue.
+2024-02-28 14:07:01,308 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 153.  Parsing as new residue.
+2024-02-28 14:07:01,324 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLN A 148 and ARG A 154!
+2024-02-28 14:07:01,327 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLN B 148 and ARG B 154!
+2024-02-28 14:07:01,341 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 563
+2024-02-28 14:07:01,343 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS B 562
+2024-02-28 14:07:01,344 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 563
+2024-02-28 14:07:01,346 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS B 562
+2024-02-28 14:07:01,349 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 563
+2024-02-28 14:07:01,350 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue HIS B 562
+2024-02-28 14:07:04,144 WARNING:main.py:311:print_pqr:Ignoring 3055 header lines in output.
+2024-02-28 14:07:04,145 WARNING:main.py:315:print_pqr:Ignoring 66 missing lines in output.

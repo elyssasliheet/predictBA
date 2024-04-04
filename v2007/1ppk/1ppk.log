@@ -1,0 +1,7 @@
+2024-02-28 14:07:17,885 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IVV.  Parsing as new residue.
+2024-02-28 14:07:17,911 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:17,911 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HSY.  Parsing as new residue.
+2024-02-28 14:07:17,911 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,912 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMF.  Parsing as new residue.
+2024-02-28 14:07:19,825 WARNING:main.py:311:print_pqr:Ignoring 2925 header lines in output.
+2024-02-28 14:07:19,825 WARNING:main.py:315:print_pqr:Ignoring 65 missing lines in output.

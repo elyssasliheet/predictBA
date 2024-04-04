@@ -1,0 +1,18 @@
+2024-02-28 14:07:06,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1PP.  Parsing as new residue.
+2024-02-28 14:07:06,145 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU A 13 and ILE A 17!
+2024-02-28 14:07:06,146 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASN A 114 and ASP A 125!
+2024-02-28 14:07:06,146 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASN A 196 and ASN A 201!
+2024-02-28 14:07:06,146 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER A 254 and ARG A 256!
+2024-02-28 14:07:06,156 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:07:06,157 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:07:06,158 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:07:07,007 WARNING:main.py:311:print_pqr:Ignoring 1669 header lines in output.
+2024-02-28 14:07:07,007 WARNING:main.py:315:print_pqr:Ignoring 27 missing lines in output.
+2024-02-28 14:58:40,455 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 1PP.  Parsing as new residue.
+2024-02-28 14:58:40,467 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU A 13 and ILE A 17!
+2024-02-28 14:58:40,480 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASN A 114 and ASP A 125!
+2024-02-28 14:58:40,481 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASN A 196 and ASN A 201!
+2024-02-28 14:58:40,481 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between SER A 254 and ARG A 256!
+2024-02-28 14:58:40,500 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:58:40,507 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:58:40,508 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353

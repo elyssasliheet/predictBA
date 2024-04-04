@@ -1,0 +1,3 @@
+2024-02-28 14:07:17,640 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NM1.  Parsing as new residue.
+2024-02-28 14:07:20,237 WARNING:main.py:311:print_pqr:Ignoring 2288 header lines in output.
+2024-02-28 14:07:20,237 WARNING:main.py:315:print_pqr:Ignoring 45 missing lines in output.

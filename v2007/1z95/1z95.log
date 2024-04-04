@@ -1,0 +1,5 @@
+2024-02-28 14:07:16,685 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,685 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 198.  Parsing as new residue.
+2024-02-28 14:07:16,690 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ALA A 843 and CYS A 852!
+2024-02-28 14:07:18,846 WARNING:main.py:311:print_pqr:Ignoring 1898 header lines in output.
+2024-02-28 14:07:18,846 WARNING:main.py:315:print_pqr:Ignoring 34 missing lines in output.

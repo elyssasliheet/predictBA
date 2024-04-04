@@ -1,0 +1,9 @@
+2024-02-28 14:07:17,457 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 3IN.  Parsing as new residue.
+2024-02-28 14:07:17,482 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 99
+2024-02-28 14:07:17,483 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE B 99
+2024-02-28 14:07:17,483 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 99
+2024-02-28 14:07:17,484 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE B 99
+2024-02-28 14:07:17,484 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 99
+2024-02-28 14:07:17,484 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE B 99
+2024-02-28 14:07:19,529 WARNING:main.py:311:print_pqr:Ignoring 2470 header lines in output.
+2024-02-28 14:07:19,529 WARNING:main.py:315:print_pqr:Ignoring 51 missing lines in output.

@@ -1,0 +1,15 @@
+2024-02-28 14:06:59,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for L4G.  Parsing as new residue.
+2024-02-28 14:06:59,017 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LEU A 462
+2024-02-28 14:06:59,017 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU A 462
+2024-02-28 14:06:59,017 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU A 462
+2024-02-28 14:06:59,018 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU A 462
+2024-02-28 14:06:59,018 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LEU A 462
+2024-02-28 14:06:59,018 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU A 462
+2024-02-28 14:06:59,019 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU A 462
+2024-02-28 14:06:59,019 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU A 462
+2024-02-28 14:06:59,020 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CB in residue LEU A 462
+2024-02-28 14:06:59,020 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LEU A 462
+2024-02-28 14:06:59,020 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue LEU A 462
+2024-02-28 14:06:59,020 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD2 in residue LEU A 462
+2024-02-28 14:06:59,637 WARNING:main.py:311:print_pqr:Ignoring 2008 header lines in output.
+2024-02-28 14:06:59,638 WARNING:main.py:315:print_pqr:Ignoring 37 missing lines in output.

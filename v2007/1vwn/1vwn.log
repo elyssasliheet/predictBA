@@ -1,0 +1,198 @@
+2024-02-28 14:07:17,111 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ACE.  Parsing as new residue.
+2024-02-28 14:07:17,182 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NH2.  Parsing as new residue.
+2024-02-28 14:07:17,182 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in PHE B 29.
+2024-02-28 14:07:17,182 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in PHE B 29.
+2024-02-28 14:07:17,182 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in PHE B 29.
+2024-02-28 14:07:17,182 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in PHE B 29.
+2024-02-28 14:07:17,182 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in PHE B 29.
+2024-02-28 14:07:17,182 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE2 in PHE B 29.
+2024-02-28 14:07:17,182 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in PHE B 29.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in PHE B 29.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in PHE B 29.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD1 in PHE B 29.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD2 in PHE B 29.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE1 in PHE B 29.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE2 in PHE B 29.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HZ in PHE B 29.
+2024-02-28 14:07:17,183 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PHE B 29. At least one of the instances is being ignored.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE2 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OH in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD1 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD2 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE1 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE2 in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HH in TYR B 60.
+2024-02-28 14:07:17,183 WARNING:main.py:424:setup_molecule:Multiple occupancies found in TYR B 60. At least one of the instances is being ignored.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ASP B 61.
+2024-02-28 14:07:17,183 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD2 in ASP B 61.
+2024-02-28 14:07:17,184 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP B 61. At least one of the instances is being ignored.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG in SER B 62.
+2024-02-28 14:07:17,184 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER B 62. At least one of the instances is being ignored.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB1 in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in ALA B 63.
+2024-02-28 14:07:17,184 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ALA B 63. At least one of the instances is being ignored.
+2024-02-28 14:07:17,184 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG2 in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG3 in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD2 in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD3 in PRO B 64.
+2024-02-28 14:07:17,185 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PRO B 64. At least one of the instances is being ignored.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB1 in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in ALA B 65.
+2024-02-28 14:07:17,185 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ALA B 65. At least one of the instances is being ignored.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in THR B 66.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in THR B 66.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in THR B 66.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in THR B 66.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in THR B 66.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR B 66.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR B 66.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in THR B 66.
+2024-02-28 14:07:17,185 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in THR B 66.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB in THR B 66.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG1 in THR B 66.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG21 in THR B 66.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG22 in THR B 66.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG23 in THR B 66.
+2024-02-28 14:07:17,186 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR B 66. At least one of the instances is being ignored.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in ASP B 67.
+2024-02-28 14:07:17,186 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP B 67. At least one of the instances is being ignored.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in GLY B 68.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in GLY B 68.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in GLY B 68.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in GLY B 68.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in GLY B 68.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA2 in GLY B 68.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA3 in GLY B 68.
+2024-02-28 14:07:17,186 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLY B 68. At least one of the instances is being ignored.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in SER B 69.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER B 69.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in SER B 69.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in SER B 69.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER B 69.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER B 69.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: H in SER B 69.
+2024-02-28 14:07:17,186 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HA in SER B 69.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in SER B 69.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in SER B 69.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG in SER B 69.
+2024-02-28 14:07:17,187 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER B 69. At least one of the instances is being ignored.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD11 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD12 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD13 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD21 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD22 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD23 in LEU B 73.
+2024-02-28 14:07:17,187 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU B 73. At least one of the instances is being ignored.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD1 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HD2 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE1 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE2 in HIS B 87.
+2024-02-28 14:07:17,187 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS B 87. At least one of the instances is being ignored.
+2024-02-28 14:07:17,187 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB2 in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HB3 in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG2 in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HG3 in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE21 in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:418:setup_molecule:Multiple occupancies found: HE22 in GLN B 107.
+2024-02-28 14:07:17,188 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLN B 107. At least one of the instances is being ignored.
+2024-02-28 14:07:17,238 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 133
+2024-02-28 14:07:17,402 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 133
+2024-02-28 14:07:17,402 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 133
+2024-02-28 14:07:17,403 WARNING:biomolecule.py:1024:repair_heavy:Extra atom HD2 in ASP B 61! - 
+2024-02-28 14:07:17,403 WARNING:biomolecule.py:1026:repair_heavy:Deleted this atom.
+2024-02-28 14:07:17,787 WARNING:biomolecule.py:741:apply_force_field:Residue ACE P 0 has non-integer charge: -0.3369 deviates by 0.3369 from integral, exceeding error tolerance 0.001. 
+2024-02-28 14:07:17,788 WARNING:main.py:699:non_trivial:Residue ACE P 0 has non-integer charge:  -0.3369 deviates by 0.3369 from integral, exceeding error tolerance 0.001
+2024-02-28 14:07:17,788 CRITICAL:main.py:800:main_driver:-2.3369 deviates by 0.3369 from integral, exceeding error tolerance 0.001
+2024-02-28 14:07:17,788 CRITICAL:main.py:801:main_driver:Giving up.

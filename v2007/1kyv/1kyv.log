@@ -1,0 +1,82 @@
+2024-02-28 14:07:17,316 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:17,473 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RBF.  Parsing as new residue.
+2024-02-28 14:07:17,473 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:17,474 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RBF.  Parsing as new residue.
+2024-02-28 14:07:17,474 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:17,474 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RBF.  Parsing as new residue.
+2024-02-28 14:07:17,474 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:17,474 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RBF.  Parsing as new residue.
+2024-02-28 14:07:17,648 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:17,648 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 104.
+2024-02-28 14:07:17,649 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 104.
+2024-02-28 14:07:17,650 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 104. At least one of the instances is being ignored.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS B 104.
+2024-02-28 14:07:17,650 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS B 104. At least one of the instances is being ignored.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS C 104.
+2024-02-28 14:07:17,650 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS C 104. At least one of the instances is being ignored.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in HIS D 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in HIS D 104.
+2024-02-28 14:07:17,650 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in HIS D 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in HIS D 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS D 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS D 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS D 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS D 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS D 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS D 104.
+2024-02-28 14:07:17,651 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS D 104. At least one of the instances is being ignored.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS E 104.
+2024-02-28 14:07:17,651 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS E 104. At least one of the instances is being ignored.
+2024-02-28 14:07:17,840 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 158
+2024-02-28 14:07:17,841 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 158
+2024-02-28 14:07:17,842 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR C 159
+2024-02-28 14:07:17,842 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU D 158
+2024-02-28 14:07:17,843 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU E 158
+2024-02-28 14:07:17,846 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 158
+2024-02-28 14:07:17,847 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 158
+2024-02-28 14:07:17,849 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR C 159
+2024-02-28 14:07:17,851 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU D 158
+2024-02-28 14:07:17,853 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU E 158
+2024-02-28 14:07:17,855 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 158
+2024-02-28 14:07:17,865 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 158
+2024-02-28 14:07:17,866 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR C 159
+2024-02-28 14:07:17,867 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU D 158
+2024-02-28 14:07:17,867 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU E 158
+2024-02-28 14:07:23,539 WARNING:main.py:311:print_pqr:Ignoring 6140 header lines in output.
+2024-02-28 14:07:23,539 WARNING:main.py:315:print_pqr:Ignoring 160 missing lines in output.

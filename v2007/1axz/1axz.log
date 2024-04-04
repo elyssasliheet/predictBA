@@ -1,0 +1,76 @@
+2024-02-28 14:07:04,966 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:04,966 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:04,967 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMA.  Parsing as new residue.
+2024-02-28 14:07:04,967 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XYP.  Parsing as new residue.
+2024-02-28 14:07:04,967 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:04,967 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:04,968 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FUC.  Parsing as new residue.
+2024-02-28 14:07:04,968 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLA.  Parsing as new residue.
+2024-02-28 14:07:04,968 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GAL.  Parsing as new residue.
+2024-02-28 14:07:04,968 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GLA A 401.
+2024-02-28 14:07:04,969 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLA A 401. At least one of the instances is being ignored.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GAL A 402.
+2024-02-28 14:07:04,969 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GAL A 402. At least one of the instances is being ignored.
+2024-02-28 14:07:05,531 WARNING:main.py:311:print_pqr:Ignoring 4096 header lines in output.
+2024-02-28 14:07:05,531 WARNING:main.py:315:print_pqr:Ignoring 106 missing lines in output.
+2024-02-28 14:58:39,405 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:58:39,406 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:58:39,406 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMA.  Parsing as new residue.
+2024-02-28 14:58:39,406 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XYP.  Parsing as new residue.
+2024-02-28 14:58:39,406 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:58:39,406 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:58:39,407 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FUC.  Parsing as new residue.
+2024-02-28 14:58:39,407 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLA.  Parsing as new residue.
+2024-02-28 14:58:39,407 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GAL.  Parsing as new residue.
+2024-02-28 14:58:39,407 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GLA A 401.
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GLA A 401.
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GLA A 401.
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GLA A 401.
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GLA A 401.
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GLA A 401.
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in GLA A 401.
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GLA A 401.
+2024-02-28 14:58:39,407 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GLA A 401.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GLA A 401.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GLA A 401.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GLA A 401.
+2024-02-28 14:58:39,408 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLA A 401. At least one of the instances is being ignored.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C5 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O5 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O6 in GAL A 402.
+2024-02-28 14:58:39,408 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GAL A 402. At least one of the instances is being ignored.
+2024-02-28 14:58:40,545 WARNING:main.py:311:print_pqr:Ignoring 4096 header lines in output.
+2024-02-28 14:58:40,545 WARNING:main.py:315:print_pqr:Ignoring 106 missing lines in output.

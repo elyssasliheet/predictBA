@@ -1,0 +1,31 @@
+2024-02-28 14:07:09,423 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:09,424 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 2AM.  Parsing as new residue.
+2024-02-28 14:07:09,425 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 26.
+2024-02-28 14:07:09,425 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 26.
+2024-02-28 14:07:09,426 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 26. At least one of the instances is being ignored.
+2024-02-28 14:07:09,426 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 35.
+2024-02-28 14:07:09,427 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 35. At least one of the instances is being ignored.
+2024-02-28 14:07:09,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 49.
+2024-02-28 14:07:09,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 49.
+2024-02-28 14:07:09,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 49.
+2024-02-28 14:07:09,427 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 49. At least one of the instances is being ignored.
+2024-02-28 14:07:09,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in VAL A 78.
+2024-02-28 14:07:09,427 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in VAL A 78.
+2024-02-28 14:07:09,427 WARNING:main.py:424:setup_molecule:Multiple occupancies found in VAL A 78. At least one of the instances is being ignored.
+2024-02-28 14:07:09,636 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump THR A 32
+2024-02-28 14:07:09,707 WARNING:main.py:311:print_pqr:Ignoring 1537 header lines in output.
+2024-02-28 14:07:09,707 WARNING:main.py:315:print_pqr:Ignoring 24 missing lines in output.
+2024-02-28 14:58:41,676 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:41,686 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 2AM.  Parsing as new residue.
+2024-02-28 14:58:41,686 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 26.
+2024-02-28 14:58:41,686 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 26.
+2024-02-28 14:58:41,686 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 26. At least one of the instances is being ignored.
+2024-02-28 14:58:41,686 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 35.
+2024-02-28 14:58:41,686 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 35. At least one of the instances is being ignored.
+2024-02-28 14:58:41,689 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP A 49.
+2024-02-28 14:58:41,690 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP A 49.
+2024-02-28 14:58:41,690 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP A 49.
+2024-02-28 14:58:41,690 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP A 49. At least one of the instances is being ignored.
+2024-02-28 14:58:41,690 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in VAL A 78.
+2024-02-28 14:58:41,690 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in VAL A 78.
+2024-02-28 14:58:41,690 WARNING:main.py:424:setup_molecule:Multiple occupancies found in VAL A 78. At least one of the instances is being ignored.

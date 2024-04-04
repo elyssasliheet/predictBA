@@ -1,0 +1,35 @@
+2024-02-28 14:07:06,276 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MFB.  Parsing as new residue.
+2024-02-28 14:07:06,277 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:06,277 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:06,277 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:06,278 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MFB.  Parsing as new residue.
+2024-02-28 14:07:06,278 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:06,278 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:06,279 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET 1 118.
+2024-02-28 14:07:06,279 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET 1 118.
+2024-02-28 14:07:06,279 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET 1 118.
+2024-02-28 14:07:06,279 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET 1 118. At least one of the instances is being ignored.
+2024-02-28 14:07:06,279 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG 1 128.
+2024-02-28 14:07:06,279 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG 1 128.
+2024-02-28 14:07:06,280 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG 1 128.
+2024-02-28 14:07:06,280 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG 1 128.
+2024-02-28 14:07:06,280 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG 1 128.
+2024-02-28 14:07:06,280 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG 1 128.
+2024-02-28 14:07:06,280 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG 1 128. At least one of the instances is being ignored.
+2024-02-28 14:07:06,281 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET 2 118.
+2024-02-28 14:07:06,281 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET 2 118.
+2024-02-28 14:07:06,281 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET 2 118.
+2024-02-28 14:07:06,281 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET 2 118. At least one of the instances is being ignored.
+2024-02-28 14:07:06,281 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER 2 134.
+2024-02-28 14:07:06,282 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER 2 134. At least one of the instances is being ignored.
+2024-02-28 14:07:06,282 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR 2 139.
+2024-02-28 14:07:06,282 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR 2 139.
+2024-02-28 14:07:06,282 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR 2 139. At least one of the instances is being ignored.
+2024-02-28 14:07:06,294 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER 1 225
+2024-02-28 14:07:06,295 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER 2 225
+2024-02-28 14:07:06,295 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER 1 225
+2024-02-28 14:07:06,295 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER 2 225
+2024-02-28 14:07:06,296 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER 1 225
+2024-02-28 14:07:06,296 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER 2 225
+2024-02-28 14:07:06,823 WARNING:main.py:311:print_pqr:Ignoring 1595 header lines in output.
+2024-02-28 14:07:06,823 WARNING:main.py:315:print_pqr:Ignoring 27 missing lines in output.

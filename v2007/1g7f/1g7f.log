@@ -1,0 +1,3 @@
+2024-02-28 14:07:17,152 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for INZ.  Parsing as new residue.
+2024-02-28 14:07:19,365 WARNING:main.py:311:print_pqr:Ignoring 2076 header lines in output.
+2024-02-28 14:07:19,366 WARNING:main.py:315:print_pqr:Ignoring 39 missing lines in output.

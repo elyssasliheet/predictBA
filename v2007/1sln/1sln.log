@@ -1,0 +1,11 @@
+2024-02-28 14:07:17,343 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,361 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,361 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,361 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,361 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,362 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 8MI.  Parsing as new residue.
+2024-02-28 14:07:17,415 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 250
+2024-02-28 14:07:17,416 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 250
+2024-02-28 14:07:17,417 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 250
+2024-02-28 14:07:20,505 WARNING:main.py:311:print_pqr:Ignoring 2407 header lines in output.
+2024-02-28 14:07:20,505 WARNING:main.py:315:print_pqr:Ignoring 49 missing lines in output.

@@ -1,0 +1,68 @@
+2024-02-28 14:07:06,346 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:06,347 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TDI.  Parsing as new residue.
+2024-02-28 14:07:06,347 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:06,348 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TDI.  Parsing as new residue.
+2024-02-28 14:07:06,348 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in CYS A 31.
+2024-02-28 14:07:06,348 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in CYS A 31.
+2024-02-28 14:07:06,348 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in CYS A 31.
+2024-02-28 14:07:06,349 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in CYS A 31.
+2024-02-28 14:07:06,349 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in CYS A 31.
+2024-02-28 14:07:06,349 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SG in CYS A 31.
+2024-02-28 14:07:06,349 WARNING:main.py:424:setup_molecule:Multiple occupancies found in CYS A 31. At least one of the instances is being ignored.
+2024-02-28 14:07:06,350 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in SER A 218.
+2024-02-28 14:07:06,350 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER A 218.
+2024-02-28 14:07:06,350 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in SER A 218.
+2024-02-28 14:07:06,350 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in SER A 218.
+2024-02-28 14:07:06,350 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 218.
+2024-02-28 14:07:06,351 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 218.
+2024-02-28 14:07:06,351 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 218. At least one of the instances is being ignored.
+2024-02-28 14:07:06,351 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in CYS B 31.
+2024-02-28 14:07:06,351 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in CYS B 31.
+2024-02-28 14:07:06,351 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in CYS B 31.
+2024-02-28 14:07:06,351 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in CYS B 31.
+2024-02-28 14:07:06,352 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in CYS B 31.
+2024-02-28 14:07:06,352 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SG in CYS B 31.
+2024-02-28 14:07:06,352 WARNING:main.py:424:setup_molecule:Multiple occupancies found in CYS B 31. At least one of the instances is being ignored.
+2024-02-28 14:07:06,352 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in SER B 218.
+2024-02-28 14:07:06,352 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER B 218.
+2024-02-28 14:07:06,352 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in SER B 218.
+2024-02-28 14:07:06,352 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in SER B 218.
+2024-02-28 14:07:06,352 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER B 218.
+2024-02-28 14:07:06,352 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER B 218.
+2024-02-28 14:07:06,352 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER B 218. At least one of the instances is being ignored.
+2024-02-28 14:07:07,409 WARNING:main.py:311:print_pqr:Ignoring 2160 header lines in output.
+2024-02-28 14:07:07,409 WARNING:main.py:315:print_pqr:Ignoring 42 missing lines in output.
+2024-02-28 14:58:37,174 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:58:37,179 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TDI.  Parsing as new residue.
+2024-02-28 14:58:37,179 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:58:37,179 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TDI.  Parsing as new residue.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in CYS A 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in CYS A 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in CYS A 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in CYS A 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in CYS A 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SG in CYS A 31.
+2024-02-28 14:58:37,180 WARNING:main.py:424:setup_molecule:Multiple occupancies found in CYS A 31. At least one of the instances is being ignored.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in SER A 218.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER A 218.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in SER A 218.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in SER A 218.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 218.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 218.
+2024-02-28 14:58:37,180 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 218. At least one of the instances is being ignored.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in CYS B 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in CYS B 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in CYS B 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in CYS B 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in CYS B 31.
+2024-02-28 14:58:37,180 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SG in CYS B 31.
+2024-02-28 14:58:37,180 WARNING:main.py:424:setup_molecule:Multiple occupancies found in CYS B 31. At least one of the instances is being ignored.
+2024-02-28 14:58:37,181 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in SER B 218.
+2024-02-28 14:58:37,181 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER B 218.
+2024-02-28 14:58:37,181 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in SER B 218.
+2024-02-28 14:58:37,181 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in SER B 218.
+2024-02-28 14:58:37,181 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER B 218.
+2024-02-28 14:58:37,181 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER B 218.
+2024-02-28 14:58:37,181 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER B 218. At least one of the instances is being ignored.
+2024-02-28 14:58:39,406 WARNING:main.py:311:print_pqr:Ignoring 2160 header lines in output.
+2024-02-28 14:58:39,406 WARNING:main.py:315:print_pqr:Ignoring 42 missing lines in output.

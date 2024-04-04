@@ -1,0 +1,8 @@
+2024-02-28 14:07:16,987 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:07:16,989 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:07:16,989 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BGC.  Parsing as new residue.
+2024-02-28 14:07:16,989 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DAF.  Parsing as new residue.
+2024-02-28 14:07:16,989 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:16,990 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:22,098 WARNING:main.py:311:print_pqr:Ignoring 2539 header lines in output.
+2024-02-28 14:07:22,098 WARNING:main.py:315:print_pqr:Ignoring 57 missing lines in output.

@@ -1,0 +1,6 @@
+2024-02-28 14:07:18,294 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:18,301 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TAA.  Parsing as new residue.
+2024-02-28 14:07:18,301 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:18,302 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TAA.  Parsing as new residue.
+2024-02-28 14:07:24,312 WARNING:main.py:311:print_pqr:Ignoring 3554 header lines in output.
+2024-02-28 14:07:24,312 WARNING:main.py:315:print_pqr:Ignoring 84 missing lines in output.

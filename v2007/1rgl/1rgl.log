@@ -1,0 +1,7 @@
+2024-02-28 14:07:16,672 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:16,672 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 2GP.  Parsing as new residue.
+2024-02-28 14:07:16,684 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 98
+2024-02-28 14:07:16,685 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 98
+2024-02-28 14:07:16,685 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom ND2 in residue ASN A 98
+2024-02-28 14:07:16,916 WARNING:main.py:311:print_pqr:Ignoring 1569 header lines in output.
+2024-02-28 14:07:16,916 WARNING:main.py:315:print_pqr:Ignoring 25 missing lines in output.

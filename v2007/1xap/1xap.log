@@ -1,0 +1,19 @@
+2024-02-28 14:07:17,834 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TTB.  Parsing as new residue.
+2024-02-28 14:07:17,875 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO A 361 and HIS A 365!
+2024-02-28 14:07:17,982 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU A 176
+2024-02-28 14:07:17,982 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU A 176
+2024-02-28 14:07:17,982 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU A 176
+2024-02-28 14:07:17,982 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU A 176
+2024-02-28 14:07:17,983 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 409
+2024-02-28 14:07:17,983 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU A 176
+2024-02-28 14:07:17,983 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU A 176
+2024-02-28 14:07:17,984 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU A 176
+2024-02-28 14:07:17,984 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU A 176
+2024-02-28 14:07:17,984 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 409
+2024-02-28 14:07:17,984 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU A 176
+2024-02-28 14:07:17,984 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU A 176
+2024-02-28 14:07:17,984 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU A 176
+2024-02-28 14:07:17,985 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU A 176
+2024-02-28 14:07:18,014 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 409
+2024-02-28 14:07:20,733 WARNING:main.py:311:print_pqr:Ignoring 1578 header lines in output.
+2024-02-28 14:07:20,734 WARNING:main.py:315:print_pqr:Ignoring 26 missing lines in output.

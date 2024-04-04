@@ -1,0 +1,23 @@
+2024-02-28 14:07:16,955 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CXM.  Parsing as new residue.
+2024-02-28 14:07:17,014 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TMP.  Parsing as new residue.
+2024-02-28 14:07:17,014 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DHF.  Parsing as new residue.
+2024-02-28 14:07:17,014 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in MET A 8.
+2024-02-28 14:07:17,014 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in MET A 8.
+2024-02-28 14:07:17,014 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in MET A 8.
+2024-02-28 14:07:17,014 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in MET A 8.
+2024-02-28 14:07:17,014 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in MET A 8.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in MET A 8.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: SD in MET A 8.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE in MET A 8.
+2024-02-28 14:07:17,015 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MET A 8. At least one of the instances is being ignored.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in LEU A 208.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in LEU A 208.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in LEU A 208.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in LEU A 208.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in LEU A 208.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LEU A 208.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 208.
+2024-02-28 14:07:17,015 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 208.
+2024-02-28 14:07:17,015 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 208. At least one of the instances is being ignored.
+2024-02-28 14:07:20,541 WARNING:main.py:311:print_pqr:Ignoring 2838 header lines in output.
+2024-02-28 14:07:20,542 WARNING:main.py:315:print_pqr:Ignoring 64 missing lines in output.

@@ -1,0 +1,16 @@
+2024-02-28 14:07:17,271 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ACE.  Parsing as new residue.
+2024-02-28 14:07:17,282 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NH2.  Parsing as new residue.
+2024-02-28 14:07:17,288 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ACE.  Parsing as new residue.
+2024-02-28 14:07:17,288 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NH2.  Parsing as new residue.
+2024-02-28 14:07:17,372 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 133
+2024-02-28 14:07:17,372 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 133
+2024-02-28 14:07:17,373 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 133
+2024-02-28 14:07:17,373 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 133
+2024-02-28 14:07:17,374 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 133
+2024-02-28 14:07:17,374 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL D 133
+2024-02-28 14:07:19,925 WARNING:biomolecule.py:741:apply_force_field:Residue ACE M 0 has non-integer charge: 0.231 deviates by 0.231 from integral, exceeding error tolerance 0.001. 
+2024-02-28 14:07:19,933 WARNING:biomolecule.py:741:apply_force_field:Residue ACE P 0 has non-integer charge: -0.3369 deviates by 0.3369 from integral, exceeding error tolerance 0.001. 
+2024-02-28 14:07:19,934 WARNING:main.py:699:non_trivial:Residue ACE M 0 has non-integer charge:  0.231 deviates by 0.231 from integral, exceeding error tolerance 0.001
+2024-02-28 14:07:19,934 WARNING:main.py:699:non_trivial:Residue ACE P 0 has non-integer charge:  -0.3369 deviates by 0.3369 from integral, exceeding error tolerance 0.001
+2024-02-28 14:07:19,934 CRITICAL:main.py:800:main_driver:-4.1059 deviates by 0.1059000000000001 from integral, exceeding error tolerance 0.001
+2024-02-28 14:07:19,934 CRITICAL:main.py:801:main_driver:Giving up.

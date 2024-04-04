@@ -1,0 +1,10 @@
+2024-02-28 14:07:20,574 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for I3P.  Parsing as new residue.
+2024-02-28 14:07:20,580 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLN A 288 and LEU A 302!
+2024-02-28 14:07:20,580 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP A 319 and MET A 351!
+2024-02-28 14:07:20,589 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO A 372 and TYR A 387!
+2024-02-28 14:07:20,598 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR A 528 and HIS A 546!
+2024-02-28 14:07:20,617 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 602
+2024-02-28 14:07:20,619 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 602
+2024-02-28 14:07:20,620 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 602
+2024-02-28 14:07:23,341 WARNING:main.py:311:print_pqr:Ignoring 1583 header lines in output.
+2024-02-28 14:07:23,342 WARNING:main.py:315:print_pqr:Ignoring 24 missing lines in output.

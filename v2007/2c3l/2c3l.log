@@ -1,0 +1,38 @@
+2024-02-28 14:07:16,883 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IDZ.  Parsing as new residue.
+2024-02-28 14:07:16,897 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,903 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ARG A 44 and ILE A 52!
+2024-02-28 14:07:16,916 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 43
+2024-02-28 14:07:16,916 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 43
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 43
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 43
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 44
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 44
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 44
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 44
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 44
+2024-02-28 14:07:16,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 44
+2024-02-28 14:07:16,918 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 273
+2024-02-28 14:07:16,918 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 43
+2024-02-28 14:07:16,929 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 43
+2024-02-28 14:07:16,929 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 43
+2024-02-28 14:07:16,930 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 43
+2024-02-28 14:07:16,930 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 44
+2024-02-28 14:07:16,930 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 44
+2024-02-28 14:07:16,930 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 44
+2024-02-28 14:07:16,930 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 44
+2024-02-28 14:07:16,930 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 44
+2024-02-28 14:07:16,930 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 44
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 273
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue LYS A 43
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue LYS A 43
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CE in residue LYS A 43
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NZ in residue LYS A 43
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 44
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 44
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 44
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 44
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 44
+2024-02-28 14:07:16,931 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 44
+2024-02-28 14:07:16,932 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 273
+2024-02-28 14:07:21,455 WARNING:main.py:311:print_pqr:Ignoring 1549 header lines in output.
+2024-02-28 14:07:21,455 WARNING:main.py:315:print_pqr:Ignoring 23 missing lines in output.

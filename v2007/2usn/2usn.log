@@ -1,0 +1,54 @@
+2024-02-28 14:07:02,267 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:02,267 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:02,267 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:02,268 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:02,268 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:02,268 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:02,269 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IN8.  Parsing as new residue.
+2024-02-28 14:07:02,281 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 231
+2024-02-28 14:07:02,281 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 231
+2024-02-28 14:07:02,281 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 231
+2024-02-28 14:07:02,281 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 231
+2024-02-28 14:07:02,282 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 231
+2024-02-28 14:07:02,282 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 231
+2024-02-28 14:07:02,283 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 231
+2024-02-28 14:07:02,283 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 231
+2024-02-28 14:07:02,283 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 231
+2024-02-28 14:07:02,283 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 231
+2024-02-28 14:07:02,283 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 231
+2024-02-28 14:07:02,284 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 231
+2024-02-28 14:07:02,284 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 231
+2024-02-28 14:07:02,284 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 231
+2024-02-28 14:07:02,284 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 231
+2024-02-28 14:07:02,285 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 231
+2024-02-28 14:07:02,285 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 231
+2024-02-28 14:07:02,285 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 231
+2024-02-28 14:07:02,673 WARNING:main.py:311:print_pqr:Ignoring 1886 header lines in output.
+2024-02-28 14:07:02,673 WARNING:main.py:315:print_pqr:Ignoring 34 missing lines in output.
+2024-02-28 14:58:31,179 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:31,180 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:31,180 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:31,180 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:31,180 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:31,180 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:31,180 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IN8.  Parsing as new residue.
+2024-02-28 14:58:31,196 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 231
+2024-02-28 14:58:31,196 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 231
+2024-02-28 14:58:31,196 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 231
+2024-02-28 14:58:31,196 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 231
+2024-02-28 14:58:31,196 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 231
+2024-02-28 14:58:31,196 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 231
+2024-02-28 14:58:31,197 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 231
+2024-02-28 14:58:31,197 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 231
+2024-02-28 14:58:31,197 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 231
+2024-02-28 14:58:31,197 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 231
+2024-02-28 14:58:31,197 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 231
+2024-02-28 14:58:31,197 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 231
+2024-02-28 14:58:31,198 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue ARG A 231
+2024-02-28 14:58:31,198 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue ARG A 231
+2024-02-28 14:58:31,198 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE in residue ARG A 231
+2024-02-28 14:58:31,198 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CZ in residue ARG A 231
+2024-02-28 14:58:31,198 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH1 in residue ARG A 231
+2024-02-28 14:58:31,198 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NH2 in residue ARG A 231
+2024-02-28 14:58:31,890 WARNING:main.py:311:print_pqr:Ignoring 1886 header lines in output.
+2024-02-28 14:58:31,890 WARNING:main.py:315:print_pqr:Ignoring 34 missing lines in output.

@@ -1,0 +1,8 @@
+2024-02-28 14:07:16,936 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:16,945 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SAM.  Parsing as new residue.
+2024-02-28 14:07:16,952 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU A 287 and ARG A 297!
+2024-02-28 14:07:16,981 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 314
+2024-02-28 14:07:16,983 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 314
+2024-02-28 14:07:16,984 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 314
+2024-02-28 14:07:19,622 WARNING:main.py:311:print_pqr:Ignoring 1688 header lines in output.
+2024-02-28 14:07:19,638 WARNING:main.py:315:print_pqr:Ignoring 28 missing lines in output.

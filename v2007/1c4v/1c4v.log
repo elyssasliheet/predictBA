@@ -1,0 +1,21 @@
+2024-02-28 14:07:17,686 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TYS.  Parsing as new residue.
+2024-02-28 14:07:18,089 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:18,089 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for IH2.  Parsing as new residue.
+2024-02-28 14:07:18,097 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR 2 147 and GLY 2 150!
+2024-02-28 14:07:18,098 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP 2 221 and ARG 2 221A!
+2024-02-28 14:07:18,127 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU 2 217
+2024-02-28 14:07:18,526 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU 2 217
+2024-02-28 14:07:18,526 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU 2 217
+2024-02-28 14:07:18,526 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU 2 217
+2024-02-28 14:07:18,527 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU 2 217
+2024-02-28 14:07:18,527 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU 2 217
+2024-02-28 14:07:18,527 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU 2 217
+2024-02-28 14:07:18,528 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU 2 217
+2024-02-28 14:07:18,529 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLU 2 217
+2024-02-28 14:07:18,913 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLU 2 217
+2024-02-28 14:07:18,913 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLU 2 217
+2024-02-28 14:07:18,913 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE2 in residue GLU 2 217
+2024-02-28 14:07:21,896 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump SER 1 1E
+2024-02-28 14:07:22,328 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump PRO 3 564
+2024-02-28 14:07:22,534 WARNING:main.py:311:print_pqr:Ignoring 2636 header lines in output.
+2024-02-28 14:07:22,535 WARNING:main.py:315:print_pqr:Ignoring 56 missing lines in output.

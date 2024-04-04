@@ -1,0 +1,4 @@
+2024-02-28 14:07:17,416 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:07:17,441 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GLC.  Parsing as new residue.
+2024-02-28 14:07:21,666 WARNING:main.py:311:print_pqr:Ignoring 1472 header lines in output.
+2024-02-28 14:07:21,667 WARNING:main.py:315:print_pqr:Ignoring 23 missing lines in output.

@@ -1,0 +1,11 @@
+2024-02-28 14:07:17,486 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,741 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,741 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,741 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,741 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,742 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GPR.  Parsing as new residue.
+2024-02-28 14:07:17,742 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,742 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:17,742 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GPR.  Parsing as new residue.
+2024-02-28 14:07:22,784 WARNING:main.py:311:print_pqr:Ignoring 4270 header lines in output.
+2024-02-28 14:07:22,784 WARNING:main.py:315:print_pqr:Ignoring 105 missing lines in output.

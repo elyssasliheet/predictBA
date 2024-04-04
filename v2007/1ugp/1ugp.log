@@ -1,0 +1,18 @@
+2024-02-28 14:07:12,502 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CSD.  Parsing as new residue.
+2024-02-28 14:07:12,502 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CSO.  Parsing as new residue.
+2024-02-28 14:07:12,515 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CO.  Parsing as new residue.
+2024-02-28 14:07:12,515 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BUA.  Parsing as new residue.
+2024-02-28 14:07:12,533 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL A 204
+2024-02-28 14:07:12,534 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL A 204
+2024-02-28 14:07:12,535 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL A 204
+2024-02-28 14:07:13,600 WARNING:main.py:311:print_pqr:Ignoring 1472 header lines in output.
+2024-02-28 14:07:13,601 WARNING:main.py:315:print_pqr:Ignoring 22 missing lines in output.
+2024-02-28 14:58:31,098 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CSD.  Parsing as new residue.
+2024-02-28 14:58:31,099 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CSO.  Parsing as new residue.
+2024-02-28 14:58:31,113 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CO.  Parsing as new residue.
+2024-02-28 14:58:31,113 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BUA.  Parsing as new residue.
+2024-02-28 14:58:31,146 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL A 204
+2024-02-28 14:58:31,148 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL A 204
+2024-02-28 14:58:31,149 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL A 204
+2024-02-28 14:58:32,366 WARNING:main.py:311:print_pqr:Ignoring 1472 header lines in output.
+2024-02-28 14:58:32,367 WARNING:main.py:315:print_pqr:Ignoring 22 missing lines in output.

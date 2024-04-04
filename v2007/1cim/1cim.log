@@ -1,0 +1,8 @@
+2024-02-28 14:07:17,698 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,708 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MMC.  Parsing as new residue.
+2024-02-28 14:07:17,708 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PTS.  Parsing as new residue.
+2024-02-28 14:07:17,745 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 260
+2024-02-28 14:07:17,746 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 260
+2024-02-28 14:07:17,747 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 260
+2024-02-28 14:07:19,283 WARNING:main.py:311:print_pqr:Ignoring 1425 header lines in output.
+2024-02-28 14:07:19,352 WARNING:main.py:315:print_pqr:Ignoring 20 missing lines in output.

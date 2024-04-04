@@ -1,0 +1,8 @@
+2024-02-28 14:07:15,753 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XYP.  Parsing as new residue.
+2024-02-28 14:07:15,753 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XYP.  Parsing as new residue.
+2024-02-28 14:07:15,754 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XYP.  Parsing as new residue.
+2024-02-28 14:07:15,754 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XYP.  Parsing as new residue.
+2024-02-28 14:07:15,754 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for XYP.  Parsing as new residue.
+2024-02-28 14:07:15,755 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:16,096 WARNING:main.py:311:print_pqr:Ignoring 2219 header lines in output.
+2024-02-28 14:07:16,096 WARNING:main.py:315:print_pqr:Ignoring 47 missing lines in output.

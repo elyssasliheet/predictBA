@@ -1,0 +1,18 @@
+2024-02-28 14:07:17,994 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:18,448 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:18,874 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:18,878 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:18,879 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:19,127 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:19,133 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:19,133 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:19,137 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MSE.  Parsing as new residue.
+2024-02-28 14:07:19,202 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:19,388 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 275
+2024-02-28 14:07:19,389 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 275
+2024-02-28 14:07:19,390 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 275
+2024-02-28 14:07:19,391 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 275
+2024-02-28 14:07:19,392 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 275
+2024-02-28 14:07:19,433 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS B 275
+2024-02-28 14:07:22,476 WARNING:main.py:311:print_pqr:Ignoring 4194 header lines in output.
+2024-02-28 14:07:22,477 WARNING:main.py:315:print_pqr:Ignoring 106 missing lines in output.

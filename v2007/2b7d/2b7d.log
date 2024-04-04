@@ -1,0 +1,28 @@
+2024-02-28 14:07:04,803 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for C1B.  Parsing as new residue.
+2024-02-28 14:07:04,804 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in VAL H 138.
+2024-02-28 14:07:04,804 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in VAL H 138.
+2024-02-28 14:07:04,805 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in VAL H 138.
+2024-02-28 14:07:04,805 WARNING:main.py:424:setup_molecule:Multiple occupancies found in VAL H 138. At least one of the instances is being ignored.
+2024-02-28 14:07:04,805 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in GLN H 170.
+2024-02-28 14:07:04,806 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLN H 170.
+2024-02-28 14:07:04,806 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLN H 170.
+2024-02-28 14:07:04,806 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLN H 170.
+2024-02-28 14:07:04,806 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in GLN H 170.
+2024-02-28 14:07:04,806 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLN H 170. At least one of the instances is being ignored.
+2024-02-28 14:07:04,807 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in SER H 190.
+2024-02-28 14:07:04,807 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in SER H 190.
+2024-02-28 14:07:04,807 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in SER H 190.
+2024-02-28 14:07:04,807 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in SER H 190.
+2024-02-28 14:07:04,807 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER H 190.
+2024-02-28 14:07:04,807 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER H 190.
+2024-02-28 14:07:04,807 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER H 190. At least one of the instances is being ignored.
+2024-02-28 14:07:04,817 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY T 109 and ASP T 129!
+2024-02-28 14:07:04,818 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU T 155 and SER T 188!
+2024-02-28 14:07:04,827 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU L 142
+2024-02-28 14:07:04,828 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER T 205
+2024-02-28 14:07:04,829 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU L 142
+2024-02-28 14:07:04,829 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER T 205
+2024-02-28 14:07:04,830 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU L 142
+2024-02-28 14:07:04,831 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER T 205
+2024-02-28 14:07:06,009 WARNING:main.py:311:print_pqr:Ignoring 2073 header lines in output.
+2024-02-28 14:07:06,009 WARNING:main.py:315:print_pqr:Ignoring 39 missing lines in output.

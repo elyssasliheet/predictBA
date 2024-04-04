@@ -1,0 +1,18 @@
+2024-02-28 14:07:17,003 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPO.  Parsing as new residue.
+2024-02-28 14:07:17,058 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPO.  Parsing as new residue.
+2024-02-28 14:07:17,091 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CMG.  Parsing as new residue.
+2024-02-28 14:07:17,141 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CMG.  Parsing as new residue.
+2024-02-28 14:07:17,222 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 296
+2024-02-28 14:07:17,378 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 432
+2024-02-28 14:07:17,380 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU C 296
+2024-02-28 14:07:17,381 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU D 432
+2024-02-28 14:07:17,383 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 296
+2024-02-28 14:07:17,384 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 432
+2024-02-28 14:07:17,385 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU C 296
+2024-02-28 14:07:17,386 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU D 432
+2024-02-28 14:07:17,387 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 296
+2024-02-28 14:07:17,388 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 432
+2024-02-28 14:07:17,389 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU C 296
+2024-02-28 14:07:17,390 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU D 432
+2024-02-28 14:07:24,689 WARNING:main.py:311:print_pqr:Ignoring 2722 header lines in output.
+2024-02-28 14:07:24,690 WARNING:main.py:315:print_pqr:Ignoring 58 missing lines in output.

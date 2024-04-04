@@ -1,0 +1,6 @@
+2024-02-28 14:07:15,407 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 982.  Parsing as new residue.
+2024-02-28 14:07:15,422 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 298
+2024-02-28 14:07:15,423 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 298
+2024-02-28 14:07:15,424 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 298
+2024-02-28 14:07:16,207 WARNING:main.py:311:print_pqr:Ignoring 1331 header lines in output.
+2024-02-28 14:07:16,208 WARNING:main.py:315:print_pqr:Ignoring 17 missing lines in output.

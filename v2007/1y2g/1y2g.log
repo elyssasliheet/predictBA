@@ -1,0 +1,6 @@
+2024-02-28 14:07:16,236 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL3.  Parsing as new residue.
+2024-02-28 14:07:16,251 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 142
+2024-02-28 14:07:16,251 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 142
+2024-02-28 14:07:16,252 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 142
+2024-02-28 14:07:16,955 WARNING:main.py:311:print_pqr:Ignoring 1635 header lines in output.
+2024-02-28 14:07:16,955 WARNING:main.py:315:print_pqr:Ignoring 26 missing lines in output.

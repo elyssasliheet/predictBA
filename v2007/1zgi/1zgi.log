@@ -1,0 +1,18 @@
+2024-02-28 14:07:17,179 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TYS.  Parsing as new residue.
+2024-02-28 14:07:17,193 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 382.  Parsing as new residue.
+2024-02-28 14:07:17,199 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ILE A 14K and ILE A 16!
+2024-02-28 14:07:17,201 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLU A 146 and GLY A 150!
+2024-02-28 14:07:17,246 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14K
+2024-02-28 14:07:17,430 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14K
+2024-02-28 14:07:17,430 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14K
+2024-02-28 14:07:17,431 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 364
+2024-02-28 14:07:17,431 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14K
+2024-02-28 14:07:17,431 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14K
+2024-02-28 14:07:17,431 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14K
+2024-02-28 14:07:17,432 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 364
+2024-02-28 14:07:17,433 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG1 in residue ILE A 14K
+2024-02-28 14:07:17,433 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG2 in residue ILE A 14K
+2024-02-28 14:07:17,433 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD1 in residue ILE A 14K
+2024-02-28 14:07:17,434 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 364
+2024-02-28 14:07:21,178 WARNING:main.py:311:print_pqr:Ignoring 2401 header lines in output.
+2024-02-28 14:07:21,178 WARNING:main.py:315:print_pqr:Ignoring 48 missing lines in output.

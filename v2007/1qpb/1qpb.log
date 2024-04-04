@@ -1,0 +1,26 @@
+2024-02-28 14:07:13,184 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPP.  Parsing as new residue.
+2024-02-28 14:07:13,185 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:13,185 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PYM.  Parsing as new residue.
+2024-02-28 14:07:13,185 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPP.  Parsing as new residue.
+2024-02-28 14:07:13,186 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:13,186 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PYM.  Parsing as new residue.
+2024-02-28 14:07:13,218 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 556
+2024-02-28 14:07:13,220 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 556
+2024-02-28 14:07:13,222 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 556
+2024-02-28 14:07:13,223 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 556
+2024-02-28 14:07:13,225 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 556
+2024-02-28 14:07:13,226 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 556
+2024-02-28 14:07:15,959 WARNING:main.py:311:print_pqr:Ignoring 2968 header lines in output.
+2024-02-28 14:07:15,959 WARNING:main.py:315:print_pqr:Ignoring 66 missing lines in output.
+2024-02-28 14:58:41,723 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPP.  Parsing as new residue.
+2024-02-28 14:58:41,759 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:58:41,760 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PYM.  Parsing as new residue.
+2024-02-28 14:58:41,760 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPP.  Parsing as new residue.
+2024-02-28 14:58:41,760 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:58:41,760 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PYM.  Parsing as new residue.
+2024-02-28 14:58:41,850 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 556
+2024-02-28 14:58:41,852 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 556
+2024-02-28 14:58:41,857 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 556
+2024-02-28 14:58:41,859 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 556
+2024-02-28 14:58:41,861 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 556
+2024-02-28 14:58:41,863 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 556

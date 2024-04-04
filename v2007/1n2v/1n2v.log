@@ -1,0 +1,7 @@
+2024-02-28 14:06:48,073 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:06:48,075 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BDI.  Parsing as new residue.
+2024-02-28 14:06:48,107 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:06:48,108 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:06:48,110 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PHE A 382
+2024-02-28 14:06:49,056 WARNING:main.py:311:print_pqr:Ignoring 1285 header lines in output.
+2024-02-28 14:06:49,056 WARNING:main.py:315:print_pqr:Ignoring 16 missing lines in output.

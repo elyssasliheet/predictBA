@@ -1,0 +1,47 @@
+2024-02-28 14:07:20,944 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CAC.  Parsing as new residue.
+2024-02-28 14:07:20,948 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:20,948 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:20,948 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:20,948 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:20,950 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:20,950 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:20,950 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for DMS.  Parsing as new residue.
+2024-02-28 14:07:20,951 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for EDO.  Parsing as new residue.
+2024-02-28 14:07:20,951 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:21,063 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ARG I 40 and LEU I 45!
+2024-02-28 14:07:21,063 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP I 52 and GLY I 57!
+2024-02-28 14:07:21,063 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL I 72 and SER I 77!
+2024-02-28 14:07:21,065 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU I 86 and ASP I 90!
+2024-02-28 14:07:21,066 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS K 23 and THR K 30!
+2024-02-28 14:07:21,069 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ARG K 40 and LEU K 45!
+2024-02-28 14:07:21,069 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP K 52 and GLY K 57!
+2024-02-28 14:07:21,069 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL K 72 and SER K 77!
+2024-02-28 14:07:21,070 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU K 86 and ASP K 90!
+2024-02-28 14:07:21,077 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ARG M 23 and ALA M 28!
+2024-02-28 14:07:21,084 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR O 26 and ALA O 28!
+2024-02-28 14:07:21,136 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA H 122
+2024-02-28 14:07:21,154 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU I 116
+2024-02-28 14:07:21,155 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA J 122
+2024-02-28 14:07:21,156 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU K 116
+2024-02-28 14:07:21,156 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU L 109
+2024-02-28 14:07:21,161 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU M 109
+2024-02-28 14:07:21,162 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU N 109
+2024-02-28 14:07:21,164 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU O 109
+2024-02-28 14:07:21,167 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA H 122
+2024-02-28 14:07:21,169 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU I 116
+2024-02-28 14:07:21,172 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA J 122
+2024-02-28 14:07:21,173 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU K 116
+2024-02-28 14:07:21,176 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU L 109
+2024-02-28 14:07:21,177 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU M 109
+2024-02-28 14:07:21,178 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU N 109
+2024-02-28 14:07:21,182 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU O 109
+2024-02-28 14:07:21,205 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA H 122
+2024-02-28 14:07:21,214 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU I 116
+2024-02-28 14:07:21,214 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA J 122
+2024-02-28 14:07:21,215 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU K 116
+2024-02-28 14:07:21,215 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU L 109
+2024-02-28 14:07:21,216 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU M 109
+2024-02-28 14:07:21,216 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU N 109
+2024-02-28 14:07:21,217 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU O 109
+2024-02-28 14:07:24,202 WARNING:main.py:311:print_pqr:Ignoring 7841 header lines in output.
+2024-02-28 14:07:24,202 WARNING:main.py:315:print_pqr:Ignoring 216 missing lines in output.

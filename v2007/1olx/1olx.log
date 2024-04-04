@@ -1,0 +1,36 @@
+2024-02-28 14:07:16,780 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:16,783 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MN.  Parsing as new residue.
+2024-02-28 14:07:16,783 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TPP.  Parsing as new residue.
+2024-02-28 14:07:16,783 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GOL.  Parsing as new residue.
+2024-02-28 14:07:16,783 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GOL.  Parsing as new residue.
+2024-02-28 14:07:16,783 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ILE A 28.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ILE A 28.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ILE A 28.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ILE A 28.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ILE A 28.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in ILE A 28.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in ILE A 28.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in ILE A 28.
+2024-02-28 14:07:16,785 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ILE A 28. At least one of the instances is being ignored.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in VAL A 253.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in VAL A 253.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in VAL A 253.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in VAL A 253.
+2024-02-28 14:07:16,785 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in VAL A 253.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in VAL A 253.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in VAL A 253.
+2024-02-28 14:07:16,786 WARNING:main.py:424:setup_molecule:Multiple occupancies found in VAL A 253. At least one of the instances is being ignored.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N in ASP B 67.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in ASP B 67.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C in ASP B 67.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O in ASP B 67.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ASP B 67.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ASP B 67.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD1 in ASP B 67.
+2024-02-28 14:07:16,786 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OD2 in ASP B 67.
+2024-02-28 14:07:16,786 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ASP B 67. At least one of the instances is being ignored.
+2024-02-28 14:07:16,804 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ARG A 301 and ASN A 307!
+2024-02-28 14:07:16,804 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLN B 7 and GLU B 14!
+2024-02-28 14:07:22,254 WARNING:main.py:311:print_pqr:Ignoring 2122 header lines in output.
+2024-02-28 14:07:22,254 WARNING:main.py:315:print_pqr:Ignoring 41 missing lines in output.

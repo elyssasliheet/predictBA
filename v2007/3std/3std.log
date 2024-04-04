@@ -1,0 +1,42 @@
+2024-02-28 14:07:09,138 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MQ0.  Parsing as new residue.
+2024-02-28 14:07:09,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:09,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MQ0.  Parsing as new residue.
+2024-02-28 14:07:09,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:09,139 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MQ0.  Parsing as new residue.
+2024-02-28 14:07:09,158 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:07:09,159 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 170
+2024-02-28 14:07:09,159 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom C in residue GLY C 2
+2024-02-28 14:07:09,160 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 170
+2024-02-28 14:07:09,160 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:07:09,161 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 170
+2024-02-28 14:07:09,161 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom C in residue GLY C 2
+2024-02-28 14:07:09,161 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 170
+2024-02-28 14:07:09,162 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:07:09,162 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 170
+2024-02-28 14:07:09,162 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom C in residue GLY C 2
+2024-02-28 14:07:09,163 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 170
+2024-02-28 14:07:09,268 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump GLY C 2
+2024-02-28 14:07:10,092 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump GLY C 2
+2024-02-28 14:07:10,404 WARNING:main.py:311:print_pqr:Ignoring 3653 header lines in output.
+2024-02-28 14:07:10,404 WARNING:main.py:315:print_pqr:Ignoring 86 missing lines in output.
+2024-02-28 14:58:36,871 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MQ0.  Parsing as new residue.
+2024-02-28 14:58:36,873 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:36,874 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MQ0.  Parsing as new residue.
+2024-02-28 14:58:36,874 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:58:36,874 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MQ0.  Parsing as new residue.
+2024-02-28 14:58:36,914 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:58:36,915 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 170
+2024-02-28 14:58:36,915 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom C in residue GLY C 2
+2024-02-28 14:58:36,916 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 170
+2024-02-28 14:58:36,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:58:36,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 170
+2024-02-28 14:58:36,917 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom C in residue GLY C 2
+2024-02-28 14:58:36,918 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 170
+2024-02-28 14:58:36,919 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY A 170
+2024-02-28 14:58:36,919 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY B 170
+2024-02-28 14:58:36,923 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom C in residue GLY C 2
+2024-02-28 14:58:36,924 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLY C 170
+2024-02-28 14:58:37,196 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump GLY C 2
+2024-02-28 14:58:38,514 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump GLY C 2
+2024-02-28 14:58:39,250 WARNING:main.py:311:print_pqr:Ignoring 3653 header lines in output.
+2024-02-28 14:58:39,250 WARNING:main.py:315:print_pqr:Ignoring 86 missing lines in output.

@@ -1,0 +1,39 @@
+2024-02-28 14:07:17,515 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K37.  Parsing as new residue.
+2024-02-28 14:07:17,767 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K37.  Parsing as new residue.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N5 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C7 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N8 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C9 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: S in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C11 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: BR10 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: BR11 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: BR12 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: BR13 in K37 A 501.
+2024-02-28 14:07:17,779 WARNING:main.py:424:setup_molecule:Multiple occupancies found in K37 A 501. At least one of the instances is being ignored.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in K37 A 502.
+2024-02-28 14:07:17,779 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C2 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C3 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C4 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N5 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C6 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C7 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: N8 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C9 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: S in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C11 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: BR10 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: BR11 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: BR12 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:418:setup_molecule:Multiple occupancies found: BR13 in K37 A 502.
+2024-02-28 14:07:17,780 WARNING:main.py:424:setup_molecule:Multiple occupancies found in K37 A 502. At least one of the instances is being ignored.
+2024-02-28 14:07:17,892 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 331
+2024-02-28 14:07:17,893 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 331
+2024-02-28 14:07:17,894 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU A 331
+2024-02-28 14:07:19,966 WARNING:main.py:311:print_pqr:Ignoring 1764 header lines in output.
+2024-02-28 14:07:19,966 WARNING:main.py:315:print_pqr:Ignoring 30 missing lines in output.

@@ -1,0 +1,16 @@
+2024-02-28 14:07:08,627 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for AQZ.  Parsing as new residue.
+2024-02-28 14:07:08,634 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL A 117 and LYS A 121!
+2024-02-28 14:07:08,634 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 170 and VAL A 183!
+2024-02-28 14:07:08,645 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:07:08,646 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:07:08,647 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:07:09,484 WARNING:main.py:311:print_pqr:Ignoring 2212 header lines in output.
+2024-02-28 14:07:09,485 WARNING:main.py:315:print_pqr:Ignoring 43 missing lines in output.
+2024-02-28 14:58:39,974 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for AQZ.  Parsing as new residue.
+2024-02-28 14:58:39,982 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between VAL A 117 and LYS A 121!
+2024-02-28 14:58:39,982 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 170 and VAL A 183!
+2024-02-28 14:58:40,011 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:58:40,012 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:58:40,014 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 353
+2024-02-28 14:58:40,956 WARNING:main.py:311:print_pqr:Ignoring 2212 header lines in output.
+2024-02-28 14:58:40,956 WARNING:main.py:315:print_pqr:Ignoring 43 missing lines in output.

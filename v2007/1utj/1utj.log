@@ -1,0 +1,9 @@
+2024-02-28 14:07:14,989 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ABN.  Parsing as new residue.
+2024-02-28 14:07:14,989 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:14,990 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in ILE A 162.
+2024-02-28 14:07:14,990 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG1 in ILE A 162.
+2024-02-28 14:07:14,990 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in ILE A 162.
+2024-02-28 14:07:14,991 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in ILE A 162.
+2024-02-28 14:07:14,991 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ILE A 162. At least one of the instances is being ignored.
+2024-02-28 14:07:15,442 WARNING:main.py:311:print_pqr:Ignoring 1121 header lines in output.
+2024-02-28 14:07:15,442 WARNING:main.py:315:print_pqr:Ignoring 11 missing lines in output.

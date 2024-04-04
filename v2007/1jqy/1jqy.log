@@ -1,0 +1,22 @@
+2024-02-28 14:07:18,005 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,409 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,409 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,409 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for A32.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:27,447 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH N 155 skipped when optimizing O in HOH N 163
+2024-02-28 14:07:27,515 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH V 124 skipped when optimizing O in HOH V 129
+2024-02-28 14:07:27,574 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: O in HOH Z 121 skipped when optimizing O in HOH Z 139
+2024-02-28 14:07:27,681 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH D 124 skipped when optimizing H2 in HOH D 105
+2024-02-28 14:07:27,683 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH D 124 skipped when optimizing H2 in HOH D 105
+2024-02-28 14:07:27,684 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH D 124 skipped when optimizing H2 in HOH D 105
+2024-02-28 14:07:27,699 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH D 107 skipped when optimizing H2 in HOH D 105
+2024-02-28 14:07:27,701 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH D 107 skipped when optimizing H2 in HOH D 105
+2024-02-28 14:07:27,709 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH D 105 skipped when optimizing H2 in HOH D 124
+2024-02-28 14:07:27,711 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:07:40,439 WARNING:main.py:311:print_pqr:Ignoring 16761 header lines in output.
+2024-02-28 14:07:40,440 WARNING:main.py:315:print_pqr:Ignoring 462 missing lines in output.

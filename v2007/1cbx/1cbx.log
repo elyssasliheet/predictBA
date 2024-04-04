@@ -1,0 +1,4 @@
+2024-02-28 14:07:17,828 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,861 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BZS.  Parsing as new residue.
+2024-02-28 14:07:21,429 WARNING:main.py:311:print_pqr:Ignoring 1288 header lines in output.
+2024-02-28 14:07:21,436 WARNING:main.py:315:print_pqr:Ignoring 16 missing lines in output.

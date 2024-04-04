@@ -1,0 +1,11 @@
+2024-02-28 14:07:17,246 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,430 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for FR0.  Parsing as new residue.
+2024-02-28 14:07:17,512 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ARG A 352
+2024-02-28 14:07:17,709 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 352
+2024-02-28 14:07:17,711 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ARG A 352
+2024-02-28 14:07:17,711 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 352
+2024-02-28 14:07:17,712 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue ARG A 352
+2024-02-28 14:07:17,712 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 352
+2024-02-28 14:07:19,381 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL A 166
+2024-02-28 14:07:20,089 WARNING:main.py:311:print_pqr:Ignoring 1658 header lines in output.
+2024-02-28 14:07:20,089 WARNING:main.py:315:print_pqr:Ignoring 26 missing lines in output.

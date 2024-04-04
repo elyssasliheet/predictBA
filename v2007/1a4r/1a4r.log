@@ -1,0 +1,11 @@
+2024-02-28 14:07:17,741 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:17,749 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GDP.  Parsing as new residue.
+2024-02-28 14:07:17,749 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GNH.  Parsing as new residue.
+2024-02-28 14:07:17,831 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 190
+2024-02-28 14:07:17,832 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 390
+2024-02-28 14:07:17,833 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 190
+2024-02-28 14:07:17,833 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 390
+2024-02-28 14:07:17,834 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 190
+2024-02-28 14:07:17,835 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU B 390
+2024-02-28 14:07:22,414 WARNING:main.py:311:print_pqr:Ignoring 2669 header lines in output.
+2024-02-28 14:07:22,415 WARNING:main.py:315:print_pqr:Ignoring 57 missing lines in output.

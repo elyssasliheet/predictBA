@@ -1,0 +1,16 @@
+2024-02-28 14:06:47,145 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:06:47,146 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:06:47,149 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 667.  Parsing as new residue.
+2024-02-28 14:06:47,183 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:06:47,184 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:06:47,191 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:06:48,860 WARNING:main.py:311:print_pqr:Ignoring 1521 header lines in output.
+2024-02-28 14:06:48,861 WARNING:main.py:315:print_pqr:Ignoring 23 missing lines in output.
+2024-02-28 14:58:38,778 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:38,779 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:38,779 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 667.  Parsing as new residue.
+2024-02-28 14:58:38,808 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:58:38,809 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:58:38,810 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:58:40,152 WARNING:main.py:311:print_pqr:Ignoring 1521 header lines in output.
+2024-02-28 14:58:40,158 WARNING:main.py:315:print_pqr:Ignoring 23 missing lines in output.

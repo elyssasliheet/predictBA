@@ -1,0 +1,9 @@
+2024-02-28 14:07:11,557 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:07:11,558 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:11,558 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MPM.  Parsing as new residue.
+2024-02-28 14:07:13,371 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump ILE A 208
+2024-02-28 14:07:13,683 WARNING:main.py:311:print_pqr:Ignoring 1618 header lines in output.
+2024-02-28 14:07:13,683 WARNING:main.py:315:print_pqr:Ignoring 26 missing lines in output.
+2024-02-28 14:58:39,273 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for K.  Parsing as new residue.
+2024-02-28 14:58:39,274 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:58:39,274 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MPM.  Parsing as new residue.

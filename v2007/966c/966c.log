@@ -1,0 +1,29 @@
+2024-02-28 14:07:17,872 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,881 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:17,881 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,881 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,881 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:17,882 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for RS2.  Parsing as new residue.
+2024-02-28 14:07:17,922 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG in residue SER A 263
+2024-02-28 14:07:18,309 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue GLN A 264
+2024-02-28 14:07:18,309 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLN A 264
+2024-02-28 14:07:18,309 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLN A 264
+2024-02-28 14:07:18,309 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLN A 264
+2024-02-28 14:07:18,309 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE2 in residue GLN A 264
+2024-02-28 14:07:18,309 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 264
+2024-02-28 14:07:18,310 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG in residue SER A 263
+2024-02-28 14:07:18,310 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue GLN A 264
+2024-02-28 14:07:18,310 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLN A 264
+2024-02-28 14:07:18,310 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLN A 264
+2024-02-28 14:07:18,310 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLN A 264
+2024-02-28 14:07:18,310 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE2 in residue GLN A 264
+2024-02-28 14:07:18,310 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 264
+2024-02-28 14:07:18,311 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OG in residue SER A 263
+2024-02-28 14:07:18,311 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue GLN A 264
+2024-02-28 14:07:18,311 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CG in residue GLN A 264
+2024-02-28 14:07:18,311 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom CD in residue GLN A 264
+2024-02-28 14:07:18,311 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OE1 in residue GLN A 264
+2024-02-28 14:07:18,311 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom NE2 in residue GLN A 264
+2024-02-28 14:07:18,311 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLN A 264
+2024-02-28 14:07:20,401 WARNING:main.py:311:print_pqr:Ignoring 2455 header lines in output.
+2024-02-28 14:07:20,401 WARNING:main.py:315:print_pqr:Ignoring 53 missing lines in output.

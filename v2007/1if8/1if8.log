@@ -1,0 +1,8 @@
+2024-02-28 14:07:20,657 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:20,661 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HG.  Parsing as new residue.
+2024-02-28 14:07:20,661 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SBS.  Parsing as new residue.
+2024-02-28 14:07:20,751 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:07:20,752 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:07:20,753 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LYS A 261
+2024-02-28 14:07:22,406 WARNING:main.py:311:print_pqr:Ignoring 1707 header lines in output.
+2024-02-28 14:07:22,406 WARNING:main.py:315:print_pqr:Ignoring 28 missing lines in output.

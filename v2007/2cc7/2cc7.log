@@ -1,0 +1,12 @@
+2024-02-28 14:07:24,238 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:24,238 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:24,238 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NA.  Parsing as new residue.
+2024-02-28 14:07:24,239 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:07:24,239 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:24,239 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:24,240 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for LUM.  Parsing as new residue.
+2024-02-28 14:07:24,250 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 65
+2024-02-28 14:07:24,250 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 65
+2024-02-28 14:07:24,251 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP A 65
+2024-02-28 14:07:24,402 WARNING:main.py:311:print_pqr:Ignoring 1681 header lines in output.
+2024-02-28 14:07:24,402 WARNING:main.py:315:print_pqr:Ignoring 28 missing lines in output.

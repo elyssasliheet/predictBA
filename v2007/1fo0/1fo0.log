@@ -1,0 +1,19 @@
+2024-02-28 14:07:03,079 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 116
+2024-02-28 14:07:03,079 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 116
+2024-02-28 14:07:03,080 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU H 275
+2024-02-28 14:07:03,081 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 116
+2024-02-28 14:07:03,081 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 116
+2024-02-28 14:07:03,082 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU H 275
+2024-02-28 14:07:03,083 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 116
+2024-02-28 14:07:03,083 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 116
+2024-02-28 14:07:03,084 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU H 275
+2024-02-28 14:07:04,622 WARNING:main.py:311:print_pqr:Ignoring 391 header lines in output.
+2024-02-28 14:58:39,386 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 116
+2024-02-28 14:58:39,391 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 116
+2024-02-28 14:58:39,393 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU H 275
+2024-02-28 14:58:39,393 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 116
+2024-02-28 14:58:39,394 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 116
+2024-02-28 14:58:39,395 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU H 275
+2024-02-28 14:58:39,396 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 116
+2024-02-28 14:58:39,396 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue VAL B 116
+2024-02-28 14:58:39,397 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU H 275

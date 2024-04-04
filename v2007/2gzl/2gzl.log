@@ -1,0 +1,9 @@
+2024-02-28 14:07:16,799 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:16,799 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 2AA.  Parsing as new residue.
+2024-02-28 14:07:16,800 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GPP.  Parsing as new residue.
+2024-02-28 14:07:16,814 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 157
+2024-02-28 14:07:16,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 157
+2024-02-28 14:07:16,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ALA A 157
+2024-02-28 14:07:17,206 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump PRO A 66
+2024-02-28 14:07:17,529 WARNING:main.py:311:print_pqr:Ignoring 2895 header lines in output.
+2024-02-28 14:07:17,756 WARNING:main.py:315:print_pqr:Ignoring 64 missing lines in output.

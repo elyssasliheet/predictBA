@@ -1,0 +1,16 @@
+2024-02-28 14:07:17,582 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:17,589 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:17,589 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMA.  Parsing as new residue.
+2024-02-28 14:07:17,589 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BMA.  Parsing as new residue.
+2024-02-28 14:07:17,590 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MAN.  Parsing as new residue.
+2024-02-28 14:07:17,590 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 2Z3.  Parsing as new residue.
+2024-02-28 14:07:17,590 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:07:21,381 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL A 4
+2024-02-28 14:07:21,952 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump THR A 16
+2024-02-28 14:07:22,051 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump ASN A 43
+2024-02-28 14:07:22,104 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump SER A 63
+2024-02-28 14:07:22,366 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump ASN A 161
+2024-02-28 14:07:22,686 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump TRP A 241
+2024-02-28 14:07:23,044 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump VAL A 320
+2024-02-28 14:07:23,184 WARNING:main.py:311:print_pqr:Ignoring 4649 header lines in output.
+2024-02-28 14:07:23,184 WARNING:main.py:315:print_pqr:Ignoring 121 missing lines in output.

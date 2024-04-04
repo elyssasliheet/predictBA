@@ -1,0 +1,10 @@
+2024-02-28 14:06:59,469 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PCA.  Parsing as new residue.
+2024-02-28 14:06:59,488 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NAG.  Parsing as new residue.
+2024-02-28 14:06:59,488 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for LM2.  Parsing as new residue.
+2024-02-28 14:06:59,489 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:06:59,489 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CL.  Parsing as new residue.
+2024-02-28 14:06:59,509 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 496
+2024-02-28 14:06:59,511 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 496
+2024-02-28 14:06:59,512 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU A 496
+2024-02-28 14:07:00,693 WARNING:main.py:311:print_pqr:Ignoring 2730 header lines in output.
+2024-02-28 14:07:00,693 WARNING:main.py:315:print_pqr:Ignoring 60 missing lines in output.

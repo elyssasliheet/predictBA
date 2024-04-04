@@ -1,0 +1,116 @@
+2024-02-28 14:07:05,340 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:07:05,342 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:07:05,346 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:07:05,349 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:07:05,351 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:07:05,355 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:07:05,356 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 459.  Parsing as new residue.
+2024-02-28 14:07:05,356 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 459.  Parsing as new residue.
+2024-02-28 14:07:05,357 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 329.
+2024-02-28 14:07:05,357 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 329.
+2024-02-28 14:07:05,357 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 329. At least one of the instances is being ignored.
+2024-02-28 14:07:05,358 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS A 373.
+2024-02-28 14:07:05,358 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 373.
+2024-02-28 14:07:05,358 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 373.
+2024-02-28 14:07:05,358 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 373.
+2024-02-28 14:07:05,359 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 373.
+2024-02-28 14:07:05,359 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 373.
+2024-02-28 14:07:05,359 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 373. At least one of the instances is being ignored.
+2024-02-28 14:07:05,359 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS A 501.
+2024-02-28 14:07:05,359 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 501.
+2024-02-28 14:07:05,359 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 501.
+2024-02-28 14:07:05,359 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 501.
+2024-02-28 14:07:05,359 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 501.
+2024-02-28 14:07:05,360 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 501.
+2024-02-28 14:07:05,360 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 501. At least one of the instances is being ignored.
+2024-02-28 14:07:05,360 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS A 513.
+2024-02-28 14:07:05,360 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 513.
+2024-02-28 14:07:05,360 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 513.
+2024-02-28 14:07:05,361 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 513.
+2024-02-28 14:07:05,361 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 513.
+2024-02-28 14:07:05,361 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 513.
+2024-02-28 14:07:05,361 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 513. At least one of the instances is being ignored.
+2024-02-28 14:07:05,361 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 537.
+2024-02-28 14:07:05,361 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 537.
+2024-02-28 14:07:05,361 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 537. At least one of the instances is being ignored.
+2024-02-28 14:07:05,362 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS B 513.
+2024-02-28 14:07:05,362 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS B 513.
+2024-02-28 14:07:05,362 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS B 513.
+2024-02-28 14:07:05,362 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS B 513.
+2024-02-28 14:07:05,363 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS B 513.
+2024-02-28 14:07:05,363 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS B 513.
+2024-02-28 14:07:05,363 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS B 513. At least one of the instances is being ignored.
+2024-02-28 14:07:05,370 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PHE A 461 and GLU A 470!
+2024-02-28 14:07:05,380 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 548
+2024-02-28 14:07:05,380 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG B 548
+2024-02-28 14:07:05,381 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP C 696
+2024-02-28 14:07:05,381 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP D 696
+2024-02-28 14:07:05,381 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 548
+2024-02-28 14:07:05,382 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG B 548
+2024-02-28 14:07:05,382 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP C 696
+2024-02-28 14:07:05,382 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP D 696
+2024-02-28 14:07:05,383 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 548
+2024-02-28 14:07:05,384 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG B 548
+2024-02-28 14:07:05,384 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP C 696
+2024-02-28 14:07:05,384 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP D 696
+2024-02-28 14:07:06,136 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump GLU A 423
+2024-02-28 14:07:06,563 WARNING:main.py:311:print_pqr:Ignoring 4062 header lines in output.
+2024-02-28 14:07:06,563 WARNING:main.py:315:print_pqr:Ignoring 100 missing lines in output.
+2024-02-28 14:58:30,877 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:58:30,879 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:58:30,884 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:58:30,889 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:58:30,890 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:58:30,896 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CME.  Parsing as new residue.
+2024-02-28 14:58:30,899 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 459.  Parsing as new residue.
+2024-02-28 14:58:30,900 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 459.  Parsing as new residue.
+2024-02-28 14:58:30,900 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 329.
+2024-02-28 14:58:30,900 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 329.
+2024-02-28 14:58:30,900 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 329. At least one of the instances is being ignored.
+2024-02-28 14:58:30,900 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS A 373.
+2024-02-28 14:58:30,900 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 373.
+2024-02-28 14:58:30,900 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 373.
+2024-02-28 14:58:30,900 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 373.
+2024-02-28 14:58:30,900 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 373.
+2024-02-28 14:58:30,900 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 373.
+2024-02-28 14:58:30,900 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 373. At least one of the instances is being ignored.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS A 501.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 501.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 501.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 501.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 501.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 501.
+2024-02-28 14:58:30,901 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 501. At least one of the instances is being ignored.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS A 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 513.
+2024-02-28 14:58:30,901 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 513. At least one of the instances is being ignored.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 537.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 537.
+2024-02-28 14:58:30,901 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 537. At least one of the instances is being ignored.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS B 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS B 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS B 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS B 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS B 513.
+2024-02-28 14:58:30,901 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS B 513.
+2024-02-28 14:58:30,901 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS B 513. At least one of the instances is being ignored.
+2024-02-28 14:58:30,913 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PHE A 461 and GLU A 470!
+2024-02-28 14:58:30,956 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 548
+2024-02-28 14:58:30,965 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG B 548
+2024-02-28 14:58:30,965 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP C 696
+2024-02-28 14:58:30,965 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP D 696
+2024-02-28 14:58:30,966 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 548
+2024-02-28 14:58:30,967 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG B 548
+2024-02-28 14:58:30,967 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP C 696
+2024-02-28 14:58:30,967 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP D 696
+2024-02-28 14:58:30,968 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG A 548
+2024-02-28 14:58:30,969 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ARG B 548
+2024-02-28 14:58:30,969 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP C 696
+2024-02-28 14:58:30,969 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASP D 696
+2024-02-28 14:58:32,200 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump GLU A 423
+2024-02-28 14:58:32,948 WARNING:main.py:311:print_pqr:Ignoring 4062 header lines in output.
+2024-02-28 14:58:32,949 WARNING:main.py:315:print_pqr:Ignoring 100 missing lines in output.

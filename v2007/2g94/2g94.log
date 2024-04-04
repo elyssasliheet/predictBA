@@ -1,0 +1,16 @@
+2024-02-28 14:07:09,499 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZPQ.  Parsing as new residue.
+2024-02-28 14:07:09,499 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZPQ.  Parsing as new residue.
+2024-02-28 14:07:09,500 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZPQ.  Parsing as new residue.
+2024-02-28 14:07:09,500 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZPQ.  Parsing as new residue.
+2024-02-28 14:07:13,377 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 1039 skipped when optimizing H2 in HOH A 1008
+2024-02-28 14:07:13,384 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 1008 skipped when optimizing H2 in HOH A 1039
+2024-02-28 14:07:13,488 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 1060 skipped when optimizing H2 in HOH D 4024
+2024-02-28 14:07:13,490 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 1060 skipped when optimizing H2 in HOH D 4024
+2024-02-28 14:07:13,640 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1128 skipped when optimizing H2 in HOH A 1166
+2024-02-28 14:07:13,641 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1101 skipped when optimizing H2 in HOH A 1166
+2024-02-28 14:07:13,642 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1101 skipped when optimizing H2 in HOH A 1166
+2024-02-28 14:07:13,643 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1101 skipped when optimizing H2 in HOH A 1166
+2024-02-28 14:07:13,644 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H1 in HOH A 1101 skipped when optimizing H2 in HOH A 1166
+2024-02-28 14:07:13,645 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:07:26,087 WARNING:main.py:311:print_pqr:Ignoring 7212 header lines in output.
+2024-02-28 14:07:26,088 WARNING:main.py:315:print_pqr:Ignoring 180 missing lines in output.

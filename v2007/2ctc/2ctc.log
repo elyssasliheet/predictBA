@@ -1,0 +1,8 @@
+2024-02-28 14:07:07,875 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:07,876 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HFA.  Parsing as new residue.
+2024-02-28 14:07:08,746 WARNING:main.py:311:print_pqr:Ignoring 1190 header lines in output.
+2024-02-28 14:07:08,746 WARNING:main.py:315:print_pqr:Ignoring 13 missing lines in output.
+2024-02-28 14:58:39,820 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:39,823 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for HFA.  Parsing as new residue.
+2024-02-28 14:58:41,121 WARNING:main.py:311:print_pqr:Ignoring 1190 header lines in output.
+2024-02-28 14:58:41,122 WARNING:main.py:315:print_pqr:Ignoring 13 missing lines in output.

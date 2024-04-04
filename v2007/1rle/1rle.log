@@ -1,0 +1,38 @@
+2024-02-28 14:07:17,989 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:18,409 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:18,409 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:18,409 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GSP.  Parsing as new residue.
+2024-02-28 14:07:18,409 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for CA.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:18,410 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for GSP.  Parsing as new residue.
+2024-02-28 14:07:18,434 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in HIS A 416.
+2024-02-28 14:07:18,839 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS A 416.
+2024-02-28 14:07:18,840 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS A 416.
+2024-02-28 14:07:18,840 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS A 416.
+2024-02-28 14:07:18,840 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS A 416.
+2024-02-28 14:07:18,840 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS A 416.
+2024-02-28 14:07:18,840 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS A 416.
+2024-02-28 14:07:18,840 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS A 416. At least one of the instances is being ignored.
+2024-02-28 14:07:18,841 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CA in HIS B 416.
+2024-02-28 14:07:18,841 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in HIS B 416.
+2024-02-28 14:07:18,841 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in HIS B 416.
+2024-02-28 14:07:18,841 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ND1 in HIS B 416.
+2024-02-28 14:07:18,841 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in HIS B 416.
+2024-02-28 14:07:18,841 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CE1 in HIS B 416.
+2024-02-28 14:07:18,841 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE2 in HIS B 416.
+2024-02-28 14:07:18,841 WARNING:main.py:424:setup_molecule:Multiple occupancies found in HIS B 416. At least one of the instances is being ignored.
+2024-02-28 14:07:18,985 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO A 461 and GLU A 479!
+2024-02-28 14:07:18,991 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU B 459 and LEU B 473!
+2024-02-28 14:07:26,428 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: H2 in HOH A 1260 skipped when optimizing H2 in HOH A 1126
+2024-02-28 14:07:26,431 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP2 in HOH A 1378 skipped when optimizing H2 in HOH A 1126
+2024-02-28 14:07:26,435 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH A 1378 skipped when optimizing H2 in HOH A 1375
+2024-02-28 14:07:26,436 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH A 1378 skipped when optimizing H2 in HOH A 1375
+2024-02-28 14:07:26,437 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH A 1378 skipped when optimizing H2 in HOH A 1375
+2024-02-28 14:07:26,438 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP1 in HOH A 1378 skipped when optimizing H2 in HOH A 1375
+2024-02-28 14:07:26,441 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP2 in HOH A 1347 skipped when optimizing H2 in HOH A 1375
+2024-02-28 14:07:26,442 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP2 in HOH A 1347 skipped when optimizing H2 in HOH A 1375
+2024-02-28 14:07:26,443 WARNING:debump.py:354:get_closest_atom:Skipped atom during water optimization: LP2 in HOH A 1347 skipped when optimizing H2 in HOH A 1375
+2024-02-28 14:07:26,444 WARNING:io.py:40:filter:Suppressing further "Skipped atom during water optimization" messages
+2024-02-28 14:07:35,507 WARNING:main.py:311:print_pqr:Ignoring 3176 header lines in output.
+2024-02-28 14:07:35,507 WARNING:main.py:315:print_pqr:Ignoring 70 missing lines in output.

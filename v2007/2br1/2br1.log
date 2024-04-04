@@ -1,0 +1,23 @@
+2024-02-28 14:07:16,875 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PFP.  Parsing as new residue.
+2024-02-28 14:07:16,875 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,875 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU A 65.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU A 65.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU A 65.
+2024-02-28 14:07:16,876 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU A 65. At least one of the instances is being ignored.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in ARG A 95.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in ARG A 95.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NE in ARG A 95.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CZ in ARG A 95.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH1 in ARG A 95.
+2024-02-28 14:07:16,876 WARNING:main.py:418:setup_molecule:Multiple occupancies found: NH2 in ARG A 95.
+2024-02-28 14:07:16,876 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ARG A 95. At least one of the instances is being ignored.
+2024-02-28 14:07:16,880 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ARG A 44 and CYS A 48!
+2024-02-28 14:07:16,892 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue PRO A 276
+2024-02-28 14:07:16,892 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 276
+2024-02-28 14:07:16,894 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue PRO A 276
+2024-02-28 14:07:16,894 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 276
+2024-02-28 14:07:16,895 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom O in residue PRO A 276
+2024-02-28 14:07:16,895 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue PRO A 276
+2024-02-28 14:07:20,145 WARNING:main.py:311:print_pqr:Ignoring 2078 header lines in output.
+2024-02-28 14:07:20,149 WARNING:main.py:315:print_pqr:Ignoring 38 missing lines in output.

@@ -1,0 +1,14 @@
+2024-02-28 14:07:16,895 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for URF.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for URF.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:16,898 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:22,714 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump THR A 50
+2024-02-28 14:07:22,881 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump MET A 244
+2024-02-28 14:07:24,037 WARNING:main.py:311:print_pqr:Ignoring 3914 header lines in output.
+2024-02-28 14:07:24,037 WARNING:main.py:315:print_pqr:Ignoring 96 missing lines in output.

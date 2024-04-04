@@ -1,0 +1,11 @@
+2024-02-28 14:07:17,498 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for TYS.  Parsing as new residue.
+2024-02-28 14:07:17,500 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for T87.  Parsing as new residue.
+2024-02-28 14:07:17,516 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between THR B 147 and GLY B 150!
+2024-02-28 14:07:17,777 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR A 14J
+2024-02-28 14:07:18,154 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU C 264
+2024-02-28 14:07:18,155 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR A 14J
+2024-02-28 14:07:18,156 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU C 264
+2024-02-28 14:07:18,156 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue TYR A 14J
+2024-02-28 14:07:18,157 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue LEU C 264
+2024-02-28 14:07:21,626 WARNING:main.py:311:print_pqr:Ignoring 2513 header lines in output.
+2024-02-28 14:07:21,627 WARNING:main.py:315:print_pqr:Ignoring 55 missing lines in output.

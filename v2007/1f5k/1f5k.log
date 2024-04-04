@@ -1,0 +1,26 @@
+2024-02-28 14:07:00,799 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:00,799 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:00,799 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:07:00,804 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO U 49 and CYS U 50!
+2024-02-28 14:07:00,804 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS U 61 and LYS U 62!
+2024-02-28 14:07:00,804 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU U 105 and LEU U 106!
+2024-02-28 14:07:00,805 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP U 185 and PRO U 185A!
+2024-02-28 14:07:00,805 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO U 185A and GLN U 185B!
+2024-02-28 14:07:00,814 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU U 244
+2024-02-28 14:07:00,815 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU U 244
+2024-02-28 14:07:00,816 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU U 244
+2024-02-28 14:07:01,419 WARNING:main.py:311:print_pqr:Ignoring 1350 header lines in output.
+2024-02-28 14:07:01,419 WARNING:main.py:315:print_pqr:Ignoring 18 missing lines in output.
+2024-02-28 14:58:38,915 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:38,915 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:38,915 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for BEN.  Parsing as new residue.
+2024-02-28 14:58:38,921 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO U 49 and CYS U 50!
+2024-02-28 14:58:38,921 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LYS U 61 and LYS U 62!
+2024-02-28 14:58:38,921 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between LEU U 105 and LEU U 106!
+2024-02-28 14:58:38,922 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP U 185 and PRO U 185A!
+2024-02-28 14:58:38,922 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between PRO U 185A and GLN U 185B!
+2024-02-28 14:58:38,934 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU U 244
+2024-02-28 14:58:38,936 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU U 244
+2024-02-28 14:58:38,937 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue GLU U 244
+2024-02-28 14:58:40,056 WARNING:main.py:311:print_pqr:Ignoring 1350 header lines in output.
+2024-02-28 14:58:40,056 WARNING:main.py:315:print_pqr:Ignoring 18 missing lines in output.

@@ -1,0 +1,102 @@
+2024-02-28 14:07:12,629 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:12,629 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:12,630 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:07:12,630 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:07:12,630 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:07:12,631 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:12,631 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PAE.  Parsing as new residue.
+2024-02-28 14:07:12,631 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:12,631 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:07:12,632 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:07:12,633 WARNING:main.py:418:setup_molecule:Multiple occupancies found: P in PO4 A 557.
+2024-02-28 14:07:12,633 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in PO4 A 557.
+2024-02-28 14:07:12,633 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in PO4 A 557.
+2024-02-28 14:07:12,633 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in PO4 A 557.
+2024-02-28 14:07:12,633 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in PO4 A 557.
+2024-02-28 14:07:12,634 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PO4 A 557. At least one of the instances is being ignored.
+2024-02-28 14:07:12,634 WARNING:main.py:418:setup_molecule:Multiple occupancies found: MG in MG A 452.
+2024-02-28 14:07:12,634 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MG A 452. At least one of the instances is being ignored.
+2024-02-28 14:07:12,634 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ZN in ZN A 453.
+2024-02-28 14:07:12,634 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ZN A 453. At least one of the instances is being ignored.
+2024-02-28 14:07:12,634 WARNING:main.py:418:setup_molecule:Multiple occupancies found: P in PAE A 556.
+2024-02-28 14:07:12,635 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1P in PAE A 556.
+2024-02-28 14:07:12,635 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2P in PAE A 556.
+2024-02-28 14:07:12,635 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3P in PAE A 556.
+2024-02-28 14:07:12,635 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1P in PAE A 556.
+2024-02-28 14:07:12,635 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in PAE A 556.
+2024-02-28 14:07:12,635 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in PAE A 556.
+2024-02-28 14:07:12,636 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in PAE A 556.
+2024-02-28 14:07:12,636 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PAE A 556. At least one of the instances is being ignored.
+2024-02-28 14:07:12,636 WARNING:main.py:418:setup_molecule:Multiple occupancies found: P in PO4 B 557.
+2024-02-28 14:07:12,636 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in PO4 B 557.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in PO4 B 557.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in PO4 B 557.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in PO4 B 557.
+2024-02-28 14:07:12,637 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PO4 B 557. At least one of the instances is being ignored.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: MG in MG B 452.
+2024-02-28 14:07:12,637 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MG B 452. At least one of the instances is being ignored.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ZN in ZN B 453.
+2024-02-28 14:07:12,637 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ZN B 453. At least one of the instances is being ignored.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: P in PAE B 556.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1P in PAE B 556.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2P in PAE B 556.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3P in PAE B 556.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1P in PAE B 556.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in PAE B 556.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in PAE B 556.
+2024-02-28 14:07:12,637 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in PAE B 556.
+2024-02-28 14:07:12,638 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PAE B 556. At least one of the instances is being ignored.
+2024-02-28 14:07:14,317 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump SER B 325
+2024-02-28 14:07:14,687 WARNING:main.py:311:print_pqr:Ignoring 2206 header lines in output.
+2024-02-28 14:07:14,687 WARNING:main.py:315:print_pqr:Ignoring 44 missing lines in output.
+2024-02-28 14:58:36,317 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:36,319 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:36,319 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PO4.  Parsing as new residue.
+2024-02-28 14:58:36,320 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SO4.  Parsing as new residue.
+2024-02-28 14:58:36,320 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for MG.  Parsing as new residue.
+2024-02-28 14:58:36,320 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:36,320 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for PAE.  Parsing as new residue.
+2024-02-28 14:58:36,320 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:36,320 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for ZN.  Parsing as new residue.
+2024-02-28 14:58:36,320 WARNING:io.py:40:filter:Suppressing further "Unable to find amino or nucleic acid definition for" messages
+2024-02-28 14:58:36,321 WARNING:main.py:418:setup_molecule:Multiple occupancies found: P in PO4 A 557.
+2024-02-28 14:58:36,321 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in PO4 A 557.
+2024-02-28 14:58:36,321 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in PO4 A 557.
+2024-02-28 14:58:36,321 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in PO4 A 557.
+2024-02-28 14:58:36,321 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in PO4 A 557.
+2024-02-28 14:58:36,321 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PO4 A 557. At least one of the instances is being ignored.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: MG in MG A 452.
+2024-02-28 14:58:36,327 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MG A 452. At least one of the instances is being ignored.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ZN in ZN A 453.
+2024-02-28 14:58:36,327 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ZN A 453. At least one of the instances is being ignored.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: P in PAE A 556.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1P in PAE A 556.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2P in PAE A 556.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3P in PAE A 556.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1P in PAE A 556.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in PAE A 556.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in PAE A 556.
+2024-02-28 14:58:36,327 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in PAE A 556.
+2024-02-28 14:58:36,327 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PAE A 556. At least one of the instances is being ignored.
+2024-02-28 14:58:36,328 WARNING:main.py:418:setup_molecule:Multiple occupancies found: P in PO4 B 557.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in PO4 B 557.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in PO4 B 557.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3 in PO4 B 557.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O4 in PO4 B 557.
+2024-02-28 14:58:36,329 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PO4 B 557. At least one of the instances is being ignored.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: MG in MG B 452.
+2024-02-28 14:58:36,329 WARNING:main.py:424:setup_molecule:Multiple occupancies found in MG B 452. At least one of the instances is being ignored.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: ZN in ZN B 453.
+2024-02-28 14:58:36,329 WARNING:main.py:424:setup_molecule:Multiple occupancies found in ZN B 453. At least one of the instances is being ignored.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: P in PAE B 556.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1P in PAE B 556.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2P in PAE B 556.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O3P in PAE B 556.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1P in PAE B 556.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: C1 in PAE B 556.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O1 in PAE B 556.
+2024-02-28 14:58:36,329 WARNING:main.py:418:setup_molecule:Multiple occupancies found: O2 in PAE B 556.
+2024-02-28 14:58:36,329 WARNING:main.py:424:setup_molecule:Multiple occupancies found in PAE B 556. At least one of the instances is being ignored.
+2024-02-28 14:58:40,027 WARNING:debump.py:172:debump_biomolecule:WARNING: Unable to debump SER B 325
+2024-02-28 14:58:40,775 WARNING:main.py:311:print_pqr:Ignoring 2206 header lines in output.
+2024-02-28 14:58:40,775 WARNING:main.py:315:print_pqr:Ignoring 44 missing lines in output.

@@ -1,0 +1,36 @@
+2024-02-28 14:07:17,722 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 205.  Parsing as new residue.
+2024-02-28 14:07:17,723 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for 205.  Parsing as new residue.
+2024-02-28 14:07:17,723 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in LEU A 17.
+2024-02-28 14:07:17,723 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD1 in LEU A 17.
+2024-02-28 14:07:17,723 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD2 in LEU A 17.
+2024-02-28 14:07:17,723 WARNING:main.py:424:setup_molecule:Multiple occupancies found in LEU A 17. At least one of the instances is being ignored.
+2024-02-28 14:07:17,723 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 23.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 23.
+2024-02-28 14:07:17,724 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 23. At least one of the instances is being ignored.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 112.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 112.
+2024-02-28 14:07:17,724 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 112. At least one of the instances is being ignored.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER A 115.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER A 115.
+2024-02-28 14:07:17,724 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER A 115. At least one of the instances is being ignored.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG in GLU B 72.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CD in GLU B 72.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE1 in GLU B 72.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OE2 in GLU B 72.
+2024-02-28 14:07:17,724 WARNING:main.py:424:setup_molecule:Multiple occupancies found in GLU B 72. At least one of the instances is being ignored.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in SER B 115.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG in SER B 115.
+2024-02-28 14:07:17,724 WARNING:main.py:424:setup_molecule:Multiple occupancies found in SER B 115. At least one of the instances is being ignored.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CB in THR B 119.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: OG1 in THR B 119.
+2024-02-28 14:07:17,724 WARNING:main.py:418:setup_molecule:Multiple occupancies found: CG2 in THR B 119.
+2024-02-28 14:07:17,724 WARNING:main.py:424:setup_molecule:Multiple occupancies found in THR B 119. At least one of the instances is being ignored.
+2024-02-28 14:07:17,729 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between ASP B 99 and ARG B 104!
+2024-02-28 14:07:17,753 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 124
+2024-02-28 14:07:17,753 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 123
+2024-02-28 14:07:17,754 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 124
+2024-02-28 14:07:17,754 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 123
+2024-02-28 14:07:17,755 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue ASN A 124
+2024-02-28 14:07:17,755 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 123
+2024-02-28 14:07:20,945 WARNING:main.py:311:print_pqr:Ignoring 2150 header lines in output.
+2024-02-28 14:07:20,946 WARNING:main.py:315:print_pqr:Ignoring 40 missing lines in output.

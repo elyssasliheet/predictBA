@@ -1,0 +1,6 @@
+2024-02-28 14:07:20,056 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for NH1.  Parsing as new residue.
+2024-02-28 14:07:20,213 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 563
+2024-02-28 14:07:20,215 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 563
+2024-02-28 14:07:20,249 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue SER A 563
+2024-02-28 14:07:22,897 WARNING:main.py:311:print_pqr:Ignoring 3183 header lines in output.
+2024-02-28 14:07:22,898 WARNING:main.py:315:print_pqr:Ignoring 72 missing lines in output.

@@ -1,0 +1,12 @@
+2024-02-28 14:07:17,532 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SAM.  Parsing as new residue.
+2024-02-28 14:07:17,846 WARNING:biomolecule.py:992:create_residue:Unable to find amino or nucleic acid definition for SAM.  Parsing as new residue.
+2024-02-28 14:07:17,872 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY A 112 and VAL A 121!
+2024-02-28 14:07:17,874 WARNING:biomolecule.py:615:update_bonds:Gap in backbone detected between GLY B 112 and VAL B 121!
+2024-02-28 14:07:17,921 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 413
+2024-02-28 14:07:18,300 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 413
+2024-02-28 14:07:18,302 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 413
+2024-02-28 14:07:18,304 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 413
+2024-02-28 14:07:18,329 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR A 413
+2024-02-28 14:07:18,331 WARNING:biomolecule.py:157:num_missing_heavy:Missing atom OXT in residue THR B 413
+2024-02-28 14:07:23,732 WARNING:main.py:311:print_pqr:Ignoring 2552 header lines in output.
+2024-02-28 14:07:23,732 WARNING:main.py:315:print_pqr:Ignoring 54 missing lines in output.
